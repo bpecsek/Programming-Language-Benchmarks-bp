@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmer/Cranelift",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "2.rs",
+  "input": "5000000",
+  "timeMS": 476.6439,
+  "timeStdDevMS": 1.0587814898898578,
+  "memBytes": 22962176,
+  "cpuTimeMS": 460.0,
+  "cpuTimeUserMS": 460.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:08:47.6405504+00:00",
+    "finished": "2021-11-13T13:08:49.6675262+00:00",
+    "durationMs": 2026
+  },
+  "testLog": {
+    "runtimeVersion": "wasmer 2.0.0",
+    "start": "2021-11-13T13:10:11.3391371+00:00",
+    "finished": "2021-11-13T13:10:11.4585685+00:00",
+    "durationMs": 119
+  }
+}

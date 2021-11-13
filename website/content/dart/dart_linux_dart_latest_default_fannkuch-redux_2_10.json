@@ -1,0 +1,28 @@
+{
+  "lang": "dart",
+  "os": "linux",
+  "compiler": "dart",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "2.dart",
+  "input": "10",
+  "timeMS": 365.8214,
+  "timeStdDevMS": 13.084059152011335,
+  "memBytes": 12812288,
+  "cpuTimeMS": 340.0,
+  "cpuTimeUserMS": 340.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "Dart SDK version: 2.14.4 (stable) (Wed Oct 13 11:11:32 2021 +0200) on \"linux_x64\"",
+    "start": "2021-11-13T13:01:23.9932893+00:00",
+    "finished": "2021-11-13T13:01:31.5272507+00:00",
+    "durationMs": 7533
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:02:43.5916657+00:00",
+    "finished": "2021-11-13T13:02:45.9659882+00:00",
+    "durationMs": 2374
+  }
+}

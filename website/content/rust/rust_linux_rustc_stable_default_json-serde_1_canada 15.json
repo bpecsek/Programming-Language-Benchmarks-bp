@@ -1,0 +1,28 @@
+{
+  "lang": "rust",
+  "os": "linux",
+  "compiler": "rustc",
+  "compilerVersion": "stable",
+  "test": "json-serde",
+  "code": "1.rs",
+  "input": "canada 15",
+  "timeMS": 898.6251,
+  "timeStdDevMS": 41.08928384725139,
+  "memBytes": 635502592,
+  "cpuTimeMS": 883.3333,
+  "cpuTimeUserMS": 623.3333,
+  "cpuTimeKernelMS": 260.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:08:24.877371+00:00",
+    "finished": "2021-11-13T13:08:32.1198976+00:00",
+    "durationMs": 7242
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:10:59.5673378+00:00",
+    "finished": "2021-11-13T13:10:59.8120504+00:00",
+    "durationMs": 244
+  }
+}

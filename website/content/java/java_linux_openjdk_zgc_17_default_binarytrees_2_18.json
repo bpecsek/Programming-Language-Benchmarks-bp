@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk/zgc",
+  "compilerVersion": "17",
+  "test": "binarytrees",
+  "code": "2.java",
+  "input": "18",
+  "timeMS": 1401.3108,
+  "timeStdDevMS": 110.61384741615012,
+  "memBytes": 1263869952,
+  "cpuTimeMS": 1603.3333,
+  "cpuTimeUserMS": 933.3333,
+  "cpuTimeKernelMS": 670.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.1",
+    "start": "2021-11-13T13:01:53.1859729+00:00",
+    "finished": "2021-11-13T13:01:56.0194922+00:00",
+    "durationMs": 2833
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
+    "start": "2021-11-13T13:19:08.4938647+00:00",
+    "finished": "2021-11-13T13:19:08.672386+00:00",
+    "durationMs": 178
+  }
+}

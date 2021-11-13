@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "graal/native",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "2.java",
+  "input": "4000",
+  "timeMS": 2846.7322,
+  "timeStdDevMS": 83.95493758870496,
+  "memBytes": 10162176,
+  "cpuTimeMS": 5253.3333,
+  "cpuTimeUserMS": 5253.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "GraalVM 21.3.0 Java 17 CE (Java Version 17.0.1+12-jvmci-21.3-b05)",
+    "start": "2021-11-13T13:17:48.1313941+00:00",
+    "finished": "2021-11-13T13:19:03.8026965+00:00",
+    "durationMs": 75671
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:19:24.3050132+00:00",
+    "finished": "2021-11-13T13:19:24.31308+00:00",
+    "durationMs": 8
+  }
+}

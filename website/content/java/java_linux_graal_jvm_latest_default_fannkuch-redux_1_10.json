@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "graal/jvm",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "1.java",
+  "input": "10",
+  "timeMS": 578.17,
+  "timeStdDevMS": 24.352758237278366,
+  "memBytes": 94097408,
+  "cpuTimeMS": 449.9999,
+  "cpuTimeUserMS": 413.3333,
+  "cpuTimeKernelMS": 36.6666,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.1",
+    "start": "2021-11-13T13:03:52.2357702+00:00",
+    "finished": "2021-11-13T13:03:55.2401604+00:00",
+    "durationMs": 3004
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
+    "start": "2021-11-13T13:19:18.4424358+00:00",
+    "finished": "2021-11-13T13:19:19.2029756+00:00",
+    "durationMs": 760
+  }
+}

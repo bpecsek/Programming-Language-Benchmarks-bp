@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmedgec",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "2.rs",
+  "input": "11",
+  "timeMS": 2557.0491,
+  "timeStdDevMS": 12.067797232442027,
+  "memBytes": 12840960,
+  "cpuTimeMS": 2539.9999,
+  "cpuTimeUserMS": 2536.6666,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:05:22.6824731+00:00",
+    "finished": "2021-11-13T13:05:26.346159+00:00",
+    "durationMs": 3663
+  },
+  "testLog": {
+    "runtimeVersion": "wasmedge version 0.8.2",
+    "start": "2021-11-13T13:09:48.5986967+00:00",
+    "finished": "2021-11-13T13:09:48.9176117+00:00",
+    "durationMs": 318
+  }
+}

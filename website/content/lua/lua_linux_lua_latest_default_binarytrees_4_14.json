@@ -1,0 +1,28 @@
+{
+  "lang": "lua",
+  "os": "linux",
+  "compiler": "lua",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "4.lua",
+  "input": "14",
+  "timeMS": 342.7829,
+  "timeStdDevMS": 0.9492826291468617,
+  "memBytes": 9592832,
+  "cpuTimeMS": 599.9998,
+  "cpuTimeUserMS": 573.3332,
+  "cpuTimeKernelMS": 26.6666,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2021-11-13T13:00:45.886044+00:00",
+    "finished": "2021-11-13T13:00:45.9049785+00:00",
+    "durationMs": 18
+  },
+  "testLog": {
+    "runtimeVersion": "Lua 5.4.3  Copyright (C) 1994-2021 Lua.org, PUC-Rio",
+    "start": "2021-11-13T13:00:48.1118054+00:00",
+    "finished": "2021-11-13T13:00:48.1532221+00:00",
+    "durationMs": 41
+  }
+}

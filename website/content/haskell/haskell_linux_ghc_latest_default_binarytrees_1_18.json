@@ -1,0 +1,28 @@
+{
+  "lang": "haskell",
+  "os": "linux",
+  "compiler": "ghc",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "1.hs",
+  "input": "18",
+  "timeMS": 1662.0361,
+  "timeStdDevMS": 28.791131555625416,
+  "memBytes": 88567808,
+  "cpuTimeMS": 2449.9999,
+  "cpuTimeUserMS": 2073.3333,
+  "cpuTimeKernelMS": 376.6666,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "The Glorious Glasgow Haskell Compilation System, version 9.0.1",
+    "start": "2021-11-13T13:00:45.283813+00:00",
+    "finished": "2021-11-13T13:01:12.541056+00:00",
+    "durationMs": 27257
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:01:25.7778175+00:00",
+    "finished": "2021-11-13T13:01:25.798893+00:00",
+    "durationMs": 21
+  }
+}

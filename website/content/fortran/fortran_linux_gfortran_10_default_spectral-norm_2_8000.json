@@ -1,0 +1,28 @@
+{
+  "lang": "fortran",
+  "os": "linux",
+  "compiler": "gfortran",
+  "compilerVersion": "10",
+  "test": "spectral-norm",
+  "code": "2.f90",
+  "input": "8000",
+  "timeMS": 3462.1065,
+  "timeStdDevMS": 0.10766937045095108,
+  "memBytes": 1196032,
+  "cpuTimeMS": 3450.0,
+  "cpuTimeUserMS": 3450.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "GNU Fortran (Ubuntu 10.3.0-1ubuntu1~20.04) 10.3.0\nCopyright (C) 2020 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
+    "start": "2021-11-13T13:00:54.2088169+00:00",
+    "finished": "2021-11-13T13:00:54.4223585+00:00",
+    "durationMs": 213
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:00:58.4323836+00:00",
+    "finished": "2021-11-13T13:00:58.4355735+00:00",
+    "durationMs": 3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "lang": "haskell",
+  "os": "linux",
+  "compiler": "ghc",
+  "compilerVersion": "latest",
+  "test": "pidigits",
+  "code": "4.hs",
+  "input": "8000",
+  "timeMS": 983.4168,
+  "timeStdDevMS": 9.932583714220547,
+  "memBytes": 13312000,
+  "cpuTimeMS": 1083.3332,
+  "cpuTimeUserMS": 996.6666,
+  "cpuTimeKernelMS": 86.6666,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "The Glorious Glasgow Haskell Compilation System, version 9.0.1",
+    "start": "2021-11-13T13:01:18.0761326+00:00",
+    "finished": "2021-11-13T13:01:23.3386946+00:00",
+    "durationMs": 5262
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:01:25.9165735+00:00",
+    "finished": "2021-11-13T13:01:25.9424025+00:00",
+    "durationMs": 25
+  }
+}

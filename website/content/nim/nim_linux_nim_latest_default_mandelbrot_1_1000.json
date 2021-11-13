@@ -1,0 +1,28 @@
+{
+  "lang": "nim",
+  "os": "linux",
+  "compiler": "nim",
+  "compilerVersion": "latest",
+  "test": "mandelbrot",
+  "code": "1.nim",
+  "input": "1000",
+  "timeMS": 38.5072,
+  "timeStdDevMS": 0.5984321626829019,
+  "memBytes": 1814528,
+  "cpuTimeMS": 30.0,
+  "cpuTimeUserMS": 30.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "Nim Compiler Version 1.6.0 [Linux: amd64]\nCompiled at 2021-10-19\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 727c6378d2464090564dbcd9bc8b9ac648467e38\nactive boot switches: -d:release -d:danger",
+    "start": "2021-11-13T13:01:36.7985586+00:00",
+    "finished": "2021-11-13T13:01:44.9426036+00:00",
+    "durationMs": 8144
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:02:37.8100874+00:00",
+    "finished": "2021-11-13T13:02:37.8452626+00:00",
+    "durationMs": 35
+  }
+}

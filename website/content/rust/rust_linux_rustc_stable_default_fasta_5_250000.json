@@ -1,0 +1,28 @@
+{
+  "lang": "rust",
+  "os": "linux",
+  "compiler": "rustc",
+  "compilerVersion": "stable",
+  "test": "fasta",
+  "code": "5.rs",
+  "input": "250000",
+  "timeMS": 57.3559,
+  "timeStdDevMS": 4.7874274097194744,
+  "memBytes": 1421312,
+  "cpuTimeMS": 33.3333,
+  "cpuTimeUserMS": 33.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:07:00.944094+00:00",
+    "finished": "2021-11-13T13:07:06.4699294+00:00",
+    "durationMs": 5525
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:10:59.4422587+00:00",
+    "finished": "2021-11-13T13:10:59.4554828+00:00",
+    "durationMs": 13
+  }
+}

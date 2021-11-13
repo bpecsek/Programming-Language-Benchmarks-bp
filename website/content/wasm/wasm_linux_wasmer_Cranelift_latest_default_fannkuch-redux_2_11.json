@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmer/Cranelift",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "2.rs",
+  "input": "11",
+  "timeMS": 3157.1083,
+  "timeStdDevMS": 219.39618922381067,
+  "memBytes": 22810624,
+  "cpuTimeMS": 3143.3333,
+  "cpuTimeUserMS": 3143.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:08:40.2943214+00:00",
+    "finished": "2021-11-13T13:08:42.179469+00:00",
+    "durationMs": 1885
+  },
+  "testLog": {
+    "runtimeVersion": "wasmer 2.0.0",
+    "start": "2021-11-13T13:10:10.6475826+00:00",
+    "finished": "2021-11-13T13:10:11.0589339+00:00",
+    "durationMs": 411
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmer/LLVM",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "1.rs",
+  "input": "14",
+  "timeMS": 54.0956,
+  "timeStdDevMS": 1.1803881522617914,
+  "memBytes": 22831104,
+  "cpuTimeMS": 43.3333,
+  "cpuTimeUserMS": 43.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:08:06.246138+00:00",
+    "finished": "2021-11-13T13:08:08.1316146+00:00",
+    "durationMs": 1885
+  },
+  "testLog": {
+    "runtimeVersion": "wasmer 2.0.0",
+    "start": "2021-11-13T13:09:54.743305+00:00",
+    "finished": "2021-11-13T13:09:55.6765476+00:00",
+    "durationMs": 933
+  }
+}

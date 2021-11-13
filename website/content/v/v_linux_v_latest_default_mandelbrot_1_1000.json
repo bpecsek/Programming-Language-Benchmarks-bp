@@ -1,0 +1,28 @@
+{
+  "lang": "v",
+  "os": "linux",
+  "compiler": "v",
+  "compilerVersion": "latest",
+  "test": "mandelbrot",
+  "code": "1.v",
+  "input": "1000",
+  "timeMS": 22.2114,
+  "timeStdDevMS": 1.0994941306497845,
+  "memBytes": 2334720,
+  "cpuTimeMS": 10.0,
+  "cpuTimeUserMS": 10.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "V 0.2.4 61b99e1",
+    "start": "2021-11-13T13:04:51.8533547+00:00",
+    "finished": "2021-11-13T13:04:57.4775296+00:00",
+    "durationMs": 5624
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:05:32.7172113+00:00",
+    "finished": "2021-11-13T13:05:32.7366403+00:00",
+    "durationMs": 19
+  }
+}

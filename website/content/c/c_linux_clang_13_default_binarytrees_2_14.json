@@ -1,0 +1,28 @@
+{
+  "lang": "c",
+  "os": "linux",
+  "compiler": "clang",
+  "compilerVersion": "13",
+  "test": "binarytrees",
+  "code": "2.c",
+  "input": "14",
+  "timeMS": 19.6851,
+  "timeStdDevMS": 2.7806690328048758,
+  "memBytes": 4960256,
+  "cpuTimeMS": 20.0,
+  "cpuTimeUserMS": 20.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "Ubuntu clang version 13.0.1-++20211110063012+9dc7d6d5e326-1~exp1~20211110183538.22\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2021-11-13T13:01:32.498725+00:00",
+    "finished": "2021-11-13T13:01:32.90918+00:00",
+    "durationMs": 410
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:02:52.4292627+00:00",
+    "finished": "2021-11-13T13:02:52.4501401+00:00",
+    "durationMs": 20
+  }
+}

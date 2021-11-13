@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "loom",
+  "compilerVersion": "latest",
+  "test": "coro-prime-sieve",
+  "code": "1.java",
+  "input": "1000",
+  "timeMS": 816.9145,
+  "timeStdDevMS": 50.76729161382688,
+  "memBytes": 120750080,
+  "cpuTimeMS": 1416.6666,
+  "cpuTimeUserMS": 1353.3333,
+  "cpuTimeKernelMS": 63.3333,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "javac 18-loom",
+    "start": "2021-11-13T13:03:41.2103755+00:00",
+    "finished": "2021-11-13T13:03:43.941031+00:00",
+    "durationMs": 2730
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"18-loom\" 2022-03-15\nOpenJDK Runtime Environment (build 18-loom+4-273)\nOpenJDK 64-Bit Server VM (build 18-loom+4-273, mixed mode, sharing)",
+    "start": "2021-11-13T13:19:16.3515042+00:00",
+    "finished": "2021-11-13T13:19:17.2259935+00:00",
+    "durationMs": 874
+  }
+}

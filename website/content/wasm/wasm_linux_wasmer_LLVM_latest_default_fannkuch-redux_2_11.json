@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmer/LLVM",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "2.rs",
+  "input": "11",
+  "timeMS": 3030.1327,
+  "timeStdDevMS": 218.34519756264336,
+  "memBytes": 21512192,
+  "cpuTimeMS": 3016.6666,
+  "cpuTimeUserMS": 3016.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:08:14.203941+00:00",
+    "finished": "2021-11-13T13:08:16.1236138+00:00",
+    "durationMs": 1919
+  },
+  "testLog": {
+    "runtimeVersion": "wasmer 2.0.0",
+    "start": "2021-11-13T13:09:59.3887174+00:00",
+    "finished": "2021-11-13T13:10:00.5991898+00:00",
+    "durationMs": 1210
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk/parallelgc",
+  "compilerVersion": "17",
+  "test": "nsieve",
+  "code": "2.java",
+  "input": "10",
+  "timeMS": 801.2344,
+  "timeStdDevMS": 6.42830575216629,
+  "memBytes": 41664512,
+  "cpuTimeMS": 826.6665,
+  "cpuTimeUserMS": 809.9999,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.1",
+    "start": "2021-11-13T13:02:48.4502501+00:00",
+    "finished": "2021-11-13T13:02:51.3765267+00:00",
+    "durationMs": 2926
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
+    "start": "2021-11-13T13:19:13.7610024+00:00",
+    "finished": "2021-11-13T13:19:13.9100727+00:00",
+    "durationMs": 149
+  }
+}

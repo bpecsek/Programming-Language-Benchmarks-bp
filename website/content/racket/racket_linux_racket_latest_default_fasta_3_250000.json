@@ -1,0 +1,28 @@
+{
+  "lang": "racket",
+  "os": "linux",
+  "compiler": "racket",
+  "compilerVersion": "latest",
+  "test": "fasta",
+  "code": "3.rkt",
+  "input": "250000",
+  "timeMS": 232.7759,
+  "timeStdDevMS": 3.0137486557441773,
+  "memBytes": 66527232,
+  "cpuTimeMS": 213.3333,
+  "cpuTimeUserMS": 163.3333,
+  "cpuTimeKernelMS": 50.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "Welcome to Racket v8.2 [cs].",
+    "start": "2021-11-13T13:02:27.7496692+00:00",
+    "finished": "2021-11-13T13:02:29.1676252+00:00",
+    "durationMs": 1417
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:02:38.4373029+00:00",
+    "finished": "2021-11-13T13:02:38.5619204+00:00",
+    "durationMs": 124
+  }
+}

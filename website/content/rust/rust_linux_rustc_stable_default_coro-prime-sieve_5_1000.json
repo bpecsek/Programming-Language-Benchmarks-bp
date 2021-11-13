@@ -1,0 +1,28 @@
+{
+  "lang": "rust",
+  "os": "linux",
+  "compiler": "rustc",
+  "compilerVersion": "stable",
+  "test": "coro-prime-sieve",
+  "code": "5.rs",
+  "input": "1000",
+  "timeMS": 122.2928,
+  "timeStdDevMS": 15.363759454964146,
+  "memBytes": 3166208,
+  "cpuTimeMS": 186.6666,
+  "cpuTimeUserMS": 176.6666,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:06:22.0638642+00:00",
+    "finished": "2021-11-13T13:06:32.3358049+00:00",
+    "durationMs": 10271
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:10:58.8115365+00:00",
+    "finished": "2021-11-13T13:10:58.9415544+00:00",
+    "durationMs": 130
+  }
+}

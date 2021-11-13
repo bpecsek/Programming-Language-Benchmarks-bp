@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmtime",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "2.rs",
+  "input": "10",
+  "timeMS": 264.7543,
+  "timeStdDevMS": 28.71981848898072,
+  "memBytes": 17653760,
+  "cpuTimeMS": 266.6666,
+  "cpuTimeUserMS": 266.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:07:48.3335233+00:00",
+    "finished": "2021-11-13T13:07:50.2524559+00:00",
+    "durationMs": 1918
+  },
+  "testLog": {
+    "runtimeVersion": "wasmtime 0.31.0",
+    "start": "2021-11-13T13:09:53.5100199+00:00",
+    "finished": "2021-11-13T13:09:53.9084465+00:00",
+    "durationMs": 398
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "lang": "chapel",
+  "os": "linux",
+  "compiler": "chpl",
+  "compilerVersion": "latest",
+  "test": "coro-prime-sieve",
+  "code": "1.chpl",
+  "input": "1000",
+  "timeMS": 289.6341,
+  "timeStdDevMS": 10.246190199939333,
+  "memBytes": 75456512,
+  "cpuTimeMS": 530.0,
+  "cpuTimeUserMS": 500.0,
+  "cpuTimeKernelMS": 30.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "chpl version 1.25.0\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
+    "start": "2021-11-13T13:01:37.0076319+00:00",
+    "finished": "2021-11-13T13:01:47.4561891+00:00",
+    "durationMs": 10448
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:03:00.504501+00:00",
+    "finished": "2021-11-13T13:03:01.1039432+00:00",
+    "durationMs": 599
+  }
+}

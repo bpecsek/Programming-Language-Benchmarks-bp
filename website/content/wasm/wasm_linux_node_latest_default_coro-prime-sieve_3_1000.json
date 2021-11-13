@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "node",
+  "compilerVersion": "latest",
+  "test": "coro-prime-sieve",
+  "code": "3.rs",
+  "input": "1000",
+  "timeMS": 230.975,
+  "timeStdDevMS": 31.53156680571602,
+  "memBytes": 45080576,
+  "cpuTimeMS": 233.3333,
+  "cpuTimeUserMS": 220.0,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:09:22.2232291+00:00",
+    "finished": "2021-11-13T13:09:25.6174472+00:00",
+    "durationMs": 3394
+  },
+  "testLog": {
+    "runtimeVersion": "v14.18.1",
+    "start": "2021-11-13T13:10:12.1428304+00:00",
+    "finished": "2021-11-13T13:10:12.3758933+00:00",
+    "durationMs": 233
+  }
+}

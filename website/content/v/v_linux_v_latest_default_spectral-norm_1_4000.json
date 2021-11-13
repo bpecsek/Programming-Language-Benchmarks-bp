@@ -1,0 +1,28 @@
+{
+  "lang": "v",
+  "os": "linux",
+  "compiler": "v",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "1.v",
+  "input": "4000",
+  "timeMS": 760.2501,
+  "timeStdDevMS": 0.8346882611690604,
+  "memBytes": 3022848,
+  "cpuTimeMS": 750.0,
+  "cpuTimeUserMS": 750.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "V 0.2.4 61b99e1",
+    "start": "2021-11-13T13:05:19.5135469+00:00",
+    "finished": "2021-11-13T13:05:25.0275587+00:00",
+    "durationMs": 5514
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:05:32.789514+00:00",
+    "finished": "2021-11-13T13:05:32.7962965+00:00",
+    "durationMs": 6
+  }
+}

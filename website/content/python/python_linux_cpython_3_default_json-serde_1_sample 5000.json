@@ -1,0 +1,28 @@
+{
+  "lang": "python",
+  "os": "linux",
+  "compiler": "cpython",
+  "compilerVersion": "3",
+  "test": "json-serde",
+  "code": "1.py",
+  "input": "sample 5000",
+  "timeMS": 270.6503,
+  "timeStdDevMS": 18.17197884940804,
+  "memBytes": 40628224,
+  "cpuTimeMS": 260.0,
+  "cpuTimeUserMS": 250.0,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2021-11-13T13:02:10.9407461+00:00",
+    "finished": "2021-11-13T13:02:10.9476051+00:00",
+    "durationMs": 6
+  },
+  "testLog": {
+    "runtimeVersion": "Python 3.10.0",
+    "start": "2021-11-13T13:02:31.1226763+00:00",
+    "finished": "2021-11-13T13:02:31.9464576+00:00",
+    "durationMs": 823
+  }
+}

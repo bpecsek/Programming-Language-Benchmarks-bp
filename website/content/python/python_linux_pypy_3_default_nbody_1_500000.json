@@ -1,0 +1,28 @@
+{
+  "lang": "python",
+  "os": "linux",
+  "compiler": "pypy",
+  "compilerVersion": "3",
+  "test": "nbody",
+  "code": "1.py",
+  "input": "500000",
+  "timeMS": 505.7038,
+  "timeStdDevMS": 6.132918163756446,
+  "memBytes": 77336576,
+  "cpuTimeMS": 486.6666,
+  "cpuTimeUserMS": 466.6666,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2021-11-13T13:02:22.8444393+00:00",
+    "finished": "2021-11-13T13:02:23.3944122+00:00",
+    "durationMs": 549
+  },
+  "testLog": {
+    "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
+    "start": "2021-11-13T13:02:39.8516277+00:00",
+    "finished": "2021-11-13T13:02:40.1443829+00:00",
+    "durationMs": 292
+  }
+}

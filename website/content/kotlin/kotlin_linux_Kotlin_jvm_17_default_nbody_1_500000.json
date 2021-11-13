@@ -1,0 +1,28 @@
+{
+  "lang": "kotlin",
+  "os": "linux",
+  "compiler": "Kotlin/jvm",
+  "compilerVersion": "17",
+  "test": "nbody",
+  "code": "1.kt",
+  "input": "500000",
+  "timeMS": 131.7788,
+  "timeStdDevMS": 3.5082734005965337,
+  "memBytes": 40583168,
+  "cpuTimeMS": 163.3333,
+  "cpuTimeUserMS": 150.0,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2021-11-13T13:03:39.7061551+00:00",
+    "finished": "2021-11-13T13:03:48.4666898+00:00",
+    "durationMs": 8760
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
+    "start": "2021-11-13T13:07:25.8263037+00:00",
+    "finished": "2021-11-13T13:07:26.022351+00:00",
+    "durationMs": 196
+  }
+}

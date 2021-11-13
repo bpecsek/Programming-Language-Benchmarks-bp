@@ -1,0 +1,28 @@
+{
+  "lang": "ruby",
+  "os": "linux",
+  "compiler": "ruby/jit",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "2.rb",
+  "input": "500000",
+  "timeMS": 2527.1571,
+  "timeStdDevMS": 31.79337913250694,
+  "memBytes": 108642304,
+  "cpuTimeMS": 4776.6666,
+  "cpuTimeUserMS": 4593.3333,
+  "cpuTimeKernelMS": 183.3333,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2021-11-13T13:02:45.3051047+00:00",
+    "finished": "2021-11-13T13:02:45.3097345+00:00",
+    "durationMs": 4
+  },
+  "testLog": {
+    "runtimeVersion": "ruby 3.0.2p107 (2021-07-07 revision 0db68f0233) [x86_64-linux]",
+    "start": "2021-11-13T13:03:10.1470755+00:00",
+    "finished": "2021-11-13T13:03:12.0811545+00:00",
+    "durationMs": 1934
+  }
+}

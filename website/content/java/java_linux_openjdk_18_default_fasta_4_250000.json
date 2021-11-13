@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk",
+  "compilerVersion": "18",
+  "test": "fasta",
+  "code": "4.java",
+  "input": "250000",
+  "timeMS": 136.6795,
+  "timeStdDevMS": 9.580439341352436,
+  "memBytes": 37986304,
+  "cpuTimeMS": 123.3333,
+  "cpuTimeUserMS": 103.3333,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "javac 18-ea",
+    "start": "2021-11-13T13:03:18.5158283+00:00",
+    "finished": "2021-11-13T13:03:21.248478+00:00",
+    "durationMs": 2732
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-15\nOpenJDK Runtime Environment (build 18-ea+23-1525)\nOpenJDK 64-Bit Server VM (build 18-ea+23-1525, mixed mode, sharing)",
+    "start": "2021-11-13T13:19:14.9229031+00:00",
+    "finished": "2021-11-13T13:19:15.027439+00:00",
+    "durationMs": 104
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk",
+  "compilerVersion": "18",
+  "test": "spectral-norm",
+  "code": "2.java",
+  "input": "1000",
+  "timeMS": 218.0806,
+  "timeStdDevMS": 4.798593863831352,
+  "memBytes": 39010304,
+  "cpuTimeMS": 329.9999,
+  "cpuTimeUserMS": 316.6666,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "javac 18-ea",
+    "start": "2021-11-13T13:03:38.4026927+00:00",
+    "finished": "2021-11-13T13:03:41.2083449+00:00",
+    "durationMs": 2805
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-15\nOpenJDK Runtime Environment (build 18-ea+23-1525)\nOpenJDK 64-Bit Server VM (build 18-ea+23-1525, mixed mode, sharing)",
+    "start": "2021-11-13T13:19:16.2032421+00:00",
+    "finished": "2021-11-13T13:19:16.3494872+00:00",
+    "durationMs": 146
+  }
+}

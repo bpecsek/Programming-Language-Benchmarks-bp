@@ -1,0 +1,28 @@
+{
+  "lang": "typescript",
+  "os": "linux",
+  "compiler": "deno",
+  "compilerVersion": "latest",
+  "test": "fasta",
+  "code": "1.ts",
+  "input": "250000",
+  "timeMS": 715.3135,
+  "timeStdDevMS": 97.3191088864018,
+  "memBytes": 38961152,
+  "cpuTimeMS": 626.6666,
+  "cpuTimeUserMS": 486.6666,
+  "cpuTimeKernelMS": 140.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "deno 1.16.1 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.2\ntypescript 4.4.2",
+    "start": "2021-11-13T13:02:53.6467451+00:00",
+    "finished": "2021-11-13T13:02:54.3325383+00:00",
+    "durationMs": 685
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:03:04.0665392+00:00",
+    "finished": "2021-11-13T13:03:04.0925819+00:00",
+    "durationMs": 26
+  }
+}

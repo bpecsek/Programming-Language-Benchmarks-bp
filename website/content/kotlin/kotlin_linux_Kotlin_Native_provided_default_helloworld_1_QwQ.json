@@ -1,0 +1,28 @@
+{
+  "lang": "kotlin",
+  "os": "linux",
+  "compiler": "Kotlin/Native",
+  "compilerVersion": "provided",
+  "test": "helloworld",
+  "code": "1.kt",
+  "input": "QwQ",
+  "timeMS": 4.9186,
+  "timeStdDevMS": 4.516330026359899,
+  "memBytes": 2461696,
+  "cpuTimeMS": 0.0,
+  "cpuTimeUserMS": 0.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.5.31 (JRE 11.0.11+9)\n\nBUILD SUCCESSFUL in 884ms\n1 actionable task: 1 executed",
+    "start": "2021-11-13T13:05:30.3628033+00:00",
+    "finished": "2021-11-13T13:06:18.4468493+00:00",
+    "durationMs": 48084
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:07:26.2717587+00:00",
+    "finished": "2021-11-13T13:07:26.2776774+00:00",
+    "durationMs": 5
+  }
+}

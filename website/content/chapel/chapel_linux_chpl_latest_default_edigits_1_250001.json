@@ -1,0 +1,28 @@
+{
+  "lang": "chapel",
+  "os": "linux",
+  "compiler": "chpl",
+  "compilerVersion": "latest",
+  "test": "edigits",
+  "code": "1.chpl",
+  "input": "250001",
+  "timeMS": 90.295,
+  "timeStdDevMS": 0.6730187020680442,
+  "memBytes": 37867520,
+  "cpuTimeMS": 79.9999,
+  "cpuTimeUserMS": 73.3333,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "chpl version 1.25.0\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
+    "start": "2021-11-13T13:01:47.4621011+00:00",
+    "finished": "2021-11-13T13:01:57.9042099+00:00",
+    "durationMs": 10442
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:03:01.1050105+00:00",
+    "finished": "2021-11-13T13:03:01.1355192+00:00",
+    "durationMs": 30
+  }
+}

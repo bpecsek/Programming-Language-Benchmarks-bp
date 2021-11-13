@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "graal/jvm",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "2.java",
+  "input": "18",
+  "timeMS": 1092.7279,
+  "timeStdDevMS": 8.158266015112078,
+  "memBytes": 510042112,
+  "cpuTimeMS": 1000.0,
+  "cpuTimeUserMS": 830.0,
+  "cpuTimeKernelMS": 170.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.1",
+    "start": "2021-11-13T13:03:46.1696255+00:00",
+    "finished": "2021-11-13T13:03:49.0122661+00:00",
+    "durationMs": 2842
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
+    "start": "2021-11-13T13:19:17.3813001+00:00",
+    "finished": "2021-11-13T13:19:17.8620709+00:00",
+    "durationMs": 480
+  }
+}

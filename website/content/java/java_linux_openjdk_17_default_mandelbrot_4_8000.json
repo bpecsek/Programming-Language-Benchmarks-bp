@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk",
+  "compilerVersion": "17",
+  "test": "mandelbrot",
+  "code": "4.java",
+  "input": "8000",
+  "timeMS": 2029.898,
+  "timeStdDevMS": 76.22188858945505,
+  "memBytes": 52400128,
+  "cpuTimeMS": 3740.0,
+  "cpuTimeUserMS": 3730.0,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.1",
+    "start": "2021-11-13T13:01:35.9557142+00:00",
+    "finished": "2021-11-13T13:01:38.9113045+00:00",
+    "durationMs": 2955
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
+    "start": "2021-11-13T13:19:07.2299659+00:00",
+    "finished": "2021-11-13T13:19:07.6554005+00:00",
+    "durationMs": 425
+  }
+}

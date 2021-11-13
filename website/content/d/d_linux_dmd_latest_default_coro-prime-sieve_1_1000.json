@@ -1,0 +1,28 @@
+{
+  "lang": "d",
+  "os": "linux",
+  "compiler": "dmd",
+  "compilerVersion": "latest",
+  "test": "coro-prime-sieve",
+  "code": "1.d",
+  "input": "1000",
+  "timeMS": 1581.6039,
+  "timeStdDevMS": 75.36547045092992,
+  "memBytes": 9617408,
+  "cpuTimeMS": 1566.6666,
+  "cpuTimeUserMS": 1563.3333,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "DMD64 D Compiler v2.096.1\nCopyright (C) 1999-2021 by The D Language Foundation, All Rights Reserved written by Walter Bright",
+    "start": "2021-11-13T13:00:40.1851751+00:00",
+    "finished": "2021-11-13T13:00:58.8479532+00:00",
+    "durationMs": 18662
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:02:06.0106931+00:00",
+    "finished": "2021-11-13T13:02:08.1869034+00:00",
+    "durationMs": 2176
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "deno",
+  "compilerVersion": "latest",
+  "test": "helloworld",
+  "code": "1.rs",
+  "input": "QwQ",
+  "timeMS": 28.8937,
+  "timeStdDevMS": 1.5244203554138183,
+  "memBytes": 34701312,
+  "cpuTimeMS": 20.0,
+  "cpuTimeUserMS": 20.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "deno 1.16.1 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.2\ntypescript 4.4.2",
+    "start": "2021-11-13T13:07:16.3197546+00:00",
+    "finished": "2021-11-13T13:07:19.1318125+00:00",
+    "durationMs": 2812
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:09:52.4344008+00:00",
+    "finished": "2021-11-13T13:09:52.5092116+00:00",
+    "durationMs": 74
+  }
+}

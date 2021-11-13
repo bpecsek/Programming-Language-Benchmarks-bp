@@ -1,0 +1,28 @@
+{
+  "lang": "java",
+  "os": "linux",
+  "compiler": "graal/native",
+  "compilerVersion": "latest",
+  "test": "mandelbrot",
+  "code": "4.java",
+  "input": "1000",
+  "timeMS": 38.8791,
+  "timeStdDevMS": 0.9906209382671711,
+  "memBytes": 11235328,
+  "cpuTimeMS": 60.0,
+  "cpuTimeUserMS": 60.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "GraalVM 21.3.0 Java 17 CE (Java Version 17.0.1+12-jvmci-21.3-b05)",
+    "start": "2021-11-13T13:11:33.0682547+00:00",
+    "finished": "2021-11-13T13:12:48.0143756+00:00",
+    "durationMs": 74946
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:19:24.2255088+00:00",
+    "finished": "2021-11-13T13:19:24.248603+00:00",
+    "durationMs": 23
+  }
+}

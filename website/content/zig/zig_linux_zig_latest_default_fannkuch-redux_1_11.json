@@ -1,0 +1,28 @@
+{
+  "lang": "zig",
+  "os": "linux",
+  "compiler": "zig",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "1.zig",
+  "input": "11",
+  "timeMS": 3204.1261,
+  "timeStdDevMS": 9.89053379297614,
+  "memBytes": 114688,
+  "cpuTimeMS": 3193.3333,
+  "cpuTimeUserMS": 3193.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "0.9.0-dev.1622+71388b980",
+    "start": "2021-11-13T13:03:54.4718185+00:00",
+    "finished": "2021-11-13T13:04:04.0748582+00:00",
+    "durationMs": 9603
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-11-13T13:05:34.6666308+00:00",
+    "finished": "2021-11-13T13:05:34.9371773+00:00",
+    "durationMs": 270
+  }
+}

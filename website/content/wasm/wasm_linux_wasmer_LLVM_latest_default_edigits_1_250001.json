@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmer/LLVM",
+  "compilerVersion": "latest",
+  "test": "edigits",
+  "code": "1.rs",
+  "input": "250001",
+  "timeMS": 423.7421,
+  "timeStdDevMS": 2.6491682550063835,
+  "memBytes": 23789568,
+  "cpuTimeMS": 406.6666,
+  "cpuTimeUserMS": 396.6666,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1452647389",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-11-13T13:08:11.4562894+00:00",
+    "finished": "2021-11-13T13:08:14.1899628+00:00",
+    "durationMs": 2733
+  },
+  "testLog": {
+    "runtimeVersion": "wasmer 2.0.0",
+    "start": "2021-11-13T13:09:57.3549314+00:00",
+    "finished": "2021-11-13T13:09:59.3863438+00:00",
+    "durationMs": 2031
+  }
+}
