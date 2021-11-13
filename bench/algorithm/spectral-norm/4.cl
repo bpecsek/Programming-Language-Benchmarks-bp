@@ -39,7 +39,7 @@
                 eval-A-times-u eval-At-times-u))
 (defun eval-A-times-u (src dst begin end length)
   (loop for i of-type u32 from begin below end by 4
-        with src-0 of-type f64 = (aref src 0)
+        with src-0 of-type f64 = (f64-aref src 0)
 	do (let* ((ti0   (f64.2+ i (make-f64.2 0 1)))
 		  (ti1   (f64.2+ i (make-f64.2 2 3)))
 		  (eA0   (eval-A ti0 (f64.2 0)))
@@ -47,7 +47,7 @@
 		  (sum0  (f64.2/ src-0 eA0))
 		  (sum1  (f64.2/ src-0 eA1)))
 	     (loop for j of-type u32 from 1 below length
-                   for src-j of-type f64 = (aref src j)
+                   for src-j of-type f64 = (f64-aref src j)
 		   do (let ((idx0 (f64.2+ eA0 ti0 j))
 			    (idx1 (f64.2+ eA1 ti1 j)))
 			(setf eA0 idx0 eA1 idx1)
@@ -58,7 +58,7 @@
 
 (defun eval-At-times-u (src dst begin end length)
   (loop for i of-type u32 from begin below end by 4
-        with src-0 of-type f64 = (aref src 0)
+        with src-0 of-type f64 = (f64-aref src 0)
 	do (let* ((ti0   (f64.2+ i (make-f64.2 1 2)))
 		  (ti1   (f64.2+ i (make-f64.2 3 4)))
                   (eAt0  (eval-A (f64.2 0) (f64.2- ti0 1)))
@@ -66,7 +66,7 @@
                   (sum0  (f64.2/ src-0 eAt0))
 		  (sum1  (f64.2/ src-0 eAt1)))
 	     (loop for j of-type u32 from 1 below length
-                   for src-j of-type f64 = (aref src j)
+                   for src-j of-type f64 = (f64-aref src j)
                    do (let ((idx0  (f64.2+ eAt0 ti0 j))
 			    (idx1  (f64.2+ eAt1 ti1 j)))
 			(setf eAt0 idx0 eAt1 idx1)
