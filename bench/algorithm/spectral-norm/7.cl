@@ -30,7 +30,7 @@
 (declaim (ftype (function (f64.4) f64.4) eval-A)
          (inline eval-A))
 (defun eval-A (i)
-  (f64.4+ (f64.4* i (f64.4+ i 1) 0.5) 1))
+  (sb-simd-avx2::f64.4-fmadd231 (f64.4 1) (f64.4* i 0.5) (f64.4+ i 1)))
 
 (declaim (ftype (function (f64vec f64vec u32 u32 u32) null)
                 eval-A-times-u eval-At-times-u))
