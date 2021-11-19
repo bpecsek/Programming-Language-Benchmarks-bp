@@ -6,23 +6,23 @@
   "test": "nsieve",
   "code": "4.cl",
   "input": "10",
-  "timeMS": 65.2359,
-  "timeStdDevMS": 3.792666597966836,
-  "memBytes": 27598848,
-  "cpuTimeMS": 50.0,
-  "cpuTimeUserMS": 50.0,
+  "timeMS": 74.9995,
+  "timeStdDevMS": 0.8137892171809593,
+  "memBytes": 30789632,
+  "cpuTimeMS": 63.3333,
+  "cpuTimeUserMS": 63.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1452647389",
+  "githubRunId": "1481630503",
   "buildLog": {
-    "compilerVersion": "SBCL 2.1.10",
-    "start": "2021-11-13T13:07:16.5180651+00:00",
-    "finished": "2021-11-13T13:07:19.2551674+00:00",
-    "durationMs": 2737
+    "compilerVersion": "SBCL 2.1.10.183-cff899b93",
+    "start": "2021-11-19T15:36:42.1963876+00:00",
+    "finished": "2021-11-19T15:36:44.7756152+00:00",
+    "durationMs": 2579
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-13T13:07:57.630007+00:00",
-    "finished": "2021-11-13T13:07:57.6530887+00:00",
-    "durationMs": 23
+    "start": "2021-11-19T15:37:18.1576385+00:00",
+    "finished": "2021-11-19T15:37:18.1688993+00:00",
+    "durationMs": 11
   }
 }

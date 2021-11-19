@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "2.rs",
   "input": "4000",
-  "timeMS": 799.3993,
-  "timeStdDevMS": 57.988308606218105,
-  "memBytes": 22560768,
-  "cpuTimeMS": 783.3333,
-  "cpuTimeUserMS": 783.3333,
+  "timeMS": 868.2646,
+  "timeStdDevMS": 1.0344408650731314,
+  "memBytes": 22700032,
+  "cpuTimeMS": 853.3333,
+  "cpuTimeUserMS": 853.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1452647389",
+  "githubRunId": "1481630503",
   "buildLog": {
     "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-11-13T13:08:30.0690282+00:00",
-    "finished": "2021-11-13T13:08:32.2363177+00:00",
-    "durationMs": 2167
+    "start": "2021-11-19T15:38:52.982991+00:00",
+    "finished": "2021-11-19T15:38:54.9535555+00:00",
+    "durationMs": 1970
   },
   "testLog": {
     "runtimeVersion": "wasmer 2.0.0",
-    "start": "2021-11-13T13:10:08.8064695+00:00",
-    "finished": "2021-11-13T13:10:10.1452945+00:00",
-    "durationMs": 1338
+    "start": "2021-11-19T15:40:22.0274433+00:00",
+    "finished": "2021-11-19T15:40:23.2286036+00:00",
+    "durationMs": 1201
   }
 }

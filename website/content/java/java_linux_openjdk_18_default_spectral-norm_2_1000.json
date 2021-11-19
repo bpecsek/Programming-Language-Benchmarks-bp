@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "2.java",
   "input": "1000",
-  "timeMS": 218.0806,
-  "timeStdDevMS": 4.798593863831352,
-  "memBytes": 39010304,
-  "cpuTimeMS": 329.9999,
-  "cpuTimeUserMS": 316.6666,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1452647389",
+  "timeMS": 229.8241,
+  "timeStdDevMS": 4.490591411310223,
+  "memBytes": 39022592,
+  "cpuTimeMS": 349.9999,
+  "cpuTimeUserMS": 333.3333,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1481630503",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2021-11-13T13:03:38.4026927+00:00",
-    "finished": "2021-11-13T13:03:41.2083449+00:00",
-    "durationMs": 2805
+    "start": "2021-11-19T15:34:54.1470968+00:00",
+    "finished": "2021-11-19T15:34:57.1061213+00:00",
+    "durationMs": 2959
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"18-ea\" 2022-03-15\nOpenJDK Runtime Environment (build 18-ea+23-1525)\nOpenJDK 64-Bit Server VM (build 18-ea+23-1525, mixed mode, sharing)",
-    "start": "2021-11-13T13:19:16.2032421+00:00",
-    "finished": "2021-11-13T13:19:16.3494872+00:00",
-    "durationMs": 146
+    "start": "2021-11-19T15:51:08.9115015+00:00",
+    "finished": "2021-11-19T15:51:09.0522192+00:00",
+    "durationMs": 140
   }
 }

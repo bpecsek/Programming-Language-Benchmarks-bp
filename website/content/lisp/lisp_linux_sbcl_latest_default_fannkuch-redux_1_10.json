@@ -6,23 +6,23 @@
   "test": "fannkuch-redux",
   "code": "1.cl",
   "input": "10",
-  "timeMS": 137.6818,
-  "timeStdDevMS": 1.0796199624559324,
-  "memBytes": 43216896,
-  "cpuTimeMS": 223.3333,
-  "cpuTimeUserMS": 220.0,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1452647389",
+  "timeMS": 179.3916,
+  "timeStdDevMS": 58.839687876211556,
+  "memBytes": 43954176,
+  "cpuTimeMS": 250.0,
+  "cpuTimeUserMS": 240.0,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1481630503",
   "buildLog": {
-    "compilerVersion": "SBCL 2.1.10",
-    "start": "2021-11-13T13:06:36.8025466+00:00",
-    "finished": "2021-11-13T13:06:39.5918441+00:00",
-    "durationMs": 2789
+    "compilerVersion": "SBCL 2.1.10.183-cff899b93",
+    "start": "2021-11-19T15:36:11.1476901+00:00",
+    "finished": "2021-11-19T15:36:13.2294082+00:00",
+    "durationMs": 2081
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-13T13:07:57.1286324+00:00",
-    "finished": "2021-11-13T13:07:57.3341311+00:00",
-    "durationMs": 205
+    "start": "2021-11-19T15:37:17.7987685+00:00",
+    "finished": "2021-11-19T15:37:17.9569722+00:00",
+    "durationMs": 158
   }
 }

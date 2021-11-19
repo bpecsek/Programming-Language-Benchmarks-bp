@@ -6,23 +6,23 @@
   "test": "json-serde",
   "code": "1.py",
   "input": "sample 5000",
-  "timeMS": 270.6503,
-  "timeStdDevMS": 18.17197884940804,
-  "memBytes": 40628224,
+  "timeMS": 294.3035,
+  "timeStdDevMS": 25.668657335422402,
+  "memBytes": 40824832,
   "cpuTimeMS": 260.0,
-  "cpuTimeUserMS": 250.0,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1452647389",
+  "cpuTimeUserMS": 240.0,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1481630503",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-11-13T13:02:10.9407461+00:00",
-    "finished": "2021-11-13T13:02:10.9476051+00:00",
-    "durationMs": 6
+    "start": "2021-11-19T15:33:07.7506414+00:00",
+    "finished": "2021-11-19T15:33:07.7585966+00:00",
+    "durationMs": 7
   },
   "testLog": {
     "runtimeVersion": "Python 3.10.0",
-    "start": "2021-11-13T13:02:31.1226763+00:00",
-    "finished": "2021-11-13T13:02:31.9464576+00:00",
+    "start": "2021-11-19T15:33:34.1223009+00:00",
+    "finished": "2021-11-19T15:33:34.9453241+00:00",
     "durationMs": 823
   }
 }

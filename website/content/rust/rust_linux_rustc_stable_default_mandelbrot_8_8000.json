@@ -6,23 +6,23 @@
   "test": "mandelbrot",
   "code": "8.rs",
   "input": "8000",
-  "timeMS": 475.2562,
-  "timeStdDevMS": 9.641937509131713,
-  "memBytes": 8605696,
-  "cpuTimeMS": 893.3333,
-  "cpuTimeUserMS": 893.3333,
-  "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1452647389",
+  "timeMS": 492.7834,
+  "timeStdDevMS": 1.4977899596850264,
+  "memBytes": 8409088,
+  "cpuTimeMS": 933.3333,
+  "cpuTimeUserMS": 930.0,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1481630503",
   "buildLog": {
     "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-11-13T13:08:32.1222956+00:00",
-    "finished": "2021-11-13T13:08:38.8025582+00:00",
-    "durationMs": 6680
+    "start": "2021-11-19T15:40:34.4551157+00:00",
+    "finished": "2021-11-19T15:40:41.8863637+00:00",
+    "durationMs": 7431
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-13T13:10:59.8152599+00:00",
-    "finished": "2021-11-13T13:10:59.8301282+00:00",
-    "durationMs": 14
+    "start": "2021-11-19T15:41:58.8037918+00:00",
+    "finished": "2021-11-19T15:41:58.8237146+00:00",
+    "durationMs": 19
   }
 }

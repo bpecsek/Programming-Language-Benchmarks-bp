@@ -6,23 +6,23 @@
   "test": "coro-prime-sieve",
   "code": "1.rb",
   "input": "1000",
-  "timeMS": 305.4509,
-  "timeStdDevMS": 0.9962293109520213,
-  "memBytes": 43933696,
-  "cpuTimeMS": 293.3332,
+  "timeMS": 298.3314,
+  "timeStdDevMS": 1.1351183301018717,
+  "memBytes": 43950080,
+  "cpuTimeMS": 283.3332,
   "cpuTimeUserMS": 266.6666,
-  "cpuTimeKernelMS": 26.6666,
-  "githubRunId": "1452647389",
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1481630503",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-11-13T13:02:45.2277127+00:00",
-    "finished": "2021-11-13T13:02:45.2310036+00:00",
-    "durationMs": 3
+    "start": "2021-11-19T15:33:08.3198085+00:00",
+    "finished": "2021-11-19T15:33:08.3227841+00:00",
+    "durationMs": 2
   },
   "testLog": {
     "runtimeVersion": "ruby 3.0.2p107 (2021-07-07 revision 0db68f0233) [x86_64-linux]",
-    "start": "2021-11-13T13:03:02.5744576+00:00",
-    "finished": "2021-11-13T13:03:02.9458129+00:00",
-    "durationMs": 371
+    "start": "2021-11-19T15:33:24.4497701+00:00",
+    "finished": "2021-11-19T15:33:24.8431754+00:00",
+    "durationMs": 393
   }
 }

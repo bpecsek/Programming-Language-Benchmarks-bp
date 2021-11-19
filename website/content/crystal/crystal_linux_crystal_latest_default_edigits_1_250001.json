@@ -6,23 +6,23 @@
   "test": "edigits",
   "code": "1.cr",
   "input": "250001",
-  "timeMS": 86.8175,
-  "timeStdDevMS": 3.565075916442736,
-  "memBytes": 7614464,
-  "cpuTimeMS": 73.3333,
-  "cpuTimeUserMS": 60.0,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1452647389",
+  "timeMS": 84.2642,
+  "timeStdDevMS": 0.8255471478561036,
+  "memBytes": 7098368,
+  "cpuTimeMS": 73.3332,
+  "cpuTimeUserMS": 66.6666,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1481630503",
   "buildLog": {
     "compilerVersion": "Crystal 1.2.2 [6529d725a] (2021-11-10)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2021-11-13T13:01:24.6734755+00:00",
-    "finished": "2021-11-13T13:01:37.4867272+00:00",
-    "durationMs": 12813
+    "start": "2021-11-19T15:32:15.3138509+00:00",
+    "finished": "2021-11-19T15:32:28.5033319+00:00",
+    "durationMs": 13189
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-13T13:04:11.9454371+00:00",
-    "finished": "2021-11-13T13:04:11.9547782+00:00",
+    "start": "2021-11-19T15:35:07.2325642+00:00",
+    "finished": "2021-11-19T15:35:07.2420189+00:00",
     "durationMs": 9
   }
 }

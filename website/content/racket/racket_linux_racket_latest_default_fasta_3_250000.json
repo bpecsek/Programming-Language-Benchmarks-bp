@@ -6,23 +6,23 @@
   "test": "fasta",
   "code": "3.rkt",
   "input": "250000",
-  "timeMS": 232.7759,
-  "timeStdDevMS": 3.0137486557441773,
-  "memBytes": 66527232,
-  "cpuTimeMS": 213.3333,
+  "timeMS": 252.8505,
+  "timeStdDevMS": 12.772591184642211,
+  "memBytes": 65474560,
+  "cpuTimeMS": 206.6666,
   "cpuTimeUserMS": 163.3333,
-  "cpuTimeKernelMS": 50.0,
-  "githubRunId": "1452647389",
+  "cpuTimeKernelMS": 43.3333,
+  "githubRunId": "1481630503",
   "buildLog": {
-    "compilerVersion": "Welcome to Racket v8.2 [cs].",
-    "start": "2021-11-13T13:02:27.7496692+00:00",
-    "finished": "2021-11-13T13:02:29.1676252+00:00",
-    "durationMs": 1417
+    "compilerVersion": "Welcome to Racket v8.3 [cs].",
+    "start": "2021-11-19T15:33:14.2816533+00:00",
+    "finished": "2021-11-19T15:33:16.00123+00:00",
+    "durationMs": 1719
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-13T13:02:38.4373029+00:00",
-    "finished": "2021-11-13T13:02:38.5619204+00:00",
-    "durationMs": 124
+    "start": "2021-11-19T15:33:28.5874306+00:00",
+    "finished": "2021-11-19T15:33:28.7513584+00:00",
+    "durationMs": 163
   }
 }

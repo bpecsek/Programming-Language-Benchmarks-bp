@@ -27,18 +27,16 @@
   (ql:quickload :sb-simd)
   (use-package :sb-simd-avx2))
 
-(declaim (ftype (function (f64.4) f64.4) eval-A)
-         (inline eval-A))
-(defun eval-A (i)
-  (sb-simd-avx2::f64.4-fmadd231 (f64.4 1) (f64.4* i 0.5) (f64.4+ i 1)))
+(defmacro eval-A (i)
+  `(sb-simd-avx2::f64.4-fmadd231 (f64.4 1) (f64.4* ,i 0.5) (f64.4+ ,i 1)))
 
 (declaim (ftype (function (f64vec f64vec u32 u32 u32) null)
                 eval-A-times-u eval-At-times-u))
 (defun eval-A-times-u (src dst begin end length)
   (loop for i from begin below end by 4
-        do (let* ((ti    (f64.4+ i (make-f64.4 0 1 2 3)))
-                  (eA    (f64.4+ (eval-A ti) ti))
-		  (sum   (f64.4/ (f64-aref src 0) eA)))
+        do (let* ((ti  (f64.4+ i (make-f64.4 0 1 2 3)))
+                  (eA  (f64.4+ (eval-A ti) ti))
+		  (sum (f64.4/ (f64-aref src 0) eA)))
 	     (loop for j from 1 below length
 		   do (let ((idx (f64.4+ eA ti j)))
 			(setf eA idx)
@@ -47,9 +45,9 @@
 
 (defun eval-At-times-u (src dst begin end length)
   (loop for i from begin below end by 4
-        do (let* ((ti    (f64.4+ i (make-f64.4 1 2 3 4)))
-                  (eAt   (eval-A (f64.4- ti 1)))
-		  (sum   (f64.4/ (f64-aref src 0) eAt)))
+        do (let* ((ti  (f64.4+ i (make-f64.4 1 2 3 4)))
+                  (eAt (eval-A (f64.4- ti 1)))
+		  (sum (f64.4/ (f64-aref src 0) eAt)))
 	     (loop for j from 1 below length
                    do (let ((idx (f64.4+ eAt ti j)))
 			(setf eAt idx)
@@ -63,7 +61,7 @@
 (declaim (ftype (function (u32 u32 function) null) execute-parallel))
 #+sb-thread
 (defun execute-parallel (start end function)
-  (declare (optimize (speed 0)))
+  ;(declare (optimize (speed 0)))
   (let* ((n    (truncate (- end start) (get-thread-count)))
          (step (- n (mod n 2))))
     (declare (type u32 n step))

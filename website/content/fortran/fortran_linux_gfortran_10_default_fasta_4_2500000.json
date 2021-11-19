@@ -6,23 +6,23 @@
   "test": "fasta",
   "code": "4.f90",
   "input": "2500000",
-  "timeMS": 226.2321,
-  "timeStdDevMS": 3.7692784194502456,
+  "timeMS": 283.9973,
+  "timeStdDevMS": 65.62082457444437,
   "memBytes": 8192,
   "cpuTimeMS": 166.6666,
-  "cpuTimeUserMS": 153.3333,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1452647389",
+  "cpuTimeUserMS": 156.6666,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1481630503",
   "buildLog": {
     "compilerVersion": "GNU Fortran (Ubuntu 10.3.0-1ubuntu1~20.04) 10.3.0\nCopyright (C) 2020 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
-    "start": "2021-11-13T13:00:51.0635613+00:00",
-    "finished": "2021-11-13T13:00:53.7218085+00:00",
-    "durationMs": 2658
+    "start": "2021-11-19T15:31:40.092417+00:00",
+    "finished": "2021-11-19T15:31:43.5239435+00:00",
+    "durationMs": 3431
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-13T13:00:58.3157484+00:00",
-    "finished": "2021-11-13T13:00:58.3225436+00:00",
-    "durationMs": 6
+    "start": "2021-11-19T15:31:48.0775838+00:00",
+    "finished": "2021-11-19T15:31:48.0870627+00:00",
+    "durationMs": 9
   }
 }
