@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "5.c",
   "input": "1000",
-  "timeMS": 38.2885,
-  "timeStdDevMS": 0.582462224812335,
-  "memBytes": 3350528,
-  "cpuTimeMS": 60.0,
-  "cpuTimeUserMS": 60.0,
+  "timeMS": 46.4643,
+  "timeStdDevMS": 1.2306312215011133,
+  "memBytes": 3362816,
+  "cpuTimeMS": 70.0,
+  "cpuTimeUserMS": 70.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1481630503",
+  "githubRunId": "1490760756",
   "buildLog": {
     "compilerVersion": "Ubuntu clang version 13.0.1-++20211110063012+9dc7d6d5e326-1~exp1~20211110183538.22\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2021-11-19T15:32:19.5209655+00:00",
-    "finished": "2021-11-19T15:32:19.7744958+00:00",
-    "durationMs": 253
+    "start": "2021-11-22T15:01:45.2725759+00:00",
+    "finished": "2021-11-22T15:01:45.5419948+00:00",
+    "durationMs": 269
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-19T15:33:42.0110694+00:00",
-    "finished": "2021-11-19T15:33:42.0152918+00:00",
+    "start": "2021-11-22T15:03:19.8329265+00:00",
+    "finished": "2021-11-22T15:03:19.8379121+00:00",
     "durationMs": 4
   }
 }

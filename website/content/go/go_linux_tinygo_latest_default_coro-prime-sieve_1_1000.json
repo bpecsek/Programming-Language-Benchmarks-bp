@@ -6,23 +6,23 @@
   "test": "coro-prime-sieve",
   "code": "1.go",
   "input": "1000",
-  "timeMS": 309.7401,
-  "timeStdDevMS": 20.862301174127456,
-  "memBytes": 69529600,
-  "cpuTimeMS": 269.9999,
-  "cpuTimeUserMS": 256.6666,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1481630503",
+  "timeMS": 362.3082,
+  "timeStdDevMS": 5.178134231876689,
+  "memBytes": 70000640,
+  "cpuTimeMS": 333.3332,
+  "cpuTimeUserMS": 316.6666,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1490760756",
   "buildLog": {
     "compilerVersion": "tinygo version 0.21.0 linux/amd64 (using go version go1.17.3 and LLVM version 11.0.0)",
-    "start": "2021-11-19T15:33:43.7823749+00:00",
-    "finished": "2021-11-19T15:34:00.4101992+00:00",
-    "durationMs": 16627
+    "start": "2021-11-22T15:03:09.4731297+00:00",
+    "finished": "2021-11-22T15:03:27.7631245+00:00",
+    "durationMs": 18289
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-19T15:35:47.1854793+00:00",
-    "finished": "2021-11-19T15:35:47.4837072+00:00",
-    "durationMs": 298
+    "start": "2021-11-22T15:05:26.6611122+00:00",
+    "finished": "2021-11-22T15:05:27.0071964+00:00",
+    "durationMs": 346
   }
 }

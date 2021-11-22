@@ -6,23 +6,23 @@
   "test": "mandelbrot",
   "code": "1.go",
   "input": "1000",
-  "timeMS": 45.9829,
-  "timeStdDevMS": 3.0549187556027295,
+  "timeMS": 56.4072,
+  "timeStdDevMS": 4.803691308774955,
   "memBytes": 3592192,
-  "cpuTimeMS": 70.0,
-  "cpuTimeUserMS": 70.0,
+  "cpuTimeMS": 83.3333,
+  "cpuTimeUserMS": 83.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1481630503",
+  "githubRunId": "1490760756",
   "buildLog": {
     "compilerVersion": "go version go1.17.3 linux/amd64",
-    "start": "2021-11-19T15:32:16.2320807+00:00",
-    "finished": "2021-11-19T15:32:17.8631646+00:00",
-    "durationMs": 1631
+    "start": "2021-11-22T15:01:31.7225576+00:00",
+    "finished": "2021-11-22T15:01:33.6379506+00:00",
+    "durationMs": 1915
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-19T15:35:47.0417198+00:00",
-    "finished": "2021-11-19T15:35:47.0796372+00:00",
-    "durationMs": 37
+    "start": "2021-11-22T15:05:26.4861183+00:00",
+    "finished": "2021-11-22T15:05:26.5451343+00:00",
+    "durationMs": 59
   }
 }

@@ -6,23 +6,23 @@
   "test": "nbody",
   "code": "2.f90",
   "input": "5000000",
-  "timeMS": 516.0018,
-  "timeStdDevMS": 7.708767794531187,
-  "memBytes": 1167360,
-  "cpuTimeMS": 506.6666,
-  "cpuTimeUserMS": 506.6666,
+  "timeMS": 678.774,
+  "timeStdDevMS": 20.986963569161965,
+  "memBytes": 8192,
+  "cpuTimeMS": 666.6666,
+  "cpuTimeUserMS": 666.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1481630503",
+  "githubRunId": "1490760756",
   "buildLog": {
     "compilerVersion": "GNU Fortran (Ubuntu 10.3.0-1ubuntu1~20.04) 10.3.0\nCopyright (C) 2020 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
-    "start": "2021-11-19T15:31:43.7686165+00:00",
-    "finished": "2021-11-19T15:31:43.9955005+00:00",
-    "durationMs": 226
+    "start": "2021-11-22T15:01:10.9688939+00:00",
+    "finished": "2021-11-22T15:01:11.2364011+00:00",
+    "durationMs": 267
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-19T15:31:48.1892392+00:00",
-    "finished": "2021-11-19T15:31:48.1967159+00:00",
-    "durationMs": 7
+    "start": "2021-11-22T15:01:16.1615433+00:00",
+    "finished": "2021-11-22T15:01:16.1682456+00:00",
+    "durationMs": 6
   }
 }

@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "5.cl",
   "input": "4000",
-  "timeMS": 243.961,
-  "timeStdDevMS": 2.5655419122153136,
-  "memBytes": 44474368,
-  "cpuTimeMS": 439.9999,
-  "cpuTimeUserMS": 436.6666,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1481630503",
+  "timeMS": 311.504,
+  "timeStdDevMS": 8.51227874954761,
+  "memBytes": 45539328,
+  "cpuTimeMS": 560.0,
+  "cpuTimeUserMS": 550.0,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1490760756",
   "buildLog": {
-    "compilerVersion": "SBCL 2.1.10.183-cff899b93",
-    "start": "2021-11-19T15:37:01.6594054+00:00",
-    "finished": "2021-11-19T15:37:06.7877509+00:00",
-    "durationMs": 5128
+    "compilerVersion": "SBCL 2.1.10.201-9746ed855",
+    "start": "2021-11-22T15:08:16.0222524+00:00",
+    "finished": "2021-11-22T15:08:22.564238+00:00",
+    "durationMs": 6541
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-19T15:37:18.2398047+00:00",
-    "finished": "2021-11-19T15:37:18.2562799+00:00",
-    "durationMs": 16
+    "start": "2021-11-22T15:08:37.7497612+00:00",
+    "finished": "2021-11-22T15:08:37.769571+00:00",
+    "durationMs": 19
   }
 }

@@ -6,23 +6,23 @@
   "test": "nbody",
   "code": "2.c",
   "input": "500000",
-  "timeMS": 49.8153,
-  "timeStdDevMS": 1.4075433527959278,
+  "timeMS": 61.434,
+  "timeStdDevMS": 1.1651284392718217,
   "memBytes": 1384448,
-  "cpuTimeMS": 40.0,
-  "cpuTimeUserMS": 40.0,
+  "cpuTimeMS": 50.0,
+  "cpuTimeUserMS": 50.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1481630503",
+  "githubRunId": "1490760756",
   "buildLog": {
     "compilerVersion": "Ubuntu clang version 13.0.1-++20211110063012+9dc7d6d5e326-1~exp1~20211110183538.22\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2021-11-19T15:32:17.9643446+00:00",
-    "finished": "2021-11-19T15:32:18.1879418+00:00",
-    "durationMs": 223
+    "start": "2021-11-22T15:01:43.4606664+00:00",
+    "finished": "2021-11-22T15:01:43.7233213+00:00",
+    "durationMs": 262
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-19T15:33:41.9753608+00:00",
-    "finished": "2021-11-19T15:33:41.9820498+00:00",
-    "durationMs": 6
+    "start": "2021-11-22T15:03:19.7889928+00:00",
+    "finished": "2021-11-22T15:03:19.7980458+00:00",
+    "durationMs": 9
   }
 }

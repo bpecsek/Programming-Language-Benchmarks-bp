@@ -6,23 +6,23 @@
   "test": "nsieve",
   "code": "1.py",
   "input": "10",
-  "timeMS": 1200.592,
-  "timeStdDevMS": 8.318452021259557,
-  "memBytes": 220594176,
-  "cpuTimeMS": 1183.3331,
-  "cpuTimeUserMS": 1136.6665,
-  "cpuTimeKernelMS": 46.6666,
-  "githubRunId": "1481630503",
+  "timeMS": 1270.1779,
+  "timeStdDevMS": 39.495128946787084,
+  "memBytes": 220241920,
+  "cpuTimeMS": 1246.6666,
+  "cpuTimeUserMS": 1186.6666,
+  "cpuTimeKernelMS": 60.0,
+  "githubRunId": "1490760756",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-11-19T15:33:23.6372873+00:00",
-    "finished": "2021-11-19T15:33:24.2689395+00:00",
-    "durationMs": 631
+    "start": "2021-11-22T15:02:34.6295863+00:00",
+    "finished": "2021-11-22T15:02:35.0997927+00:00",
+    "durationMs": 470
   },
   "testLog": {
     "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2021-11-19T15:33:45.6068181+00:00",
-    "finished": "2021-11-19T15:33:45.7776069+00:00",
-    "durationMs": 170
+    "start": "2021-11-22T15:02:51.0314299+00:00",
+    "finished": "2021-11-22T15:02:51.1577538+00:00",
+    "durationMs": 126
   }
 }

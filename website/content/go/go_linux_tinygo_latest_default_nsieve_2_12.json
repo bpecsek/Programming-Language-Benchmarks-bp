@@ -6,23 +6,23 @@
   "test": "nsieve",
   "code": "2.go",
   "input": "12",
-  "timeMS": 678.4073,
-  "timeStdDevMS": 11.852824561822004,
+  "timeMS": 850.4686,
+  "timeStdDevMS": 17.090947034126984,
   "memBytes": 18456576,
-  "cpuTimeMS": 663.3333,
-  "cpuTimeUserMS": 660.0,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1481630503",
+  "cpuTimeMS": 836.6666,
+  "cpuTimeUserMS": 836.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1490760756",
   "buildLog": {
     "compilerVersion": "tinygo version 0.21.0 linux/amd64 (using go version go1.17.3 and LLVM version 11.0.0)",
-    "start": "2021-11-19T15:35:08.6604438+00:00",
-    "finished": "2021-11-19T15:35:26.6786108+00:00",
-    "durationMs": 18018
+    "start": "2021-11-22T15:04:43.6814059+00:00",
+    "finished": "2021-11-22T15:05:03.1939543+00:00",
+    "durationMs": 19512
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-19T15:35:47.985491+00:00",
-    "finished": "2021-11-19T15:35:47.9912617+00:00",
-    "durationMs": 5
+    "start": "2021-11-22T15:05:27.6071898+00:00",
+    "finished": "2021-11-22T15:05:27.614484+00:00",
+    "durationMs": 7
   }
 }
