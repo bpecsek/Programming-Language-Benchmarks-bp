@@ -38,6 +38,6 @@ environments:
     version: latest
     docker:
     include:
-    build: flang -O3 -static -march=skylake -mno-avx512f -mp -lopenmp -lomp -lgmp -o out/app app.f90
+    build: flang -O3 -static -march=skylake -mno-avx512f lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
