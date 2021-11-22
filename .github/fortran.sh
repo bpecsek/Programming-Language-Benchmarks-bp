@@ -2,5 +2,6 @@
 
 gfortran-9 --version
 gfortran-10 --version
-sudo apt-get install -y flang libgmp-dev
+gfortran-11 --version
+#sudo apt-get install -y flang libgmp-dev
 flang --version
