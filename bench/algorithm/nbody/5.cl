@@ -21,25 +21,21 @@
 ;;; modified by Béla Pecsek - 2021-09-11
 ;;;   * converted to use sb-simd
 ;;;   * further optimization using sb-simd f64 scalar operations
-
 (declaim (optimize (speed 3) (safety 0) (debug 0)))
-(setf *block-compile-default* t)
-
-(in-package #:cl-user)
 (eval-when (:compile-toplevel :load-toplevel :execute)
   (ql:quickload :sb-simd :silent t)
-  (use-package :sb-simd-avx2)
+  (use-package :sb-simd-avx2))
 
-  (declaim (type f64 +DAYS-PER-YEAR+ +SOLAR-MASS+))
+(eval-when (:compile-toplevel :load-toplevel :execute)
   (defconstant +DAYS-PER-YEAR+ 365.24d0)
-  (defconstant +SOLAR-MASS+ (f64* 4d0 pi pi))
+  (defconstant +SOLAR-MASS+ (* 4d0 pi pi))
 
   (deftype body () '(vector f64 7))
+  (declaim (inline x y z vx vy vz mass make-body))
   (defstruct (body (:type (vector f64))
                    (:conc-name nil)
                    (:constructor make-body (x y z vx vy vz mass)))
     x y z vx vy vz mass)
-  (declaim (inline x y z vx vy vz mass make-body))
 
   (defparameter *jupiter*
     (make-body 4.84143144246472090d0
@@ -88,7 +84,7 @@
 ;; instructions and because of that it will also be useful to have a
 ;; ROUNDED_INTERACTIONS_COUNT that is equal to the next highest even number
 ;; which is equal to or greater than INTERACTIONS_COUNT.
-(defconstant +BODIES-COUNT+ (length *system*))
+(defconstant +BODIES-COUNT+ 5)
 (defconstant +INTERACTIONS-COUNT+ (/ (* +BODIES-COUNT+ (1- +BODIES-COUNT+)) 2))
 (defconstant +ROUNDED-INTERACTIONS-COUNT+ (+ +INTERACTIONS-COUNT+
 					     (mod +INTERACTIONS-COUNT+ 4)))
