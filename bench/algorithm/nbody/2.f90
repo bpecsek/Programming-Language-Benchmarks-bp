@@ -119,7 +119,7 @@ contains
 
   real*8 :: dx, dy, dz, distance, mag
   integer :: i, j
-
+  
   do i = 1, nb
      do j = i + 1, nb
         dx = x(1,i) - x(1,j)
