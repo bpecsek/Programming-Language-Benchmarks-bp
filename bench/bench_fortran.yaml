@@ -29,7 +29,7 @@ environments:
     version: 10
     docker:
     include:
-    build: gfortran-10 -O3 -fomit-frame-pointer -funroll-loops -fall-intrinsics -fopenmp -lpthread -lgmp -o out/app app.f90
+    build: gfortran-10 -O3 -march=skylake -mno-avx512f -fomit-frame-pointer -fopenmp -lpthread -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
   - os: linux
@@ -38,6 +38,6 @@ environments:
     version: latest
     docker:
     include:
-    build: flang -O3 -static  -fopenmp -lpthread -lgmp -o out/app app.f90
+    build: flang -O3 -static -march=skylake -mno-avx512f -fopenmp -lpthread -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
