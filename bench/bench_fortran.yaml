@@ -33,20 +33,11 @@ environments:
     out_dir: out
     run_cmd: app
   - os: linux
-    compiler: gfortran
-    compiler_version_command: gfortran-11 --version
-    version: 11
-    docker:
-    include:
-    build: gfortran-11 -O3 -fomit-frame-pointer -funroll-loops -fall-intrinsics -lpthread -fopenmp -lgmp -o out/app app.f90
-    out_dir: out
-    run_cmd: app
-  - os: linux
     compiler: flang
     compiler_version_command: flang --version
     version: latest
     docker:
     include:
-    build: flang -O3 -static -lgmp -o out/app app.f90
+    build: flang -O3 -static  -fopenmp -lpthread -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
