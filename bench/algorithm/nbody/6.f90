@@ -159,7 +159,7 @@ contains
        do j = i + 1, nb
           d = x(:,i) - x(:,j)
           distance = sqrt(sum(d**2))
-          energy = energy - (mass(i) * mass(j)) / sqrt(sum(d**2))
+          energy = energy - (mass(i) * mass(j)) / distance
        end do
     end do
   end function energy
