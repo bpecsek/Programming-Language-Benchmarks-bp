@@ -46,6 +46,6 @@ environments:
     version: 7
     docker:
     include:
-    build: flang-7 -O3 -static-flang-libs -Menable-vectorize-pragmas=vector -march=skylake -flto -region-vectorize -mp -lgmp -o out/app app.f90
+    build: flang-7 -O3 -static-flang-libs -march=skylake -flto -mp -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
