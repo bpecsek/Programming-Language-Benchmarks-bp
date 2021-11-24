@@ -6,23 +6,23 @@
   "test": "fannkuch-redux",
   "code": "2.rs",
   "input": "11",
-  "timeMS": 3703.4511,
-  "timeStdDevMS": 85.3608012551624,
-  "memBytes": 12849152,
-  "cpuTimeMS": 3683.3333,
-  "cpuTimeUserMS": 3683.3333,
+  "timeMS": 3400.9334,
+  "timeStdDevMS": 16.25089528190178,
+  "memBytes": 12840960,
+  "cpuTimeMS": 3386.6666,
+  "cpuTimeUserMS": 3386.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1490760756",
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-11-22T15:07:40.0797904+00:00",
-    "finished": "2021-11-22T15:07:43.5361282+00:00",
-    "durationMs": 3456
+    "start": "2021-11-23T21:11:15.2876428+00:00",
+    "finished": "2021-11-23T21:11:18.5487198+00:00",
+    "durationMs": 3261
   },
   "testLog": {
     "runtimeVersion": "wasmedge version 0.8.2",
-    "start": "2021-11-22T15:10:00.8765931+00:00",
-    "finished": "2021-11-22T15:10:01.1954031+00:00",
-    "durationMs": 318
+    "start": "2021-11-23T21:13:26.3241089+00:00",
+    "finished": "2021-11-23T21:13:26.6087523+00:00",
+    "durationMs": 284
   }
 }

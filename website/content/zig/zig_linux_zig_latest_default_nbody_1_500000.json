@@ -6,23 +6,23 @@
   "test": "nbody",
   "code": "1.zig",
   "input": "500000",
-  "timeMS": 56.2272,
-  "timeStdDevMS": 0.5566081296567631,
+  "timeMS": 50.1034,
+  "timeStdDevMS": 2.265131625314519,
   "memBytes": 155648,
-  "cpuTimeMS": 50.0,
-  "cpuTimeUserMS": 50.0,
+  "cpuTimeMS": 40.0,
+  "cpuTimeUserMS": 40.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1490760756",
+  "githubRunId": "1495696466",
   "buildLog": {
-    "compilerVersion": "0.9.0-dev.1712+9836f1b2f",
-    "start": "2021-11-22T15:08:25.4820495+00:00",
-    "finished": "2021-11-22T15:08:35.280842+00:00",
-    "durationMs": 9798
+    "compilerVersion": "0.9.0-dev.1722+ed70f9981",
+    "start": "2021-11-23T21:08:20.2530498+00:00",
+    "finished": "2021-11-23T21:08:30.158332+00:00",
+    "durationMs": 9905
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-22T15:09:30.6648225+00:00",
-    "finished": "2021-11-22T15:09:30.6683925+00:00",
+    "start": "2021-11-23T21:09:25.9823775+00:00",
+    "finished": "2021-11-23T21:09:25.9861876+00:00",
     "durationMs": 3
   }
 }

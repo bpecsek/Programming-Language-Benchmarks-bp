@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "1.ex",
   "input": "1000",
-  "timeMS": 3088.9704,
-  "timeStdDevMS": 8.771214708921159,
-  "memBytes": 49242112,
-  "cpuTimeMS": 3139.9999,
-  "cpuTimeUserMS": 3076.6666,
+  "timeMS": 2848.511,
+  "timeStdDevMS": 54.31885255970829,
+  "memBytes": 50978816,
+  "cpuTimeMS": 2906.6666,
+  "cpuTimeUserMS": 2843.3333,
   "cpuTimeKernelMS": 63.3333,
-  "githubRunId": "1490760756",
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "Erlang/OTP 24 [erts-12.1.5] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.12.3 (compiled with Erlang/OTP 24)",
-    "start": "2021-11-22T15:01:39.397206+00:00",
-    "finished": "2021-11-22T15:01:46.5923571+00:00",
-    "durationMs": 7195
+    "start": "2021-11-23T21:05:23.4961049+00:00",
+    "finished": "2021-11-23T21:05:30.6311751+00:00",
+    "durationMs": 7135
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-22T15:01:53.1040957+00:00",
-    "finished": "2021-11-22T15:01:53.397753+00:00",
-    "durationMs": 293
+    "start": "2021-11-23T21:05:36.8792225+00:00",
+    "finished": "2021-11-23T21:05:37.1772517+00:00",
+    "durationMs": 298
   }
 }

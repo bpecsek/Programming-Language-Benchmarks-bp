@@ -6,23 +6,23 @@
   "test": "mandelbrot",
   "code": "4.java",
   "input": "8000",
-  "timeMS": 2824.3141,
-  "timeStdDevMS": 19.127947703905384,
-  "memBytes": 132775936,
-  "cpuTimeMS": 5443.3333,
-  "cpuTimeUserMS": 5360.0,
-  "cpuTimeKernelMS": 83.3333,
-  "githubRunId": "1490760756",
+  "timeMS": 2701.5977,
+  "timeStdDevMS": 29.59495786126416,
+  "memBytes": 133509120,
+  "cpuTimeMS": 5173.3332,
+  "cpuTimeUserMS": 5103.3332,
+  "cpuTimeKernelMS": 70.0,
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "javac 17.0.1",
-    "start": "2021-11-22T15:04:08.8561075+00:00",
-    "finished": "2021-11-22T15:04:12.0937254+00:00",
-    "durationMs": 3237
+    "start": "2021-11-23T21:08:02.3353476+00:00",
+    "finished": "2021-11-23T21:08:05.5506698+00:00",
+    "durationMs": 3215
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
-    "start": "2021-11-22T15:19:13.7105011+00:00",
-    "finished": "2021-11-22T15:19:15.1564469+00:00",
-    "durationMs": 1445
+    "start": "2021-11-23T21:24:31.4154686+00:00",
+    "finished": "2021-11-23T21:24:32.9305672+00:00",
+    "durationMs": 1515
   }
 }

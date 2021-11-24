@@ -6,23 +6,23 @@
   "test": "coro-prime-sieve",
   "code": "3.rs",
   "input": "1000",
-  "timeMS": 163.8483,
-  "timeStdDevMS": 21.49418053218127,
-  "memBytes": 12312576,
-  "cpuTimeMS": 129.9999,
-  "cpuTimeUserMS": 123.3333,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1490760756",
+  "timeMS": 165.1046,
+  "timeStdDevMS": 28.2810136206254,
+  "memBytes": 11599872,
+  "cpuTimeMS": 116.6666,
+  "cpuTimeUserMS": 106.6666,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-11-22T15:07:05.9009341+00:00",
-    "finished": "2021-11-22T15:07:09.6691818+00:00",
-    "durationMs": 3768
+    "start": "2021-11-23T21:10:43.8374207+00:00",
+    "finished": "2021-11-23T21:10:46.9155931+00:00",
+    "durationMs": 3078
   },
   "testLog": {
     "runtimeVersion": "wasmtime 0.31.0",
-    "start": "2021-11-22T15:09:59.2017408+00:00",
-    "finished": "2021-11-22T15:09:59.4314385+00:00",
-    "durationMs": 229
+    "start": "2021-11-23T21:13:24.8451963+00:00",
+    "finished": "2021-11-23T21:13:25.0541914+00:00",
+    "durationMs": 208
   }
 }

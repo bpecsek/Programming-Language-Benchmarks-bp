@@ -6,23 +6,23 @@
   "test": "mandelbrot",
   "code": "1.nim",
   "input": "8000",
-  "timeMS": 2853.4774,
-  "timeStdDevMS": 45.156979349191666,
-  "memBytes": 9732096,
-  "cpuTimeMS": 2840.0,
-  "cpuTimeUserMS": 2840.0,
+  "timeMS": 2653.6129,
+  "timeStdDevMS": 30.374302387105654,
+  "memBytes": 9715712,
+  "cpuTimeMS": 2643.3333,
+  "cpuTimeUserMS": 2643.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1490760756",
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "Nim Compiler Version 1.6.0 [Linux: amd64]\nCompiled at 2021-10-19\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 727c6378d2464090564dbcd9bc8b9ac648467e38\nactive boot switches: -d:release -d:danger",
-    "start": "2021-11-22T15:01:38.4010218+00:00",
-    "finished": "2021-11-22T15:01:45.9203825+00:00",
-    "durationMs": 7519
+    "start": "2021-11-23T21:05:30.135317+00:00",
+    "finished": "2021-11-23T21:05:38.7982757+00:00",
+    "durationMs": 8662
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-22T15:02:34.9160863+00:00",
-    "finished": "2021-11-22T15:02:34.9331178+00:00",
-    "durationMs": 17
+    "start": "2021-11-23T21:06:32.3812585+00:00",
+    "finished": "2021-11-23T21:06:32.3980211+00:00",
+    "durationMs": 16
   }
 }

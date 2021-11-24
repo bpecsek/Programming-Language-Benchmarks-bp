@@ -40,3 +40,12 @@ environments:
 #    build: flang -O3 -static -march=skylake -mno-avx512f -lgmp -o out/app app.f90
 #    out_dir: out
 #    run_cmd: app
+  - os: linux
+    compiler: flang
+    compiler_version_command: flang-7 --version
+    version: 7
+    docker:
+    include:
+    build: flang-7 -O3 -static-flang-libs -Menable-vectorize-pragmas=vector -march=skylake -flto -region-vectorize -mp -lgmp -o out/app app.f90
+    out_dir: out
+    run_cmd: app

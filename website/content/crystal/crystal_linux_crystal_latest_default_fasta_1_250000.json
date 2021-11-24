@@ -6,23 +6,23 @@
   "test": "fasta",
   "code": "1.cr",
   "input": "250000",
-  "timeMS": 172.1198,
-  "timeStdDevMS": 12.098062637188391,
-  "memBytes": 5324800,
-  "cpuTimeMS": 146.6666,
-  "cpuTimeUserMS": 100.0,
-  "cpuTimeKernelMS": 46.6666,
-  "githubRunId": "1490760756",
+  "timeMS": 176.0013,
+  "timeStdDevMS": 52.39861261258102,
+  "memBytes": 5206016,
+  "cpuTimeMS": 136.6666,
+  "cpuTimeUserMS": 96.6666,
+  "cpuTimeKernelMS": 40.0,
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "Crystal 1.2.2 [6529d725a] (2021-11-10)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2021-11-22T15:02:09.5216397+00:00",
-    "finished": "2021-11-22T15:02:24.5781501+00:00",
-    "durationMs": 15056
+    "start": "2021-11-23T21:05:34.4247376+00:00",
+    "finished": "2021-11-23T21:05:47.288972+00:00",
+    "durationMs": 12864
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-22T15:04:58.3397836+00:00",
-    "finished": "2021-11-22T15:04:58.3474564+00:00",
-    "durationMs": 7
+    "start": "2021-11-23T21:07:59.139063+00:00",
+    "finished": "2021-11-23T21:07:59.1433977+00:00",
+    "durationMs": 4
   }
 }

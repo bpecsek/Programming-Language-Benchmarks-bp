@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "2.rs",
   "input": "1000",
-  "timeMS": 190.6023,
-  "timeStdDevMS": 2.3442233475787577,
-  "memBytes": 39133184,
-  "cpuTimeMS": 319.9999,
-  "cpuTimeUserMS": 306.6666,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1490760756",
+  "timeMS": 173.8579,
+  "timeStdDevMS": 4.999919291681953,
+  "memBytes": 39092224,
+  "cpuTimeMS": 290.0,
+  "cpuTimeUserMS": 280.0,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "deno 1.16.2 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.2\ntypescript 4.4.2",
-    "start": "2021-11-22T15:06:04.9019384+00:00",
-    "finished": "2021-11-22T15:06:08.1917774+00:00",
-    "durationMs": 3289
+    "start": "2021-11-23T21:09:49.9664061+00:00",
+    "finished": "2021-11-23T21:09:52.9507158+00:00",
+    "durationMs": 2984
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-22T15:09:57.1915196+00:00",
-    "finished": "2021-11-22T15:09:57.2373145+00:00",
-    "durationMs": 45
+    "start": "2021-11-23T21:13:23.4149421+00:00",
+    "finished": "2021-11-23T21:13:23.449063+00:00",
+    "durationMs": 34
   }
 }

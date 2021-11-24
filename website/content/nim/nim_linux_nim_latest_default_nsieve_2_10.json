@@ -6,23 +6,23 @@
   "test": "nsieve",
   "code": "2.nim",
   "input": "10",
-  "timeMS": 205.092,
-  "timeStdDevMS": 3.6171636443489703,
-  "memBytes": 3969024,
-  "cpuTimeMS": 193.3333,
-  "cpuTimeUserMS": 193.3333,
+  "timeMS": 193.8551,
+  "timeStdDevMS": 1.2814901651332797,
+  "memBytes": 3977216,
+  "cpuTimeMS": 180.0,
+  "cpuTimeUserMS": 180.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1490760756",
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "Nim Compiler Version 1.6.0 [Linux: amd64]\nCompiled at 2021-10-19\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 727c6378d2464090564dbcd9bc8b9ac648467e38\nactive boot switches: -d:release -d:danger",
-    "start": "2021-11-22T15:02:00.8429888+00:00",
-    "finished": "2021-11-22T15:02:08.9131917+00:00",
-    "durationMs": 8070
+    "start": "2021-11-23T21:05:55.1866882+00:00",
+    "finished": "2021-11-23T21:06:03.5565032+00:00",
+    "durationMs": 8369
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-22T15:02:34.9454488+00:00",
-    "finished": "2021-11-22T15:02:34.9505558+00:00",
+    "start": "2021-11-23T21:06:32.4110103+00:00",
+    "finished": "2021-11-23T21:06:32.4160156+00:00",
     "durationMs": 5
   }
 }

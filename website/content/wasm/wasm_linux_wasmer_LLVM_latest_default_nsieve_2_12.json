@@ -6,23 +6,23 @@
   "test": "nsieve",
   "code": "2.rs",
   "input": "12",
-  "timeMS": 1129.2455,
-  "timeStdDevMS": 10.69839603414143,
-  "memBytes": 27447296,
-  "cpuTimeMS": 1116.6666,
-  "cpuTimeUserMS": 1110.0,
+  "timeMS": 1027.3101,
+  "timeStdDevMS": 20.586283341827244,
+  "memBytes": 27361280,
+  "cpuTimeMS": 1013.3332,
+  "cpuTimeUserMS": 1006.6666,
   "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1490760756",
+  "githubRunId": "1495696466",
   "buildLog": {
     "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-11-22T15:08:34.7195372+00:00",
-    "finished": "2021-11-22T15:08:36.5273272+00:00",
-    "durationMs": 1807
+    "start": "2021-11-23T21:12:06.7396061+00:00",
+    "finished": "2021-11-23T21:12:08.4448722+00:00",
+    "durationMs": 1705
   },
   "testLog": {
     "runtimeVersion": "wasmer 2.0.0",
-    "start": "2021-11-22T15:10:12.9075055+00:00",
-    "finished": "2021-11-22T15:10:13.7465848+00:00",
-    "durationMs": 839
+    "start": "2021-11-23T21:13:36.6288562+00:00",
+    "finished": "2021-11-23T21:13:37.3852514+00:00",
+    "durationMs": 756
   }
 }
