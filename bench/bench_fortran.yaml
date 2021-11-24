@@ -46,6 +46,6 @@ environments:
     version: 7
     docker:
     include:
-    build: flang-7 -O3 -static -march=skylake -I$LOCALBASE/include -L$LOCALBASE/lib -mp -lgmp -o out/app app.f90
+    build: flang-7 -O3 -static -march=skylake -fopenmp -mp -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
