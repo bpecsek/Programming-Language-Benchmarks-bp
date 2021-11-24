@@ -42,10 +42,10 @@ environments:
 #    run_cmd: app
   - os: linux
     compiler: flang
-    compiler_version_command: flang-7 --version
-    version: 7
+    compiler_version_command: flang-13 --version
+    version: 13
     docker:
     include:
-    build: flang-7 -O3 -static -march=skylake -fopenmp -mp -lgmp -o out/app app.f90
+    build: flang-13 -O3 -static -march=skylake -mp -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
