@@ -46,6 +46,6 @@ environments:
     version: 7
     docker:
     include:
-    build: flang -O3 -march=skylake -fopenmp -fopenmp-extensions -fopenmp-simd -lgmp -o out/app app.f90
+    build: flang -O3 -march=skylake -fopenmp -fopenmp-simd -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
