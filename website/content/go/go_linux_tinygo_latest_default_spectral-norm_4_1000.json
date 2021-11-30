@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "4.go",
   "input": "1000",
-  "timeMS": 497.9129,
-  "timeStdDevMS": 2.4548707752819734,
-  "memBytes": 2105344,
-  "cpuTimeMS": 486.6666,
-  "cpuTimeUserMS": 486.6666,
+  "timeMS": 414.8173,
+  "timeStdDevMS": 0.30371157918876773,
+  "memBytes": 339968,
+  "cpuTimeMS": 406.6666,
+  "cpuTimeUserMS": 406.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1495696466",
+  "githubRunId": "1521979291",
   "buildLog": {
     "compilerVersion": "tinygo version 0.21.0 linux/amd64 (using go version go1.17.3 and LLVM version 11.0.0)",
-    "start": "2021-11-23T21:08:50.6730957+00:00",
-    "finished": "2021-11-23T21:09:10.3284701+00:00",
-    "durationMs": 19655
+    "start": "2021-11-30T16:59:06.5841983+00:00",
+    "finished": "2021-11-30T16:59:19.8359252+00:00",
+    "durationMs": 13251
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-23T21:09:15.5690458+00:00",
-    "finished": "2021-11-23T21:09:15.5879322+00:00",
-    "durationMs": 18
+    "start": "2021-11-30T16:59:23.2897527+00:00",
+    "finished": "2021-11-30T16:59:23.3024541+00:00",
+    "durationMs": 12
   }
 }

@@ -6,23 +6,23 @@
   "test": "fasta",
   "code": "6.rb",
   "input": "250000",
-  "timeMS": 609.8907,
-  "timeStdDevMS": 10.553133438146936,
-  "memBytes": 32391168,
-  "cpuTimeMS": 593.3332,
-  "cpuTimeUserMS": 576.6666,
-  "cpuTimeKernelMS": 16.6666,
-  "githubRunId": "1495696466",
+  "timeMS": 524.7999,
+  "timeStdDevMS": 14.315031086588668,
+  "memBytes": 32489472,
+  "cpuTimeMS": 506.6666,
+  "cpuTimeUserMS": 496.6666,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1521979291",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-11-23T21:06:12.1898229+00:00",
-    "finished": "2021-11-23T21:06:12.1944356+00:00",
+    "start": "2021-11-30T16:58:30.9214933+00:00",
+    "finished": "2021-11-30T16:58:30.9264452+00:00",
     "durationMs": 4
   },
   "testLog": {
-    "runtimeVersion": "ruby 3.0.2p107 (2021-07-07 revision 0db68f0233) [x86_64-linux]",
-    "start": "2021-11-23T21:06:30.1430611+00:00",
-    "finished": "2021-11-23T21:06:30.2510465+00:00",
-    "durationMs": 107
+    "runtimeVersion": "ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-linux]",
+    "start": "2021-11-30T16:58:49.935848+00:00",
+    "finished": "2021-11-30T16:58:50.0862166+00:00",
+    "durationMs": 150
   }
 }

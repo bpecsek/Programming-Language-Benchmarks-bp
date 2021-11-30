@@ -6,23 +6,23 @@
   "test": "mandelbrot",
   "code": "4.rkt",
   "input": "1000",
-  "timeMS": 277.5748,
-  "timeStdDevMS": 3.0419391134603684,
-  "memBytes": 69246976,
-  "cpuTimeMS": 363.3333,
-  "cpuTimeUserMS": 323.3333,
+  "timeMS": 242.557,
+  "timeStdDevMS": 1.39604574781773,
+  "memBytes": 67469312,
+  "cpuTimeMS": 316.6666,
+  "cpuTimeUserMS": 276.6666,
   "cpuTimeKernelMS": 40.0,
-  "githubRunId": "1495696466",
+  "githubRunId": "1521979291",
   "buildLog": {
     "compilerVersion": "Welcome to Racket v8.3 [cs].",
-    "start": "2021-11-23T21:06:23.1858077+00:00",
-    "finished": "2021-11-23T21:06:24.8510526+00:00",
-    "durationMs": 1665
+    "start": "2021-11-30T16:58:19.7323578+00:00",
+    "finished": "2021-11-30T16:58:21.3723334+00:00",
+    "durationMs": 1639
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-23T21:06:33.824581+00:00",
-    "finished": "2021-11-23T21:06:34.3492056+00:00",
-    "durationMs": 524
+    "start": "2021-11-30T16:58:29.6619199+00:00",
+    "finished": "2021-11-30T16:58:30.1413841+00:00",
+    "durationMs": 479
   }
 }

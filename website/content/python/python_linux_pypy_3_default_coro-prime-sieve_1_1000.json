@@ -6,23 +6,23 @@
   "test": "coro-prime-sieve",
   "code": "1.py",
   "input": "1000",
-  "timeMS": 303.2166,
-  "timeStdDevMS": 15.032746025039259,
-  "memBytes": 94162944,
-  "cpuTimeMS": 280.0,
-  "cpuTimeUserMS": 270.0,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1495696466",
+  "timeMS": 319.7175,
+  "timeStdDevMS": 69.55588909998924,
+  "memBytes": 104050688,
+  "cpuTimeMS": 299.9999,
+  "cpuTimeUserMS": 276.6666,
+  "cpuTimeKernelMS": 23.3333,
+  "githubRunId": "1521979291",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-11-23T21:06:06.7683734+00:00",
-    "finished": "2021-11-23T21:06:07.3539514+00:00",
-    "durationMs": 585
+    "start": "2021-11-30T16:58:26.8746285+00:00",
+    "finished": "2021-11-30T16:58:27.3131989+00:00",
+    "durationMs": 438
   },
   "testLog": {
     "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2021-11-23T21:06:22.0245529+00:00",
-    "finished": "2021-11-23T21:06:22.7425561+00:00",
-    "durationMs": 718
+    "start": "2021-11-30T16:59:12.0145313+00:00",
+    "finished": "2021-11-30T16:59:12.6066269+00:00",
+    "durationMs": 592
   }
 }

@@ -6,23 +6,23 @@
   "test": "binarytrees",
   "code": "1.kt",
   "input": "14",
-  "timeMS": 437.2855,
-  "timeStdDevMS": 11.00600045248043,
-  "memBytes": 69824512,
-  "cpuTimeMS": 420.0,
-  "cpuTimeUserMS": 390.0,
-  "cpuTimeKernelMS": 30.0,
-  "githubRunId": "1495696466",
+  "timeMS": 435.9145,
+  "timeStdDevMS": 1.7656773723796018,
+  "memBytes": 74186752,
+  "cpuTimeMS": 419.9999,
+  "cpuTimeUserMS": 393.3333,
+  "cpuTimeKernelMS": 26.6666,
+  "githubRunId": "1521979291",
   "buildLog": {
-    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.5.31 (JRE 11.0.11+9)\n\nBUILD SUCCESSFUL in 820ms\n1 actionable task: 1 executed",
-    "start": "2021-11-23T21:07:28.3297854+00:00",
-    "finished": "2021-11-23T21:08:54.4701169+00:00",
-    "durationMs": 86140
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.0 (JRE 11.0.11+9)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 870ms\n1 actionable task: 1 executed",
+    "start": "2021-11-30T16:59:21.954237+00:00",
+    "finished": "2021-11-30T17:00:37.2318296+00:00",
+    "durationMs": 75277
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-23T21:10:54.8185339+00:00",
-    "finished": "2021-11-23T21:10:54.8403357+00:00",
-    "durationMs": 21
+    "start": "2021-11-30T17:04:16.9244383+00:00",
+    "finished": "2021-11-30T17:04:16.9451938+00:00",
+    "durationMs": 20
   }
 }

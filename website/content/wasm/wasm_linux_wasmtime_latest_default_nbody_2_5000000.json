@@ -6,23 +6,23 @@
   "test": "nbody",
   "code": "2.rs",
   "input": "5000000",
-  "timeMS": 617.0356,
-  "timeStdDevMS": 5.223398198810184,
-  "memBytes": 9990144,
-  "cpuTimeMS": 603.3333,
-  "cpuTimeUserMS": 603.3333,
+  "timeMS": 542.5318,
+  "timeStdDevMS": 3.251125677874225,
+  "memBytes": 9936896,
+  "cpuTimeMS": 530.0,
+  "cpuTimeUserMS": 530.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1495696466",
+  "githubRunId": "1521979291",
   "buildLog": {
     "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-11-23T21:10:56.3466722+00:00",
-    "finished": "2021-11-23T21:10:58.2582409+00:00",
-    "durationMs": 1911
+    "start": "2021-11-30T17:02:41.0193766+00:00",
+    "finished": "2021-11-30T17:02:42.8971723+00:00",
+    "durationMs": 1877
   },
   "testLog": {
     "runtimeVersion": "wasmtime 0.31.0",
-    "start": "2021-11-23T21:13:25.813252+00:00",
-    "finished": "2021-11-23T21:13:25.9082839+00:00",
-    "durationMs": 95
+    "start": "2021-11-30T17:05:13.2973747+00:00",
+    "finished": "2021-11-30T17:05:13.4084757+00:00",
+    "durationMs": 111
   }
 }

@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "1.chpl",
   "input": "4000",
-  "timeMS": 598.2736,
-  "timeStdDevMS": 4.408615050481665,
-  "memBytes": 29712384,
-  "cpuTimeMS": 1146.6665,
-  "cpuTimeUserMS": 1139.9999,
+  "timeMS": 504.8801,
+  "timeStdDevMS": 1.8852057155652744,
+  "memBytes": 33890304,
+  "cpuTimeMS": 969.9999,
+  "cpuTimeUserMS": 963.3333,
   "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1495696466",
+  "githubRunId": "1521979291",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.0\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2021-11-23T21:06:51.584457+00:00",
-    "finished": "2021-11-23T21:07:07.0974468+00:00",
-    "durationMs": 15512
+    "start": "2021-11-30T16:58:37.2113547+00:00",
+    "finished": "2021-11-30T16:58:50.4521471+00:00",
+    "durationMs": 13240
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-23T21:07:10.9426061+00:00",
-    "finished": "2021-11-23T21:07:10.9633982+00:00",
-    "durationMs": 20
+    "start": "2021-11-30T16:58:53.1445849+00:00",
+    "finished": "2021-11-30T16:58:53.1631992+00:00",
+    "durationMs": 18
   }
 }

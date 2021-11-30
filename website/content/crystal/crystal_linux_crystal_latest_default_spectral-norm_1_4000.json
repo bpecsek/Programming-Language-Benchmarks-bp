@@ -6,23 +6,23 @@
   "test": "spectral-norm",
   "code": "1.cr",
   "input": "4000",
-  "timeMS": 2159.3156,
-  "timeStdDevMS": 8.41733882471161,
-  "memBytes": 6496256,
-  "cpuTimeMS": 2150.0,
-  "cpuTimeUserMS": 2150.0,
+  "timeMS": 1887.8365,
+  "timeStdDevMS": 1.1780420889482806,
+  "memBytes": 6385664,
+  "cpuTimeMS": 1876.6666,
+  "cpuTimeUserMS": 1876.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1495696466",
+  "githubRunId": "1521979291",
   "buildLog": {
     "compilerVersion": "Crystal 1.2.2 [6529d725a] (2021-11-10)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2021-11-23T21:07:41.4434983+00:00",
-    "finished": "2021-11-23T21:07:56.542216+00:00",
-    "durationMs": 15098
+    "start": "2021-11-30T16:59:53.0961154+00:00",
+    "finished": "2021-11-30T17:00:07.8052695+00:00",
+    "durationMs": 14709
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-23T21:08:00.5183501+00:00",
-    "finished": "2021-11-23T21:08:00.5247805+00:00",
-    "durationMs": 6
+    "start": "2021-11-30T17:00:11.5870841+00:00",
+    "finished": "2021-11-30T17:00:11.5927917+00:00",
+    "durationMs": 5
   }
 }
