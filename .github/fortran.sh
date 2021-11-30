@@ -5,5 +5,6 @@ gfortran-10 --version
 sudo apt-get install -y gcc-11
 sudo apt-get install -y gfortran-11
 gfortran-11 --version
+apt show libomp-dev
 sudo apt-get install -y flang libgmp-dev
 flang --version
