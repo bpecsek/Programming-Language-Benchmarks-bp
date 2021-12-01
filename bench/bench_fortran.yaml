@@ -24,11 +24,11 @@ source_rename_to: app.f90
 environments:
   - os: linux
     compiler: gfortran
-    compiler_version_command: gfortran-11 --version
-    version: 11
+    compiler_version_command: gfortran-10 --version
+    version: 10
     docker:
     include:
-    build: gfortran-11 -O3 -march=skylake -mno-avx512f -fomit-frame-pointer -fopenmp -fopenmp-simd -lpthread -lgmp -o out/app app.f90
+    build: gfortran-10 -O3 -march=skylake -mno-avx512f -fomit-frame-pointer -fopenmp -fopenmp-simd -lpthread -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
 #  - os: linux
@@ -46,6 +46,6 @@ environments:
     version: 7
     docker:
     include:
-    build: flang -O3 -march=skylake -fopenmp -L/usr/lib/llvm-7/lib/ -fopenmp-simd -lgmp -o out/app app.f90
+    build: flang -O3 -static -march=skylake -fopenmp -L/usr/lib/llvm-7/lib -fopenmp-simd -lgmp -o out/app app.f90
     out_dir: out
     run_cmd: app
