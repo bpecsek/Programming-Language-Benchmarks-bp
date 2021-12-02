@@ -1,0 +1,28 @@
+{
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "node",
+  "compilerVersion": "latest",
+  "test": "pidigits",
+  "code": "2.rs",
+  "input": "1000",
+  "timeMS": 187.2625,
+  "timeStdDevMS": 7.71819399751867,
+  "memBytes": 47345664,
+  "cpuTimeMS": 223.3333,
+  "cpuTimeUserMS": 203.3333,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
+    "start": "2021-12-01T15:10:21.1398538+00:00",
+    "finished": "2021-12-01T15:10:23.6493281+00:00",
+    "durationMs": 2509
+  },
+  "testLog": {
+    "runtimeVersion": "v14.18.1",
+    "start": "2021-12-01T15:32:16.4502009+00:00",
+    "finished": "2021-12-01T15:32:16.6803585+00:00",
+    "durationMs": 230
+  }
+}

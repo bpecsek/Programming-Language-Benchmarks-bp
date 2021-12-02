@@ -6,23 +6,23 @@
   "test": "nsieve",
   "code": "1.c",
   "input": "12",
-  "timeMS": 856.0401,
-  "timeStdDevMS": 52.87871669361256,
-  "memBytes": 42938368,
-  "cpuTimeMS": 839.9999,
-  "cpuTimeUserMS": 829.9999,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1521979291",
+  "timeMS": 1284.3023,
+  "timeStdDevMS": 20.224182378858597,
+  "memBytes": 43081728,
+  "cpuTimeMS": 1273.3333,
+  "cpuTimeUserMS": 1260.0,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1526368549",
   "buildLog": {
     "compilerVersion": "Ubuntu clang version 13.0.1-++20211124043118+19b8368225dc-1~exp1~20211124043708.23\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2021-11-30T16:57:17.151172+00:00",
-    "finished": "2021-11-30T16:57:17.3091853+00:00",
-    "durationMs": 158
+    "start": "2021-12-01T15:03:43.7278551+00:00",
+    "finished": "2021-12-01T15:03:43.8888114+00:00",
+    "durationMs": 160
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-30T16:58:16.8961682+00:00",
-    "finished": "2021-11-30T16:58:16.9007+00:00",
-    "durationMs": 4
+    "start": "2021-12-01T15:29:25.8614687+00:00",
+    "finished": "2021-12-01T15:29:25.8674174+00:00",
+    "durationMs": 5
   }
 }

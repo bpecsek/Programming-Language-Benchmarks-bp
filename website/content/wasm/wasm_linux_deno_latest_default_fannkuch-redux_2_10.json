@@ -6,23 +6,23 @@
   "test": "fannkuch-redux",
   "code": "2.rs",
   "input": "10",
-  "timeMS": 551.4297,
-  "timeStdDevMS": 60.24900230388325,
-  "memBytes": 36220928,
-  "cpuTimeMS": 590.0,
-  "cpuTimeUserMS": 580.0,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1521979291",
+  "timeMS": 516.7684,
+  "timeStdDevMS": 0.07388601581712968,
+  "memBytes": 36323328,
+  "cpuTimeMS": 589.9999,
+  "cpuTimeUserMS": 583.3333,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1526368549",
   "buildLog": {
     "compilerVersion": "deno 1.16.3 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.5\ntypescript 4.4.2",
-    "start": "2021-11-30T17:01:07.3884855+00:00",
-    "finished": "2021-11-30T17:01:10.2647174+00:00",
-    "durationMs": 2876
+    "start": "2021-12-01T15:06:25.8567297+00:00",
+    "finished": "2021-12-01T15:06:28.6989761+00:00",
+    "durationMs": 2842
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-30T17:05:09.32076+00:00",
-    "finished": "2021-11-30T17:05:10.0193009+00:00",
-    "durationMs": 698
+    "start": "2021-12-01T15:31:54.3116197+00:00",
+    "finished": "2021-12-01T15:31:54.9864592+00:00",
+    "durationMs": 674
   }
 }

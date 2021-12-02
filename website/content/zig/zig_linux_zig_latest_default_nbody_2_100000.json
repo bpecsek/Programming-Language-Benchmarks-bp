@@ -1,0 +1,28 @@
+{
+  "lang": "zig",
+  "os": "linux",
+  "compiler": "zig",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "2.zig",
+  "input": "100000",
+  "timeMS": 6.163,
+  "timeStdDevMS": 0.1905117931607733,
+  "memBytes": 8192,
+  "cpuTimeMS": 0.0,
+  "cpuTimeUserMS": 0.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": "0.9.0-dev.1815+20e19e75f",
+    "start": "2021-12-01T15:06:51.1674678+00:00",
+    "finished": "2021-12-01T15:06:58.2803358+00:00",
+    "durationMs": 7112
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-01T15:32:17.6379915+00:00",
+    "finished": "2021-12-01T15:32:17.6424412+00:00",
+    "durationMs": 4
+  }
+}

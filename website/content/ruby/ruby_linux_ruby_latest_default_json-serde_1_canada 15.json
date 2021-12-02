@@ -1,0 +1,28 @@
+{
+  "lang": "ruby",
+  "os": "linux",
+  "compiler": "ruby",
+  "compilerVersion": "latest",
+  "test": "json-serde",
+  "code": "1.rb",
+  "input": "canada 15",
+  "timeMS": 3938.2155,
+  "timeStdDevMS": 33.45133549536277,
+  "memBytes": 195457024,
+  "cpuTimeMS": 3923.3332,
+  "cpuTimeUserMS": 3836.6666,
+  "cpuTimeKernelMS": 86.6666,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2021-12-01T15:04:58.6063878+00:00",
+    "finished": "2021-12-01T15:04:58.6144466+00:00",
+    "durationMs": 8
+  },
+  "testLog": {
+    "runtimeVersion": "ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-linux]",
+    "start": "2021-12-01T15:31:37.5524222+00:00",
+    "finished": "2021-12-01T15:31:38.6908113+00:00",
+    "durationMs": 1138
+  }
+}

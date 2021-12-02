@@ -1,0 +1,28 @@
+{
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "mono",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "8.cs",
+  "input": "100000",
+  "timeMS": 49.5618,
+  "timeStdDevMS": 0.7670658837414144,
+  "memBytes": 26415104,
+  "cpuTimeMS": 36.6666,
+  "cpuTimeUserMS": 33.3333,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": "Mono JIT compiler version 6.12.0.122 (tarball Mon Feb 22 17:42:49 UTC 2021)\nCopyright (C) 2002-2014 Novell, Inc, Xamarin Inc and Contributors. www.mono-project.com\n\tTLS:           __thread\n\tSIGSEGV:       altstack\n\tNotifications: epoll\n\tArchitecture:  amd64\n\tDisabled:      none\n\tMisc:          softdebug \n\tInterpreter:   yes\n\tLLVM:          yes(610)\n\tSuspend:       hybrid\n\tGC:            sgen (concurrent by default)",
+    "start": "2021-12-01T15:05:48.9312081+00:00",
+    "finished": "2021-12-01T15:05:51.13208+00:00",
+    "durationMs": 2200
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-01T15:29:35.9133246+00:00",
+    "finished": "2021-12-01T15:29:35.996426+00:00",
+    "durationMs": 83
+  }
+}

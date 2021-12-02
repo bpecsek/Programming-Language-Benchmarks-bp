@@ -1,0 +1,28 @@
+{
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "dotnet",
+  "compilerVersion": "6",
+  "test": "nbody",
+  "code": "8.cs",
+  "input": "100000",
+  "timeMS": 62.9894,
+  "timeStdDevMS": 0.3840212277118711,
+  "memBytes": 30666752,
+  "cpuTimeMS": 36.6666,
+  "cpuTimeUserMS": 30.0,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": "6.0.100",
+    "start": "2021-12-01T15:04:43.8171788+00:00",
+    "finished": "2021-12-01T15:04:52.1984545+00:00",
+    "durationMs": 8381
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-01T15:29:34.933852+00:00",
+    "finished": "2021-12-01T15:29:35.1199679+00:00",
+    "durationMs": 186
+  }
+}

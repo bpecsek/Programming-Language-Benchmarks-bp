@@ -6,23 +6,23 @@
   "test": "fasta",
   "code": "1.nim",
   "input": "250000",
-  "timeMS": 332.1836,
-  "timeStdDevMS": 12.104270924071933,
+  "timeMS": 450.0853,
+  "timeStdDevMS": 48.72420393093487,
   "memBytes": 724992,
-  "cpuTimeMS": 136.6666,
-  "cpuTimeUserMS": 46.6666,
-  "cpuTimeKernelMS": 90.0,
-  "githubRunId": "1521979291",
+  "cpuTimeMS": 120.0,
+  "cpuTimeUserMS": 60.0,
+  "cpuTimeKernelMS": 60.0,
+  "githubRunId": "1526368549",
   "buildLog": {
     "compilerVersion": "Nim Compiler Version 1.6.0 [Linux: amd64]\nCompiled at 2021-10-19\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 727c6378d2464090564dbcd9bc8b9ac648467e38\nactive boot switches: -d:release -d:danger",
-    "start": "2021-11-30T16:56:53.9971045+00:00",
-    "finished": "2021-11-30T16:57:02.2257676+00:00",
-    "durationMs": 8228
+    "start": "2021-12-01T15:03:10.7293704+00:00",
+    "finished": "2021-12-01T15:03:19.3671882+00:00",
+    "durationMs": 8637
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-11-30T16:58:22.8118709+00:00",
-    "finished": "2021-11-30T16:58:22.8147715+00:00",
-    "durationMs": 2
+    "start": "2021-12-01T15:30:38.8229976+00:00",
+    "finished": "2021-12-01T15:30:38.8273782+00:00",
+    "durationMs": 4
   }
 }

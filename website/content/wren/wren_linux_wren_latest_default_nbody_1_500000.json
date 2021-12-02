@@ -1,0 +1,28 @@
+{
+  "lang": "wren",
+  "os": "linux",
+  "compiler": "wren",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "1.wren",
+  "input": "500000",
+  "timeMS": 4589.179,
+  "timeStdDevMS": 25.68054752966351,
+  "memBytes": 147644416,
+  "cpuTimeMS": 4573.3333,
+  "cpuTimeUserMS": 4470.0,
+  "cpuTimeKernelMS": 103.3333,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2021-12-01T15:05:31.4140322+00:00",
+    "finished": "2021-12-01T15:05:31.4197452+00:00",
+    "durationMs": 5
+  },
+  "testLog": {
+    "runtimeVersion": "wren 0.4.0",
+    "start": "2021-12-01T15:32:16.8748726+00:00",
+    "finished": "2021-12-01T15:32:16.9847842+00:00",
+    "durationMs": 109
+  }
+}

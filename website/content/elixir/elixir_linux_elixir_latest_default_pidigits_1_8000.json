@@ -1,0 +1,28 @@
+{
+  "lang": "elixir",
+  "os": "linux",
+  "compiler": "elixir",
+  "compilerVersion": "latest",
+  "test": "pidigits",
+  "code": "1.ex",
+  "input": "8000",
+  "timeMS": 4596.5525,
+  "timeStdDevMS": 65.6404167789172,
+  "memBytes": 53198848,
+  "cpuTimeMS": 5323.3332,
+  "cpuTimeUserMS": 4356.6666,
+  "cpuTimeKernelMS": 966.6666,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": "Erlang/OTP 24 [erts-12.1.5] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.12.3 (compiled with Erlang/OTP 24)",
+    "start": "2021-12-01T15:03:14.1898525+00:00",
+    "finished": "2021-12-01T15:03:18.7074597+00:00",
+    "durationMs": 4517
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-01T15:29:46.3612263+00:00",
+    "finished": "2021-12-01T15:29:46.8804302+00:00",
+    "durationMs": 519
+  }
+}

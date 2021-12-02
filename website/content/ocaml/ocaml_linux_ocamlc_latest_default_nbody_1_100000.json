@@ -1,0 +1,28 @@
+{
+  "lang": "ocaml",
+  "os": "linux",
+  "compiler": "ocamlc",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "1.ml",
+  "input": "100000",
+  "timeMS": 13.4194,
+  "timeStdDevMS": 0.7866536785650979,
+  "memBytes": 2797568,
+  "cpuTimeMS": 10.0,
+  "cpuTimeUserMS": 10.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": "4.13.1",
+    "start": "2021-12-01T15:07:26.8408799+00:00",
+    "finished": "2021-12-01T15:08:02.4386163+00:00",
+    "durationMs": 35597
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-01T15:30:39.4972292+00:00",
+    "finished": "2021-12-01T15:30:39.5058602+00:00",
+    "durationMs": 8
+  }
+}

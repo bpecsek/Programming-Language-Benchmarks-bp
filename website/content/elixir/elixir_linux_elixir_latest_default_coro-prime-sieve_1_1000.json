@@ -1,0 +1,28 @@
+{
+  "lang": "elixir",
+  "os": "linux",
+  "compiler": "elixir",
+  "compilerVersion": "latest",
+  "test": "coro-prime-sieve",
+  "code": "1.ex",
+  "input": "1000",
+  "timeMS": 527.8652,
+  "timeStdDevMS": 2.8714945864478714,
+  "memBytes": 49934336,
+  "cpuTimeMS": 573.3332,
+  "cpuTimeUserMS": 506.6666,
+  "cpuTimeKernelMS": 66.6666,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": "Erlang/OTP 24 [erts-12.1.5] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.12.3 (compiled with Erlang/OTP 24)",
+    "start": "2021-12-01T15:02:47.2313182+00:00",
+    "finished": "2021-12-01T15:03:05.0987244+00:00",
+    "durationMs": 17867
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-01T15:29:43.5634972+00:00",
+    "finished": "2021-12-01T15:29:45.4569003+00:00",
+    "durationMs": 1893
+  }
+}

@@ -6,23 +6,23 @@
   "test": "pidigits",
   "code": "2.rs",
   "input": "8000",
-  "timeMS": 3806.2818,
-  "timeStdDevMS": 11.510148662086626,
-  "memBytes": 17190912,
-  "cpuTimeMS": 3780.0,
-  "cpuTimeUserMS": 3650.0,
-  "cpuTimeKernelMS": 130.0,
-  "githubRunId": "1521979291",
+  "timeMS": 3798.6206,
+  "timeStdDevMS": 2.5896929727929052,
+  "memBytes": 17162240,
+  "cpuTimeMS": 3779.9999,
+  "cpuTimeUserMS": 3613.3333,
+  "cpuTimeKernelMS": 166.6666,
+  "githubRunId": "1526368549",
   "buildLog": {
     "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-11-30T17:03:23.9842805+00:00",
-    "finished": "2021-11-30T17:03:30.2972869+00:00",
-    "durationMs": 6313
+    "start": "2021-12-01T15:08:41.449706+00:00",
+    "finished": "2021-12-01T15:08:47.5488944+00:00",
+    "durationMs": 6099
   },
   "testLog": {
     "runtimeVersion": "wasmedge version 0.8.2",
-    "start": "2021-11-30T17:05:14.3910619+00:00",
-    "finished": "2021-11-30T17:05:14.4382565+00:00",
-    "durationMs": 47
+    "start": "2021-12-01T15:31:59.8658442+00:00",
+    "finished": "2021-12-01T15:31:59.9173104+00:00",
+    "durationMs": 51
   }
 }

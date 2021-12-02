@@ -1,0 +1,28 @@
+{
+  "lang": "fortran",
+  "os": "linux",
+  "compiler": "flang",
+  "compilerVersion": "7",
+  "test": "spectral-norm",
+  "code": "2.f90",
+  "input": "1000",
+  "timeMS": 33.4515,
+  "timeStdDevMS": 1.465099761108433,
+  "memBytes": 5701632,
+  "cpuTimeMS": 26.6666,
+  "cpuTimeUserMS": 26.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1526368549",
+  "buildLog": {
+    "compilerVersion": "clang version 7.0.1 \nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2021-12-01T15:03:26.492664+00:00",
+    "finished": "2021-12-01T15:03:26.7382989+00:00",
+    "durationMs": 245
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-01T15:29:47.1789812+00:00",
+    "finished": "2021-12-01T15:29:47.1841778+00:00",
+    "durationMs": 5
+  }
+}
