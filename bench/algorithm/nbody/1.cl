@@ -18,7 +18,6 @@
 ;;;   * add optimization declarations
 
 (declaim (optimize (speed 3)(safety 0)(space 0)(debug 0)))
-(setf *block-compile-default* t)
 
 (defconstant +days-per-year+ 365.24d0)
 (defconstant +solar-mass+ (* 4d0 pi pi))
@@ -139,8 +138,8 @@
       (advance system 0.01d0))
     (format t "~,9F~%" (energy system))))
 
-(defun main ()
-  (let ((n (parse-integer (or (car (last #+sbcl sb-ext:*posix-argv*
-                                         #+cmu  extensions:*command-line-strings*
-					 #+gcl  si::*command-args*)) "1"))))
+(defun main (&optional n-supplied)
+  (let ((n (or n-supplied (parse-integer (or (car (last #+sbcl sb-ext:*posix-argv*
+                                                        #+cmu  extensions:*command-line-strings*
+					                #+gcl  si::*command-args*)) "1")))))
     (nbody n)))

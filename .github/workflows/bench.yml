@@ -33,6 +33,7 @@ jobs:
             julia,
             kotlin,
             lisp,
+            lisp-nightly
             lua,
             nim,
             ocaml,
@@ -86,6 +87,11 @@ jobs:
         env:
           LISP: sbcl-bin
         run: ./.github/lisp.sh
+      - name: Install lisp nightly
+        if: matrix.lang == 'lisp-nightly'
+        env:
+          LISP: sbcl-bin
+        run: ./.github/lisp-nightly.sh
       - name: Install racket
         if: matrix.lang == 'racket'
         run: ./.github/racket.sh
