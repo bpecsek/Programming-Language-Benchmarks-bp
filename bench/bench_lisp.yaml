@@ -47,7 +47,7 @@ source_rename_to: app.cl
 environments:
   - os: linux
     compiler: sbcl
-    version: latest
+    version: stable
     # docker: fukamachi/sbcl:latest-ubuntu
     include: lisp
     build: sbcl --dynamic-space-size 8Gb --noinform --disable-debugger --non-interactive --load bundle.cl

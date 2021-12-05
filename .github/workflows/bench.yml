@@ -22,31 +22,30 @@ jobs:
             csharp,
             crystal,
             d,
-            dart,
-            elixir,
+            #dart,
+            #elixir,
             fortran,
             go,
             haskell,
-            haxe,
+            #haxe,
             java,
             javascript,
             julia,
-            kotlin,
+            #kotlin,
             lisp,
-            lisp-nightly
-            lua,
+            #lua,
             nim,
             ocaml,
-            perl,
-            python,
+            #perl,
+            #python,
             racket,
-            ruby,
+            #ruby,
             rust,
             swift,
             typescript,
             v,
-            wasm,
-            wren,
+            #wasm,
+            #wren,
             zig,
           ]
     steps:
@@ -90,7 +89,7 @@ jobs:
       - name: Install lisp nightly
         if: matrix.lang == 'lisp-nightly'
         env:
-          LISP: sbcl-bin
+          LISP: sbcl
         run: ./.github/lisp-nightly.sh
       - name: Install racket
         if: matrix.lang == 'racket'
