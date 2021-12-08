@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "julia",
   "os": "linux",
   "compiler": "julia",
@@ -6,23 +7,23 @@
   "test": "binarytrees",
   "code": "4.jl",
   "input": "14",
-  "timeMS": 696.665,
-  "timeStdDevMS": 5.136003228516658,
-  "memBytes": 259702784,
-  "cpuTimeMS": 780.0,
-  "cpuTimeUserMS": 620.0,
-  "cpuTimeKernelMS": 160.0,
-  "githubRunId": "1526368549",
+  "timeMS": 613.8323,
+  "timeStdDevMS": 1.9548690655216232,
+  "memBytes": 266674176,
+  "cpuTimeMS": 699.9999,
+  "cpuTimeUserMS": 549.9999,
+  "cpuTimeKernelMS": 150.0,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:03:16.2508269+00:00",
-    "finished": "2021-12-01T15:03:16.6874746+00:00",
-    "durationMs": 436
+    "start": "2021-12-07T21:43:42.2603446+00:00",
+    "finished": "2021-12-07T21:43:42.7650921+00:00",
+    "durationMs": 504
   },
   "testLog": {
-    "runtimeVersion": "julia version 1.6.4",
-    "start": "2021-12-01T15:30:15.1916302+00:00",
-    "finished": "2021-12-01T15:30:16.5435124+00:00",
-    "durationMs": 1351
+    "runtimeVersion": "julia version 1.7.0",
+    "start": "2021-12-07T22:18:07.5091966+00:00",
+    "finished": "2021-12-07T22:18:08.9461378+00:00",
+    "durationMs": 1436
   }
 }

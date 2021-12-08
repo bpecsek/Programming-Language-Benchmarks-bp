@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "pypy",
@@ -6,23 +7,23 @@
   "test": "fasta",
   "code": "5.py",
   "input": "250000",
-  "timeMS": 959.7676,
-  "timeStdDevMS": 8.410255035371996,
-  "memBytes": 89509888,
-  "cpuTimeMS": 1559.9999,
-  "cpuTimeUserMS": 1096.6666,
-  "cpuTimeKernelMS": 463.3333,
-  "githubRunId": "1526368549",
+  "timeMS": 895.9004,
+  "timeStdDevMS": 1.936648748052492,
+  "memBytes": 89219072,
+  "cpuTimeMS": 1456.6665,
+  "cpuTimeUserMS": 1026.6666,
+  "cpuTimeKernelMS": 429.9999,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:04:30.1382844+00:00",
-    "finished": "2021-12-01T15:04:30.6041052+00:00",
-    "durationMs": 465
+    "start": "2021-12-07T21:46:11.5605569+00:00",
+    "finished": "2021-12-07T21:46:11.9933297+00:00",
+    "durationMs": 432
   },
   "testLog": {
     "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2021-12-01T15:31:17.8424964+00:00",
-    "finished": "2021-12-01T15:31:18.1406313+00:00",
-    "durationMs": 298
+    "start": "2021-12-07T22:19:43.8179602+00:00",
+    "finished": "2021-12-07T22:19:44.1095324+00:00",
+    "durationMs": 291
   }
 }

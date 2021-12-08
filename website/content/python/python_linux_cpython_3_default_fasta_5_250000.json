@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "cpython",
@@ -6,23 +7,23 @@
   "test": "fasta",
   "code": "5.py",
   "input": "250000",
-  "timeMS": 569.6039,
-  "timeStdDevMS": 10.309616793234042,
-  "memBytes": 13529088,
-  "cpuTimeMS": 906.6665,
-  "cpuTimeUserMS": 719.9999,
-  "cpuTimeKernelMS": 186.6666,
-  "githubRunId": "1526368549",
+  "timeMS": 515.5243,
+  "timeStdDevMS": 7.393054228350599,
+  "memBytes": 13180928,
+  "cpuTimeMS": 826.6666,
+  "cpuTimeUserMS": 686.6666,
+  "cpuTimeKernelMS": 140.0,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:04:19.8125972+00:00",
-    "finished": "2021-12-01T15:04:19.819136+00:00",
-    "durationMs": 6
+    "start": "2021-12-07T21:45:54.1883612+00:00",
+    "finished": "2021-12-07T21:45:54.1922749+00:00",
+    "durationMs": 3
   },
   "testLog": {
     "runtimeVersion": "Python 3.10.0",
-    "start": "2021-12-01T15:30:40.8688188+00:00",
-    "finished": "2021-12-01T15:30:41.0122869+00:00",
-    "durationMs": 143
+    "start": "2021-12-07T22:18:36.0820817+00:00",
+    "finished": "2021-12-07T22:18:36.2381189+00:00",
+    "durationMs": 156
   }
 }

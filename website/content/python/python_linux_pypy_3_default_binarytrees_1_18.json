@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "pypy",
@@ -6,23 +7,23 @@
   "test": "binarytrees",
   "code": "1.py",
   "input": "18",
-  "timeMS": 2003.8179,
-  "timeStdDevMS": 56.569300933397486,
-  "memBytes": 134782976,
-  "cpuTimeMS": 3086.6666,
-  "cpuTimeUserMS": 2863.3333,
+  "timeMS": 1846.149,
+  "timeStdDevMS": 0.7356272176402967,
+  "memBytes": 133947392,
+  "cpuTimeMS": 2776.6666,
+  "cpuTimeUserMS": 2553.3333,
   "cpuTimeKernelMS": 223.3333,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:04:28.573189+00:00",
-    "finished": "2021-12-01T15:04:29.1127205+00:00",
-    "durationMs": 539
+    "start": "2021-12-07T21:46:10.1679554+00:00",
+    "finished": "2021-12-07T21:46:10.6583837+00:00",
+    "durationMs": 490
   },
   "testLog": {
     "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2021-12-01T15:31:16.4175921+00:00",
-    "finished": "2021-12-01T15:31:17.312696+00:00",
-    "durationMs": 895
+    "start": "2021-12-07T22:19:42.4348395+00:00",
+    "finished": "2021-12-07T22:19:43.2918106+00:00",
+    "durationMs": 856
   }
 }

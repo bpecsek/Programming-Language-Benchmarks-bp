@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "javascript",
   "os": "linux",
   "compiler": "node",
@@ -6,23 +7,23 @@
   "test": "json-serde",
   "code": "1.js",
   "input": "canada 15",
-  "timeMS": 1125.5927,
-  "timeStdDevMS": 0.8675332327928895,
-  "memBytes": 228519936,
-  "cpuTimeMS": 1216.6666,
-  "cpuTimeUserMS": 1100.0,
-  "cpuTimeKernelMS": 116.6666,
-  "githubRunId": "1526368549",
+  "timeMS": 1067.515,
+  "timeStdDevMS": 28.88289369927022,
+  "memBytes": 228405248,
+  "cpuTimeMS": 1150.0,
+  "cpuTimeUserMS": 1060.0,
+  "cpuTimeKernelMS": 90.0,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:03:40.4323888+00:00",
-    "finished": "2021-12-01T15:03:40.8663291+00:00",
-    "durationMs": 433
+    "start": "2021-12-07T21:44:43.2922795+00:00",
+    "finished": "2021-12-07T21:44:43.6619725+00:00",
+    "durationMs": 369
   },
   "testLog": {
-    "runtimeVersion": "v17.1.0",
-    "start": "2021-12-01T15:30:09.5695153+00:00",
-    "finished": "2021-12-01T15:30:09.9505075+00:00",
-    "durationMs": 380
+    "runtimeVersion": "v17.2.0",
+    "start": "2021-12-07T22:18:06.7617397+00:00",
+    "finished": "2021-12-07T22:18:07.1408934+00:00",
+    "durationMs": 379
   }
 }

@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "nim",
   "os": "linux",
   "compiler": "nim",
@@ -6,23 +7,23 @@
   "test": "nsieve",
   "code": "1.nim",
   "input": "12",
-  "timeMS": 1289.3637,
-  "timeStdDevMS": 18.66829567930624,
-  "memBytes": 73584640,
-  "cpuTimeMS": 1279.9999,
-  "cpuTimeUserMS": 1263.3333,
-  "cpuTimeKernelMS": 16.6666,
-  "githubRunId": "1526368549",
+  "timeMS": 913.5677,
+  "timeStdDevMS": 11.738846761500975,
+  "memBytes": 73646080,
+  "cpuTimeMS": 903.3333,
+  "cpuTimeUserMS": 890.0,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "Nim Compiler Version 1.6.0 [Linux: amd64]\nCompiled at 2021-10-19\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 727c6378d2464090564dbcd9bc8b9ac648467e38\nactive boot switches: -d:release -d:danger",
-    "start": "2021-12-01T15:03:59.4643819+00:00",
-    "finished": "2021-12-01T15:04:08.600508+00:00",
-    "durationMs": 9136
+    "start": "2021-12-07T21:44:41.5292611+00:00",
+    "finished": "2021-12-07T21:44:49.7127338+00:00",
+    "durationMs": 8183
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:30:39.0178743+00:00",
-    "finished": "2021-12-01T15:30:39.0221924+00:00",
+    "start": "2021-12-07T22:18:32.9943282+00:00",
+    "finished": "2021-12-07T22:18:32.9989727+00:00",
     "durationMs": 4
   }
 }

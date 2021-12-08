@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "graal/native",
@@ -6,23 +7,23 @@
   "test": "helloworld",
   "code": "1.java",
   "input": "QwQ",
-  "timeMS": 2.5249,
-  "timeStdDevMS": 0.8935157441254186,
-  "memBytes": 4132864,
+  "timeMS": 2.1239,
+  "timeStdDevMS": 0.5502489818255004,
+  "memBytes": 4136960,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "GraalVM 21.3.0 Java 17 CE (Java Version 17.0.1+12-jvmci-21.3-b05)",
-    "start": "2021-12-01T15:09:27.5086132+00:00",
-    "finished": "2021-12-01T15:10:27.3666192+00:00",
-    "durationMs": 59858
+    "start": "2021-12-07T21:50:24.5300921+00:00",
+    "finished": "2021-12-07T21:51:26.2549161+00:00",
+    "durationMs": 61724
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:30:05.9773384+00:00",
-    "finished": "2021-12-01T15:30:06.0147907+00:00",
-    "durationMs": 37
+    "start": "2021-12-07T22:17:57.5448791+00:00",
+    "finished": "2021-12-07T22:17:57.5928788+00:00",
+    "durationMs": 47
   }
 }

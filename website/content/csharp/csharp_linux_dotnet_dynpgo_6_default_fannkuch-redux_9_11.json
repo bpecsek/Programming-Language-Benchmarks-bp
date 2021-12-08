@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "dotnet/dynpgo",
+  "compilerVersion": "6",
+  "test": "fannkuch-redux",
+  "code": "9.cs",
+  "input": "11",
+  "timeMS": 1354.426,
+  "timeStdDevMS": 15.136284689777776,
+  "memBytes": 29155328,
+  "cpuTimeMS": 2549.9999,
+  "cpuTimeUserMS": 2543.3333,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1550938678",
+  "buildLog": {
+    "compilerVersion": "6.0.100",
+    "start": "2021-12-07T21:48:51.8484098+00:00",
+    "finished": "2021-12-07T21:49:02.6541732+00:00",
+    "durationMs": 10805
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-07T22:17:14.3204591+00:00",
+    "finished": "2021-12-07T22:17:14.6194602+00:00",
+    "durationMs": 299
+  }
+}

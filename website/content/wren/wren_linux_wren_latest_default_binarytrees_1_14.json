@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wren",
   "os": "linux",
   "compiler": "wren",
@@ -6,23 +7,23 @@
   "test": "binarytrees",
   "code": "1.wren",
   "input": "14",
-  "timeMS": 733.1868,
-  "timeStdDevMS": 7.006812904595171,
+  "timeMS": 720.753,
+  "timeStdDevMS": 2.8828716013724858,
   "memBytes": 140001280,
-  "cpuTimeMS": 716.6666,
-  "cpuTimeUserMS": 623.3333,
-  "cpuTimeKernelMS": 93.3333,
-  "githubRunId": "1526368549",
+  "cpuTimeMS": 706.6666,
+  "cpuTimeUserMS": 610.0,
+  "cpuTimeKernelMS": 96.6666,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:05:31.2729247+00:00",
-    "finished": "2021-12-01T15:05:31.2991647+00:00",
-    "durationMs": 26
+    "start": "2021-12-07T21:46:31.2660251+00:00",
+    "finished": "2021-12-07T21:46:31.2919573+00:00",
+    "durationMs": 25
   },
   "testLog": {
     "runtimeVersion": "wren 0.4.0",
-    "start": "2021-12-01T15:32:16.7783901+00:00",
-    "finished": "2021-12-01T15:32:16.8157113+00:00",
-    "durationMs": 37
+    "start": "2021-12-07T22:20:52.7076497+00:00",
+    "finished": "2021-12-07T22:20:52.7458816+00:00",
+    "durationMs": 38
   }
 }

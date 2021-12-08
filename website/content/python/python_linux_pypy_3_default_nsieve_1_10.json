@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "pypy",
@@ -6,23 +7,23 @@
   "test": "nsieve",
   "code": "1.py",
   "input": "10",
-  "timeMS": 1386.2804,
-  "timeStdDevMS": 7.589315123470253,
-  "memBytes": 220561408,
-  "cpuTimeMS": 1373.3333,
-  "cpuTimeUserMS": 1320.0,
-  "cpuTimeKernelMS": 53.3333,
-  "githubRunId": "1526368549",
+  "timeMS": 1184.9994,
+  "timeStdDevMS": 7.95063393090978,
+  "memBytes": 220381184,
+  "cpuTimeMS": 1166.6666,
+  "cpuTimeUserMS": 1116.6666,
+  "cpuTimeKernelMS": 50.0,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:04:33.0695027+00:00",
-    "finished": "2021-12-01T15:04:33.5794457+00:00",
-    "durationMs": 509
+    "start": "2021-12-07T21:46:19.3619786+00:00",
+    "finished": "2021-12-07T21:46:19.7765136+00:00",
+    "durationMs": 414
   },
   "testLog": {
     "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2021-12-01T15:31:22.1336497+00:00",
-    "finished": "2021-12-01T15:31:22.2201543+00:00",
+    "start": "2021-12-07T22:19:49.418868+00:00",
+    "finished": "2021-12-07T22:19:49.5052044+00:00",
     "durationMs": 86
   }
 }

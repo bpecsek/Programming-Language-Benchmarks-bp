@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "csharp",
   "os": "linux",
   "compiler": "dotnet",
@@ -6,23 +7,23 @@
   "test": "mandelbrot",
   "code": "9.cs",
   "input": "1000",
-  "timeMS": 103.2816,
-  "timeStdDevMS": 1.582429146386446,
-  "memBytes": 36421632,
-  "cpuTimeMS": 100.0,
-  "cpuTimeUserMS": 90.0,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1526368549",
+  "timeMS": 101.073,
+  "timeStdDevMS": 3.4712022993961806,
+  "memBytes": 36216832,
+  "cpuTimeMS": 99.9999,
+  "cpuTimeUserMS": 96.6666,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "6.0.100",
-    "start": "2021-12-01T15:04:35.3168196+00:00",
-    "finished": "2021-12-01T15:04:43.8088942+00:00",
-    "durationMs": 8492
+    "start": "2021-12-07T21:47:03.8886257+00:00",
+    "finished": "2021-12-07T21:47:14.7933549+00:00",
+    "durationMs": 10904
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:29:34.6033815+00:00",
-    "finished": "2021-12-01T15:29:34.9336041+00:00",
-    "durationMs": 330
+    "start": "2021-12-07T22:17:12.1269064+00:00",
+    "finished": "2021-12-07T22:17:12.4365655+00:00",
+    "durationMs": 309
   }
 }

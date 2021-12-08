@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "dotnet",
+  "compilerVersion": "6",
+  "test": "knucleotide",
+  "code": "6.cs",
+  "input": "2500000_in",
+  "timeMS": 1270.7682,
+  "timeStdDevMS": 33.12632155255592,
+  "memBytes": 78594048,
+  "cpuTimeMS": 1899.9999,
+  "cpuTimeUserMS": 1863.3333,
+  "cpuTimeKernelMS": 36.6666,
+  "githubRunId": "1550938678",
+  "buildLog": {
+    "compilerVersion": "6.0.100",
+    "start": "2021-12-07T21:46:37.3143667+00:00",
+    "finished": "2021-12-07T21:46:51.4325013+00:00",
+    "durationMs": 14118
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-07T22:17:11.4084+00:00",
+    "finished": "2021-12-07T22:17:11.9117748+00:00",
+    "durationMs": 503
+  }
+}

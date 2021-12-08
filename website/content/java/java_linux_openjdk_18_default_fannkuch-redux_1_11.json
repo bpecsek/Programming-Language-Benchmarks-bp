@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "openjdk",
@@ -6,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.java",
   "input": "11",
-  "timeMS": 1564.4322,
-  "timeStdDevMS": 51.01080892657282,
-  "memBytes": 39661568,
-  "cpuTimeMS": 2996.6666,
-  "cpuTimeUserMS": 2990.0,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1526368549",
+  "timeMS": 1432.9104,
+  "timeStdDevMS": 7.453379427704878,
+  "memBytes": 39460864,
+  "cpuTimeMS": 2739.9999,
+  "cpuTimeUserMS": 2726.6666,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2021-12-01T15:04:30.8174445+00:00",
-    "finished": "2021-12-01T15:04:32.3446718+00:00",
-    "durationMs": 1527
+    "start": "2021-12-07T21:45:15.925438+00:00",
+    "finished": "2021-12-07T21:45:17.4866079+00:00",
+    "durationMs": 1561
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-15\nOpenJDK Runtime Environment (build 18-ea+25-1670)\nOpenJDK 64-Bit Server VM (build 18-ea+25-1670, mixed mode, sharing)",
-    "start": "2021-12-01T15:29:56.5483425+00:00",
-    "finished": "2021-12-01T15:29:56.8890491+00:00",
-    "durationMs": 340
+    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+26-1787)\nOpenJDK 64-Bit Server VM (build 18-ea+26-1787, mixed mode, sharing)",
+    "start": "2021-12-07T22:17:46.2955409+00:00",
+    "finished": "2021-12-07T22:17:46.6288921+00:00",
+    "durationMs": 333
   }
 }

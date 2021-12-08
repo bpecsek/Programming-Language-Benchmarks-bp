@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "kotlin",
   "os": "linux",
   "compiler": "Kotlin/Native",
@@ -6,23 +7,23 @@
   "test": "pidigits",
   "code": "1n.kt",
   "input": "1000",
-  "timeMS": 3100.0877,
-  "timeStdDevMS": 11.200380241908611,
-  "memBytes": 8712192,
-  "cpuTimeMS": 3079.9999,
-  "cpuTimeUserMS": 3073.3333,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1526368549",
+  "timeMS": 2941.0635,
+  "timeStdDevMS": 188.97489864448488,
+  "memBytes": 7831552,
+  "cpuTimeMS": 2923.3332,
+  "cpuTimeUserMS": 2906.6666,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1550938678",
   "buildLog": {
-    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.0 (JRE 11.0.11+9)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 946ms\n1 actionable task: 1 executed",
-    "start": "2021-12-01T15:09:26.8192316+00:00",
-    "finished": "2021-12-01T15:10:20.3130421+00:00",
-    "durationMs": 53493
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.0 (JRE 11.0.11+9)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.1/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 1s\n1 actionable task: 1 executed",
+    "start": "2021-12-07T21:49:49.4441935+00:00",
+    "finished": "2021-12-07T21:50:59.3834949+00:00",
+    "durationMs": 69939
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:30:35.3289046+00:00",
-    "finished": "2021-12-01T15:30:35.3485259+00:00",
-    "durationMs": 19
+    "start": "2021-12-07T22:18:16.5763497+00:00",
+    "finished": "2021-12-07T22:18:16.5935923+00:00",
+    "durationMs": 17
   }
 }

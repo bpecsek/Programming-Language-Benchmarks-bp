@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "rust",
   "os": "linux",
   "compiler": "rustc",
@@ -6,23 +7,23 @@
   "test": "mandelbrot",
   "code": "8.rs",
   "input": "8000",
-  "timeMS": 495.1862,
-  "timeStdDevMS": 4.167097325477307,
-  "memBytes": 8630272,
-  "cpuTimeMS": 939.9999,
-  "cpuTimeUserMS": 936.6666,
+  "timeMS": 478.4957,
+  "timeStdDevMS": 7.029296116255175,
+  "memBytes": 8622080,
+  "cpuTimeMS": 896.6666,
+  "cpuTimeUserMS": 893.3333,
   "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
-    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-12-01T15:10:13.1657703+00:00",
-    "finished": "2021-12-01T15:10:19.1031726+00:00",
-    "durationMs": 5937
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2021-12-07T21:51:54.5941319+00:00",
+    "finished": "2021-12-07T21:52:00.6857418+00:00",
+    "durationMs": 6091
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:31:47.4488019+00:00",
-    "finished": "2021-12-01T15:31:47.459343+00:00",
-    "durationMs": 10
+    "start": "2021-12-07T22:20:24.2594707+00:00",
+    "finished": "2021-12-07T22:20:24.2686209+00:00",
+    "durationMs": 9
   }
 }

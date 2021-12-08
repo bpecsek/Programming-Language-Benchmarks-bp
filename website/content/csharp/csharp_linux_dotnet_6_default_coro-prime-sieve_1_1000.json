@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "csharp",
   "os": "linux",
   "compiler": "dotnet",
@@ -6,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.cs",
   "input": "1000",
-  "timeMS": 508.8751,
-  "timeStdDevMS": 18.529547574976835,
-  "memBytes": 79667200,
-  "cpuTimeMS": 700.0,
-  "cpuTimeUserMS": 660.0,
-  "cpuTimeKernelMS": 40.0,
-  "githubRunId": "1526368549",
+  "timeMS": 495.0675,
+  "timeStdDevMS": 37.6326799699853,
+  "memBytes": 78327808,
+  "cpuTimeMS": 633.3333,
+  "cpuTimeUserMS": 570.0,
+  "cpuTimeKernelMS": 63.3333,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "6.0.100",
-    "start": "2021-12-01T15:03:19.3364586+00:00",
-    "finished": "2021-12-01T15:03:27.6921752+00:00",
-    "durationMs": 8355
+    "start": "2021-12-07T21:45:00.2055897+00:00",
+    "finished": "2021-12-07T21:45:10.8026731+00:00",
+    "durationMs": 10597
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:29:28.7738193+00:00",
-    "finished": "2021-12-01T15:29:29.2648707+00:00",
-    "durationMs": 491
+    "start": "2021-12-07T22:17:05.5710515+00:00",
+    "finished": "2021-12-07T22:17:06.1020637+00:00",
+    "durationMs": 531
   }
 }

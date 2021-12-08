@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "haxe",
   "os": "linux",
   "compiler": "haxe/hashlink",
@@ -6,23 +7,23 @@
   "test": "spectral-norm",
   "code": "1.hx",
   "input": "1000",
-  "timeMS": 718.3569,
-  "timeStdDevMS": 2.848924697144504,
-  "memBytes": 3780608,
-  "cpuTimeMS": 710.0,
-  "cpuTimeUserMS": 710.0,
+  "timeMS": 631.0634,
+  "timeStdDevMS": 0.6288078561849854,
+  "memBytes": 3964928,
+  "cpuTimeMS": 620.0,
+  "cpuTimeUserMS": 620.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "4.2.4",
-    "start": "2021-12-01T15:02:49.8870677+00:00",
-    "finished": "2021-12-01T15:02:51.0380828+00:00",
-    "durationMs": 1151
+    "start": "2021-12-07T21:43:45.3867323+00:00",
+    "finished": "2021-12-07T21:43:46.7427389+00:00",
+    "durationMs": 1356
   },
   "testLog": {
     "runtimeVersion": "1.12.0",
-    "start": "2021-12-01T15:29:48.9318879+00:00",
-    "finished": "2021-12-01T15:29:48.9499945+00:00",
-    "durationMs": 18
+    "start": "2021-12-07T22:17:36.9672979+00:00",
+    "finished": "2021-12-07T22:17:36.9829945+00:00",
+    "durationMs": 15
   }
 }

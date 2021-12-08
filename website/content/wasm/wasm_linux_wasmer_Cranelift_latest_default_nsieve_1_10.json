@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "wasmer/Cranelift",
@@ -6,23 +7,23 @@
   "test": "nsieve",
   "code": "1.rs",
   "input": "10",
-  "timeMS": 162.4046,
-  "timeStdDevMS": 1.1774442336405562,
-  "memBytes": 32927744,
-  "cpuTimeMS": 149.9999,
-  "cpuTimeUserMS": 146.6666,
+  "timeMS": 178.1355,
+  "timeStdDevMS": 12.190467696660924,
+  "memBytes": 53391360,
+  "cpuTimeMS": 166.6666,
+  "cpuTimeUserMS": 163.3333,
   "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
-    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-12-01T15:09:33.0883534+00:00",
-    "finished": "2021-12-01T15:09:34.7602762+00:00",
-    "durationMs": 1671
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2021-12-07T21:53:55.7920153+00:00",
+    "finished": "2021-12-07T21:53:57.7849481+00:00",
+    "durationMs": 1992
   },
   "testLog": {
-    "runtimeVersion": "wasmer 2.0.0",
-    "start": "2021-12-01T15:32:14.1874137+00:00",
-    "finished": "2021-12-01T15:32:14.2530322+00:00",
-    "durationMs": 65
+    "runtimeVersion": "wasmer 2.1.0",
+    "start": "2021-12-07T22:20:50.8333785+00:00",
+    "finished": "2021-12-07T22:20:50.8999915+00:00",
+    "durationMs": 66
   }
 }

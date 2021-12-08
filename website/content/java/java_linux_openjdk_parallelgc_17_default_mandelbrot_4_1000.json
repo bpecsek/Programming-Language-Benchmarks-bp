@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "openjdk/parallelgc",
@@ -6,23 +7,23 @@
   "test": "mandelbrot",
   "code": "4.java",
   "input": "1000",
-  "timeMS": 175.5015,
-  "timeStdDevMS": 11.124591713406826,
-  "memBytes": 44879872,
-  "cpuTimeMS": 233.3332,
-  "cpuTimeUserMS": 216.6666,
-  "cpuTimeKernelMS": 16.6666,
-  "githubRunId": "1526368549",
+  "timeMS": 154.5742,
+  "timeStdDevMS": 4.419051190395204,
+  "memBytes": 44883968,
+  "cpuTimeMS": 209.9999,
+  "cpuTimeUserMS": 196.6666,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "javac 17.0.1",
-    "start": "2021-12-01T15:04:07.1694772+00:00",
-    "finished": "2021-12-01T15:04:08.7145666+00:00",
-    "durationMs": 1545
+    "start": "2021-12-07T21:44:53.2813885+00:00",
+    "finished": "2021-12-07T21:44:56.1859001+00:00",
+    "durationMs": 2904
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
-    "start": "2021-12-01T15:29:55.0098448+00:00",
-    "finished": "2021-12-01T15:29:55.3728104+00:00",
-    "durationMs": 362
+    "start": "2021-12-07T22:17:44.7783586+00:00",
+    "finished": "2021-12-07T22:17:45.1402339+00:00",
+    "durationMs": 361
   }
 }

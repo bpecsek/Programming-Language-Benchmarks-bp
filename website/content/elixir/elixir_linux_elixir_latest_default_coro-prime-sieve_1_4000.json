@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "elixir",
+  "os": "linux",
+  "compiler": "elixir",
+  "compilerVersion": "latest",
+  "test": "coro-prime-sieve",
+  "code": "1.ex",
+  "input": "4000",
+  "timeMS": 4712.4207,
+  "timeStdDevMS": 3.078223834183021,
+  "memBytes": 57102336,
+  "cpuTimeMS": 4863.3333,
+  "cpuTimeUserMS": 4720.0,
+  "cpuTimeKernelMS": 143.3333,
+  "githubRunId": "1550938678",
+  "buildLog": {
+    "compilerVersion": "Erlang/OTP 24 [erts-12.1.5] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.13.0 (compiled with Erlang/OTP 24)",
+    "start": "2021-12-07T21:43:30.1865709+00:00",
+    "finished": "2021-12-07T21:44:03.8060672+00:00",
+    "durationMs": 33619
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-07T22:17:32.1382538+00:00",
+    "finished": "2021-12-07T22:17:33.5313063+00:00",
+    "durationMs": 1393
+  }
+}

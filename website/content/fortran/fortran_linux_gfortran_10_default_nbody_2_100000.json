@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "fortran",
   "os": "linux",
   "compiler": "gfortran",
@@ -6,23 +7,23 @@
   "test": "nbody",
   "code": "2.f90",
   "input": "100000",
-  "timeMS": 9.5513,
-  "timeStdDevMS": 0.7889822051225218,
-  "memBytes": 1155072,
+  "timeMS": 9.9525,
+  "timeStdDevMS": 0.674425120627437,
+  "memBytes": 1163264,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "GNU Fortran (Ubuntu 10.3.0-1ubuntu1~20.04) 10.3.0\nCopyright (C) 2020 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
-    "start": "2021-12-01T15:03:25.5287215+00:00",
-    "finished": "2021-12-01T15:03:25.665544+00:00",
-    "durationMs": 136
+    "start": "2021-12-07T21:43:38.9620624+00:00",
+    "finished": "2021-12-07T21:43:39.1004048+00:00",
+    "durationMs": 138
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:29:47.1405698+00:00",
-    "finished": "2021-12-01T15:29:47.1458082+00:00",
+    "start": "2021-12-07T22:17:34.9698994+00:00",
+    "finished": "2021-12-07T22:17:34.9755422+00:00",
     "durationMs": 5
   }
 }

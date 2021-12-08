@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "node",
@@ -6,23 +7,23 @@
   "test": "helloworld",
   "code": "1.rs",
   "input": "QwQ",
-  "timeMS": 81.3084,
-  "timeStdDevMS": 4.439820185210207,
-  "memBytes": 42475520,
-  "cpuTimeMS": 98.0,
-  "cpuTimeUserMS": 92.0,
-  "cpuTimeKernelMS": 6.0,
-  "githubRunId": "1526368549",
+  "timeMS": 66.7508,
+  "timeStdDevMS": 2.027974699053214,
+  "memBytes": 46137344,
+  "cpuTimeMS": 80.0,
+  "cpuTimeUserMS": 76.0,
+  "cpuTimeKernelMS": 4.0,
+  "githubRunId": "1550938678",
   "buildLog": {
-    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-12-01T15:10:12.1018138+00:00",
-    "finished": "2021-12-01T15:10:13.7117103+00:00",
-    "durationMs": 1609
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2021-12-07T21:49:04.5916062+00:00",
+    "finished": "2021-12-07T21:49:06.4912208+00:00",
+    "durationMs": 1899
   },
   "testLog": {
-    "runtimeVersion": "v14.18.1",
-    "start": "2021-12-01T15:32:15.7473348+00:00",
-    "finished": "2021-12-01T15:32:15.9027075+00:00",
-    "durationMs": 155
+    "runtimeVersion": "v16.13.0",
+    "start": "2021-12-07T22:20:30.5903153+00:00",
+    "finished": "2021-12-07T22:20:30.7326042+00:00",
+    "durationMs": 142
   }
 }

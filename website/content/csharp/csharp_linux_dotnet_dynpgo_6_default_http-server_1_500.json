@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "dotnet/dynpgo",
+  "compilerVersion": "6",
+  "test": "http-server",
+  "code": "1.cs",
+  "input": "500",
+  "timeMS": 553.5064,
+  "timeStdDevMS": 26.443495867793217,
+  "memBytes": 93175808,
+  "cpuTimeMS": 713.3332,
+  "cpuTimeUserMS": 586.6666,
+  "cpuTimeKernelMS": 126.6666,
+  "githubRunId": "1550938678",
+  "buildLog": {
+    "compilerVersion": "6.0.100",
+    "start": "2021-12-07T21:49:24.3587639+00:00",
+    "finished": "2021-12-07T21:49:35.402973+00:00",
+    "durationMs": 11044
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2021-12-07T22:17:14.9347945+00:00",
+    "finished": "2021-12-07T22:17:16.1520353+00:00",
+    "durationMs": 1217
+  }
+}

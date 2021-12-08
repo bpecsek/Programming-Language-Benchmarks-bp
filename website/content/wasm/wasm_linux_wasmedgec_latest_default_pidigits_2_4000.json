@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "wasmedgec",
@@ -6,23 +7,23 @@
   "test": "pidigits",
   "code": "2.rs",
   "input": "4000",
-  "timeMS": 1009.0574,
-  "timeStdDevMS": 1.5116906572884767,
-  "memBytes": 16887808,
-  "cpuTimeMS": 990.0,
-  "cpuTimeUserMS": 920.0,
-  "cpuTimeKernelMS": 70.0,
-  "githubRunId": "1526368549",
+  "timeMS": 872.8834,
+  "timeStdDevMS": 1.763857905274702,
+  "memBytes": 17498112,
+  "cpuTimeMS": 856.6666,
+  "cpuTimeUserMS": 803.3333,
+  "cpuTimeKernelMS": 53.3333,
+  "githubRunId": "1550938678",
   "buildLog": {
-    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-12-01T15:08:41.449706+00:00",
-    "finished": "2021-12-01T15:08:47.5488944+00:00",
-    "durationMs": 6099
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2021-12-07T21:50:39.9413693+00:00",
+    "finished": "2021-12-07T21:50:48.7135232+00:00",
+    "durationMs": 8772
   },
   "testLog": {
     "runtimeVersion": "wasmedge version 0.8.2",
-    "start": "2021-12-01T15:31:59.8658442+00:00",
-    "finished": "2021-12-01T15:31:59.9173104+00:00",
-    "durationMs": 51
+    "start": "2021-12-07T22:20:32.3054258+00:00",
+    "finished": "2021-12-07T22:20:32.3518587+00:00",
+    "durationMs": 46
   }
 }

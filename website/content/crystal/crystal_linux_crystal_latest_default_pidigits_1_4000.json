@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "crystal",
   "os": "linux",
   "compiler": "crystal",
@@ -6,23 +7,23 @@
   "test": "pidigits",
   "code": "1.cr",
   "input": "4000",
-  "timeMS": 713.2988,
-  "timeStdDevMS": 19.06490547690522,
-  "memBytes": 5222400,
-  "cpuTimeMS": 823.3332,
-  "cpuTimeUserMS": 716.6666,
-  "cpuTimeKernelMS": 106.6666,
-  "githubRunId": "1526368549",
+  "timeMS": 687.8458,
+  "timeStdDevMS": 9.975972490105155,
+  "memBytes": 5218304,
+  "cpuTimeMS": 803.3332,
+  "cpuTimeUserMS": 709.9999,
+  "cpuTimeKernelMS": 93.3333,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "Crystal 1.2.2 [6529d725a] (2021-11-10)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2021-12-01T15:05:26.8181656+00:00",
-    "finished": "2021-12-01T15:05:38.0249845+00:00",
-    "durationMs": 11206
+    "start": "2021-12-07T21:47:21.1227211+00:00",
+    "finished": "2021-12-07T21:47:36.3780728+00:00",
+    "durationMs": 15255
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:29:28.5110655+00:00",
-    "finished": "2021-12-01T15:29:28.5216564+00:00",
-    "durationMs": 10
+    "start": "2021-12-07T22:17:04.3022695+00:00",
+    "finished": "2021-12-07T22:17:04.3118052+00:00",
+    "durationMs": 9
   }
 }

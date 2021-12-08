@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "swift",
   "os": "linux",
   "compiler": "swift",
@@ -6,23 +7,23 @@
   "test": "helloworld",
   "code": "1.swift",
   "input": "QwQ",
-  "timeMS": 2.1333,
-  "timeStdDevMS": 0.729785436275622,
-  "memBytes": 2338816,
+  "timeMS": 2.3553,
+  "timeStdDevMS": 0.2929269584725857,
+  "memBytes": 2342912,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "Swift version 5.5.1 (swift-5.5.1-RELEASE)\nTarget: x86_64-unknown-linux-gnu",
-    "start": "2021-12-01T15:05:55.6972159+00:00",
-    "finished": "2021-12-01T15:06:10.2335918+00:00",
-    "durationMs": 14536
+    "start": "2021-12-07T21:46:50.415701+00:00",
+    "finished": "2021-12-07T21:47:07.3936195+00:00",
+    "durationMs": 16977
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:31:47.8176922+00:00",
-    "finished": "2021-12-01T15:31:47.8457981+00:00",
-    "durationMs": 28
+    "start": "2021-12-07T22:20:24.6112275+00:00",
+    "finished": "2021-12-07T22:20:24.6415078+00:00",
+    "durationMs": 30
   }
 }

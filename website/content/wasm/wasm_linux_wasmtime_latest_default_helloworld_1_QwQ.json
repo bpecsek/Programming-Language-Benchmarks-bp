@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "wasmtime",
@@ -6,23 +7,23 @@
   "test": "helloworld",
   "code": "1.rs",
   "input": "QwQ",
-  "timeMS": 8.8574,
-  "timeStdDevMS": 0.8745345664980887,
-  "memBytes": 11644928,
+  "timeMS": 7.4621,
+  "timeStdDevMS": 1.3109331077518789,
+  "memBytes": 11464704,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
-    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-12-01T15:07:54.7089366+00:00",
-    "finished": "2021-12-01T15:07:56.3131634+00:00",
-    "durationMs": 1604
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2021-12-07T21:54:20.4808313+00:00",
+    "finished": "2021-12-07T21:54:22.4103988+00:00",
+    "durationMs": 1929
   },
   "testLog": {
     "runtimeVersion": "wasmtime 0.31.0",
-    "start": "2021-12-01T15:31:58.6932228+00:00",
-    "finished": "2021-12-01T15:31:58.7567996+00:00",
-    "durationMs": 63
+    "start": "2021-12-07T22:20:52.0486657+00:00",
+    "finished": "2021-12-07T22:20:52.1110673+00:00",
+    "durationMs": 62
   }
 }

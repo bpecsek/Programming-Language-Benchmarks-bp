@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "graal/jvm",
@@ -6,23 +7,23 @@
   "test": "nsieve",
   "code": "1.java",
   "input": "10",
-  "timeMS": 1103.38,
-  "timeStdDevMS": 10.371509485283788,
-  "memBytes": 256794624,
-  "cpuTimeMS": 1633.3333,
-  "cpuTimeUserMS": 1510.0,
-  "cpuTimeKernelMS": 123.3333,
-  "githubRunId": "1526368549",
+  "timeMS": 1095.6644,
+  "timeStdDevMS": 7.243066563502824,
+  "memBytes": 240455680,
+  "cpuTimeMS": 1506.6665,
+  "cpuTimeUserMS": 1399.9999,
+  "cpuTimeKernelMS": 106.6666,
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "javac 17.0.1",
-    "start": "2021-12-01T15:04:57.1662919+00:00",
-    "finished": "2021-12-01T15:04:59.0131319+00:00",
-    "durationMs": 1846
+    "start": "2021-12-07T21:45:52.4618293+00:00",
+    "finished": "2021-12-07T21:45:54.3780059+00:00",
+    "durationMs": 1916
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
-    "start": "2021-12-01T15:30:03.9324391+00:00",
-    "finished": "2021-12-01T15:30:04.4242738+00:00",
+    "start": "2021-12-07T22:17:55.4853429+00:00",
+    "finished": "2021-12-07T22:17:55.9772527+00:00",
     "durationMs": 491
   }
 }

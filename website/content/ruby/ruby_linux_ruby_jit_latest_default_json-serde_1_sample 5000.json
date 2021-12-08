@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "ruby",
   "os": "linux",
   "compiler": "ruby/jit",
@@ -6,23 +7,23 @@
   "test": "json-serde",
   "code": "1.rb",
   "input": "sample 5000",
-  "timeMS": 510.5531,
-  "timeStdDevMS": 5.6521613680078415,
-  "memBytes": 105598976,
-  "cpuTimeMS": 926.6666,
-  "cpuTimeUserMS": 860.0,
+  "timeMS": 461.9627,
+  "timeStdDevMS": 7.079700960728031,
+  "memBytes": 105742336,
+  "cpuTimeMS": 796.6666,
+  "cpuTimeUserMS": 730.0,
   "cpuTimeKernelMS": 66.6666,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:04:58.6397731+00:00",
-    "finished": "2021-12-01T15:04:58.6446466+00:00",
+    "start": "2021-12-07T21:45:24.134084+00:00",
+    "finished": "2021-12-07T21:45:24.138336+00:00",
     "durationMs": 4
   },
   "testLog": {
     "runtimeVersion": "ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-linux]",
-    "start": "2021-12-01T15:31:41.5539705+00:00",
-    "finished": "2021-12-01T15:31:43.0788753+00:00",
-    "durationMs": 1524
+    "start": "2021-12-07T22:19:59.5921675+00:00",
+    "finished": "2021-12-07T22:20:00.9018788+00:00",
+    "durationMs": 1309
   }
 }

@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "rust",
   "os": "linux",
   "compiler": "rustc",
@@ -6,23 +7,23 @@
   "test": "pidigits",
   "code": "1.rs",
   "input": "4000",
-  "timeMS": 336.5827,
-  "timeStdDevMS": 1.9548135358647156,
-  "memBytes": 2621440,
-  "cpuTimeMS": 319.9999,
-  "cpuTimeUserMS": 306.6666,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1526368549",
+  "timeMS": 290.3579,
+  "timeStdDevMS": 0.743270410640271,
+  "memBytes": 2670592,
+  "cpuTimeMS": 270.0,
+  "cpuTimeUserMS": 270.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1550938678",
   "buildLog": {
-    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-12-01T15:10:41.6997445+00:00",
-    "finished": "2021-12-01T15:10:47.0403101+00:00",
-    "durationMs": 5340
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2021-12-07T21:52:24.0571647+00:00",
+    "finished": "2021-12-07T21:52:29.8040157+00:00",
+    "durationMs": 5746
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:31:47.4898813+00:00",
-    "finished": "2021-12-01T15:31:47.4957234+00:00",
-    "durationMs": 5
+    "start": "2021-12-07T22:20:24.2980012+00:00",
+    "finished": "2021-12-07T22:20:24.3025535+00:00",
+    "durationMs": 4
   }
 }

@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "pyjion",
@@ -6,23 +7,23 @@
   "test": "nbody",
   "code": "1.py",
   "input": "100000",
-  "timeMS": 1641.0038,
-  "timeStdDevMS": 18.29603864674882,
-  "memBytes": 29356032,
-  "cpuTimeMS": 1619.9999,
-  "cpuTimeUserMS": 1606.6666,
+  "timeMS": 1483.0872,
+  "timeStdDevMS": 10.950054073078258,
+  "memBytes": 27586560,
+  "cpuTimeMS": 1466.6666,
+  "cpuTimeUserMS": 1453.3333,
   "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-01T15:04:19.9472301+00:00",
-    "finished": "2021-12-01T15:04:19.9557164+00:00",
-    "durationMs": 8
+    "start": "2021-12-07T21:45:59.6571487+00:00",
+    "finished": "2021-12-07T21:45:59.6638301+00:00",
+    "durationMs": 6
   },
   "testLog": {
     "runtimeVersion": "Python 3.10.0",
-    "start": "2021-12-01T15:31:13.2898077+00:00",
-    "finished": "2021-12-01T15:31:13.7179608+00:00",
-    "durationMs": 428
+    "start": "2021-12-07T22:19:37.8587113+00:00",
+    "finished": "2021-12-07T22:19:38.3548962+00:00",
+    "durationMs": 496
   }
 }

@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "node",
@@ -6,23 +7,23 @@
   "test": "pidigits",
   "code": "2.rs",
   "input": "4000",
-  "timeMS": 1041.4025,
-  "timeStdDevMS": 1.5614817524816456,
-  "memBytes": 48549888,
-  "cpuTimeMS": 1086.6666,
-  "cpuTimeUserMS": 1076.6666,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1526368549",
+  "timeMS": 948.5921,
+  "timeStdDevMS": 61.37444451276118,
+  "memBytes": 50847744,
+  "cpuTimeMS": 996.6666,
+  "cpuTimeUserMS": 996.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1550938678",
   "buildLog": {
-    "compilerVersion": "rustc 1.56.1 (59eed8a2a 2021-11-01)",
-    "start": "2021-12-01T15:10:21.1398538+00:00",
-    "finished": "2021-12-01T15:10:23.6493281+00:00",
-    "durationMs": 2509
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2021-12-07T21:49:17.7462588+00:00",
+    "finished": "2021-12-07T21:49:21.110704+00:00",
+    "durationMs": 3364
   },
   "testLog": {
-    "runtimeVersion": "v14.18.1",
-    "start": "2021-12-01T15:32:16.4502009+00:00",
-    "finished": "2021-12-01T15:32:16.6803585+00:00",
-    "durationMs": 230
+    "runtimeVersion": "v16.13.0",
+    "start": "2021-12-07T22:20:31.4069575+00:00",
+    "finished": "2021-12-07T22:20:31.6396908+00:00",
+    "durationMs": 232
   }
 }

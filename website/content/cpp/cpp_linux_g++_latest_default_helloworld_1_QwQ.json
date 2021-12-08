@@ -1,4 +1,5 @@
 {
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "cpp",
   "os": "linux",
   "compiler": "g++",
@@ -6,23 +7,23 @@
   "test": "helloworld",
   "code": "1.cpp",
   "input": "QwQ",
-  "timeMS": 2.6381,
-  "timeStdDevMS": 0.6491498455672619,
-  "memBytes": 1069056,
+  "timeMS": 1.6064,
+  "timeStdDevMS": 0.5476766682998282,
+  "memBytes": 1003520,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1526368549",
+  "githubRunId": "1550938678",
   "buildLog": {
     "compilerVersion": "g++ (GCC) 11.2.0\nCopyright (C) 2021 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
-    "start": "2021-12-01T15:03:32.8178772+00:00",
-    "finished": "2021-12-01T15:03:42.2757886+00:00",
-    "durationMs": 9457
+    "start": "2021-12-07T21:45:03.8613806+00:00",
+    "finished": "2021-12-07T21:45:33.748697+00:00",
+    "durationMs": 29887
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-01T15:29:26.7411888+00:00",
-    "finished": "2021-12-01T15:29:26.7464257+00:00",
+    "start": "2021-12-07T22:17:02.3628239+00:00",
+    "finished": "2021-12-07T22:17:02.3685637+00:00",
     "durationMs": 5
   }
 }
