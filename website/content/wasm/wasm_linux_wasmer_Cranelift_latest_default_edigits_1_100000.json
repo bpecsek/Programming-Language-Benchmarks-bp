@@ -7,23 +7,23 @@
   "test": "edigits",
   "code": "1.rs",
   "input": "100000",
-  "timeMS": 151.4597,
-  "timeStdDevMS": 10.09163227249852,
-  "memBytes": 44904448,
-  "cpuTimeMS": 136.6666,
-  "cpuTimeUserMS": 130.0,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1550938678",
+  "timeMS": 144.6813,
+  "timeStdDevMS": 0.7442406935931096,
+  "memBytes": 45015040,
+  "cpuTimeMS": 129.9999,
+  "cpuTimeUserMS": 126.6666,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1579924640",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2021-12-07T21:53:38.5932063+00:00",
-    "finished": "2021-12-07T21:53:42.0019226+00:00",
-    "durationMs": 3408
+    "start": "2021-12-15T08:27:53.4604238+00:00",
+    "finished": "2021-12-15T08:27:56.053114+00:00",
+    "durationMs": 2592
   },
   "testLog": {
     "runtimeVersion": "wasmer 2.1.0",
-    "start": "2021-12-07T22:20:49.8638253+00:00",
-    "finished": "2021-12-07T22:20:50.0050972+00:00",
-    "durationMs": 141
+    "start": "2021-12-15T09:07:51.9811285+00:00",
+    "finished": "2021-12-15T09:07:52.1315946+00:00",
+    "durationMs": 150
   }
 }

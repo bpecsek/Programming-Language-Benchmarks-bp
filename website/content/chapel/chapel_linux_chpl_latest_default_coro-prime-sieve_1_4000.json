@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.chpl",
   "input": "4000",
-  "timeMS": 3919.2401,
-  "timeStdDevMS": 43.958093556932646,
-  "memBytes": 72716288,
-  "cpuTimeMS": 7693.3333,
-  "cpuTimeUserMS": 7633.3333,
-  "cpuTimeKernelMS": 60.0,
-  "githubRunId": "1550938678",
+  "timeMS": 3991.7622,
+  "timeStdDevMS": 12.670351431984535,
+  "memBytes": 85164032,
+  "cpuTimeMS": 7836.6666,
+  "cpuTimeUserMS": 7793.3333,
+  "cpuTimeKernelMS": 43.3333,
+  "githubRunId": "1579924640",
   "buildLog": {
-    "compilerVersion": "chpl version 1.25.0\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2021-12-07T21:44:26.909969+00:00",
-    "finished": "2021-12-07T21:44:40.2454682+00:00",
-    "durationMs": 13335
+    "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
+    "start": "2021-12-15T08:23:35.6716798+00:00",
+    "finished": "2021-12-15T08:23:47.4758242+00:00",
+    "durationMs": 11804
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-07T22:17:01.414212+00:00",
-    "finished": "2021-12-07T22:17:01.7052397+00:00",
-    "durationMs": 291
+    "start": "2021-12-15T09:03:22.3245561+00:00",
+    "finished": "2021-12-15T09:03:22.7129845+00:00",
+    "durationMs": 388
   }
 }

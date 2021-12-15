@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "1.rs",
   "input": "500000",
-  "timeMS": 52.3109,
-  "timeStdDevMS": 0.46696999189812616,
-  "memBytes": 13099008,
-  "cpuTimeMS": 36.6666,
-  "cpuTimeUserMS": 36.6666,
+  "timeMS": 53.6809,
+  "timeStdDevMS": 3.4578876138475074,
+  "memBytes": 12718080,
+  "cpuTimeMS": 43.3333,
+  "cpuTimeUserMS": 43.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1550938678",
+  "githubRunId": "1579924640",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2021-12-07T21:50:17.0805526+00:00",
-    "finished": "2021-12-07T21:50:21.6392164+00:00",
-    "durationMs": 4558
+    "start": "2021-12-15T08:29:14.6468301+00:00",
+    "finished": "2021-12-15T08:29:18.0803551+00:00",
+    "durationMs": 3433
   },
   "testLog": {
-    "runtimeVersion": "wasmedge version 0.8.2",
-    "start": "2021-12-07T22:20:32.149524+00:00",
-    "finished": "2021-12-07T22:20:32.1825493+00:00",
+    "runtimeVersion": "wasmedge version 0.9.0",
+    "start": "2021-12-15T09:07:56.726567+00:00",
+    "finished": "2021-12-15T09:07:56.7601674+00:00",
     "durationMs": 33
   }
 }

@@ -7,23 +7,23 @@
   "test": "json-serde",
   "code": "1.rb",
   "input": "sample 5000",
-  "timeMS": 461.9627,
-  "timeStdDevMS": 7.079700960728031,
-  "memBytes": 105742336,
-  "cpuTimeMS": 796.6666,
+  "timeMS": 449.0013,
+  "timeStdDevMS": 27.04738240206131,
+  "memBytes": 106885120,
+  "cpuTimeMS": 790.0,
   "cpuTimeUserMS": 730.0,
-  "cpuTimeKernelMS": 66.6666,
-  "githubRunId": "1550938678",
+  "cpuTimeKernelMS": 60.0,
+  "githubRunId": "1579924640",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-07T21:45:24.134084+00:00",
-    "finished": "2021-12-07T21:45:24.138336+00:00",
-    "durationMs": 4
+    "start": "2021-12-15T08:24:43.1900317+00:00",
+    "finished": "2021-12-15T08:24:43.1952247+00:00",
+    "durationMs": 5
   },
   "testLog": {
     "runtimeVersion": "ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-linux]",
-    "start": "2021-12-07T22:19:59.5921675+00:00",
-    "finished": "2021-12-07T22:20:00.9018788+00:00",
-    "durationMs": 1309
+    "start": "2021-12-15T09:07:04.1543596+00:00",
+    "finished": "2021-12-15T09:07:05.6814387+00:00",
+    "durationMs": 1527
   }
 }
