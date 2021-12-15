@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "1.nim",
   "input": "1000",
-  "timeMS": 57.04,
-  "timeStdDevMS": 1.0570303322674,
-  "memBytes": 2027520,
+  "timeMS": 55.5126,
+  "timeStdDevMS": 0.0712972884009797,
+  "memBytes": 2023424,
   "cpuTimeMS": 50.0,
   "cpuTimeUserMS": 50.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1579924640",
+  "githubRunId": "1584174668",
   "buildLog": {
     "compilerVersion": "Nim Compiler Version 1.6.0 [Linux: amd64]\nCompiled at 2021-10-19\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 727c6378d2464090564dbcd9bc8b9ac648467e38\nactive boot switches: -d:release -d:danger",
-    "start": "2021-12-15T08:24:32.1437134+00:00",
-    "finished": "2021-12-15T08:24:40.641765+00:00",
-    "durationMs": 8498
+    "start": "2021-12-15T18:49:10.5292166+00:00",
+    "finished": "2021-12-15T18:49:19.8710348+00:00",
+    "durationMs": 9341
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T09:05:23.7850434+00:00",
-    "finished": "2021-12-15T09:05:23.7892057+00:00",
+    "start": "2021-12-15T19:34:21.9777081+00:00",
+    "finished": "2021-12-15T19:34:21.9822702+00:00",
     "durationMs": 4
   }
 }

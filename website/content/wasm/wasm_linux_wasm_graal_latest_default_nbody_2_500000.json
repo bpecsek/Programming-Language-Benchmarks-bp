@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "2.rs",
   "input": "500000",
-  "timeMS": 1041.1822,
-  "timeStdDevMS": 29.79243289970346,
-  "memBytes": 201572352,
-  "cpuTimeMS": 1336.6666,
-  "cpuTimeUserMS": 1276.6666,
-  "cpuTimeKernelMS": 60.0,
-  "githubRunId": "1579924640",
+  "timeMS": 1122.7407,
+  "timeStdDevMS": 6.297527264993283,
+  "memBytes": 205471744,
+  "cpuTimeMS": 1426.6666,
+  "cpuTimeUserMS": 1350.0,
+  "cpuTimeKernelMS": 76.6666,
+  "githubRunId": "1584174668",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2021-12-15T08:30:38.1319221+00:00",
-    "finished": "2021-12-15T08:30:40.0003879+00:00",
-    "durationMs": 1868
+    "start": "2021-12-15T18:56:01.8663986+00:00",
+    "finished": "2021-12-15T18:56:04.4121229+00:00",
+    "durationMs": 2545
   },
   "testLog": {
     "runtimeVersion": "WebAssembly (GraalVM CE Native 21.3.0)",
-    "start": "2021-12-15T09:07:58.7971702+00:00",
-    "finished": "2021-12-15T09:07:59.0193549+00:00",
-    "durationMs": 222
+    "start": "2021-12-15T19:37:00.998653+00:00",
+    "finished": "2021-12-15T19:37:01.219397+00:00",
+    "durationMs": 220
   }
 }

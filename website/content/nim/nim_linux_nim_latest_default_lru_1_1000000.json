@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "1.nim",
   "input": "1000000",
-  "timeMS": 204.3354,
-  "timeStdDevMS": 15.29401870961322,
-  "memBytes": 1921024,
-  "cpuTimeMS": 193.3333,
-  "cpuTimeUserMS": 193.3333,
+  "timeMS": 211.089,
+  "timeStdDevMS": 0.7829178841573073,
+  "memBytes": 1867776,
+  "cpuTimeMS": 200.0,
+  "cpuTimeUserMS": 200.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1579924640",
+  "githubRunId": "1584174668",
   "buildLog": {
     "compilerVersion": "Nim Compiler Version 1.6.0 [Linux: amd64]\nCompiled at 2021-10-19\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 727c6378d2464090564dbcd9bc8b9ac648467e38\nactive boot switches: -d:release -d:danger",
-    "start": "2021-12-15T08:23:40.2499824+00:00",
-    "finished": "2021-12-15T08:23:48.6491325+00:00",
-    "durationMs": 8399
+    "start": "2021-12-15T18:48:16.0399993+00:00",
+    "finished": "2021-12-15T18:48:25.0123788+00:00",
+    "durationMs": 8972
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T09:05:23.7390125+00:00",
-    "finished": "2021-12-15T09:05:23.7461852+00:00",
-    "durationMs": 7
+    "start": "2021-12-15T19:34:21.9282664+00:00",
+    "finished": "2021-12-15T19:34:21.9367249+00:00",
+    "durationMs": 8
   }
 }

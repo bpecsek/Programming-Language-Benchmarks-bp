@@ -7,23 +7,23 @@
   "test": "regex-redux",
   "code": "3.chpl",
   "input": "250000_in",
-  "timeMS": 216.1,
-  "timeStdDevMS": 1.9709057841510573,
-  "memBytes": 59756544,
+  "timeMS": 211.9913,
+  "timeStdDevMS": 2.653611767635427,
+  "memBytes": 43880448,
   "cpuTimeMS": 203.3333,
-  "cpuTimeUserMS": 183.3333,
-  "cpuTimeKernelMS": 20.0,
-  "githubRunId": "1579924640",
+  "cpuTimeUserMS": 173.3333,
+  "cpuTimeKernelMS": 30.0,
+  "githubRunId": "1584174668",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2021-12-15T08:25:18.4613977+00:00",
-    "finished": "2021-12-15T08:25:35.7490966+00:00",
-    "durationMs": 17287
+    "start": "2021-12-15T18:49:48.9736053+00:00",
+    "finished": "2021-12-15T18:50:06.7704704+00:00",
+    "durationMs": 17796
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T09:03:23.1708539+00:00",
-    "finished": "2021-12-15T09:03:23.4467034+00:00",
-    "durationMs": 275
+    "start": "2021-12-15T19:32:29.2257834+00:00",
+    "finished": "2021-12-15T19:32:29.4890768+00:00",
+    "durationMs": 263
   }
 }

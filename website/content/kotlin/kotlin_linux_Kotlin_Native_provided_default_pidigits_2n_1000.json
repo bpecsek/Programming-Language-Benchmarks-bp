@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "2n.kt",
   "input": "1000",
-  "timeMS": 1035.0558,
-  "timeStdDevMS": 65.14731972915949,
-  "memBytes": 15314944,
-  "cpuTimeMS": 1006.6666,
+  "timeMS": 1027.764,
+  "timeStdDevMS": 10.798591119832729,
+  "memBytes": 14843904,
+  "cpuTimeMS": 1009.9999,
   "cpuTimeUserMS": 1003.3333,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1579924640",
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1584174668",
   "buildLog": {
-    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.0 (JRE 11.0.11+9)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.1/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 975ms\n1 actionable task: 1 executed",
-    "start": "2021-12-15T08:30:37.9598773+00:00",
-    "finished": "2021-12-15T08:31:38.7144163+00:00",
-    "durationMs": 60754
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.0 (JRE 11.0.11+9)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.1/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 836ms\n1 actionable task: 1 executed",
+    "start": "2021-12-15T18:54:24.5578776+00:00",
+    "finished": "2021-12-15T18:55:13.8667619+00:00",
+    "durationMs": 49308
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T09:05:19.8315931+00:00",
-    "finished": "2021-12-15T09:05:19.8489809+00:00",
-    "durationMs": 17
+    "start": "2021-12-15T19:34:17.9776134+00:00",
+    "finished": "2021-12-15T19:34:17.9932803+00:00",
+    "durationMs": 15
   }
 }

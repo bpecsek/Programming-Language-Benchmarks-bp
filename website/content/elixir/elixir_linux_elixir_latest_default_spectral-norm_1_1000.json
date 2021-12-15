@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "1.ex",
   "input": "1000",
-  "timeMS": 2523.4321,
-  "timeStdDevMS": 9.926905194973687,
-  "memBytes": 51556352,
-  "cpuTimeMS": 2556.6666,
-  "cpuTimeUserMS": 2496.6666,
-  "cpuTimeKernelMS": 60.0,
-  "githubRunId": "1579924640",
+  "timeMS": 2542.6284,
+  "timeStdDevMS": 12.519055757257936,
+  "memBytes": 50241536,
+  "cpuTimeMS": 2583.3332,
+  "cpuTimeUserMS": 2536.6666,
+  "cpuTimeKernelMS": 46.6666,
+  "githubRunId": "1584174668",
   "buildLog": {
-    "compilerVersion": "Erlang/OTP 24 [erts-12.1.5] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.13.0 (compiled with Erlang/OTP 24)",
-    "start": "2021-12-15T08:23:15.1120315+00:00",
-    "finished": "2021-12-15T08:23:20.4198776+00:00",
-    "durationMs": 5307
+    "compilerVersion": "Erlang/OTP 24 [erts-12.1.5] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.13.1 (compiled with Erlang/OTP 24)",
+    "start": "2021-12-15T18:47:34.8760129+00:00",
+    "finished": "2021-12-15T18:47:39.1903566+00:00",
+    "durationMs": 4314
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T09:04:08.7046205+00:00",
-    "finished": "2021-12-15T09:04:08.926642+00:00",
-    "durationMs": 222
+    "start": "2021-12-15T19:33:04.9134134+00:00",
+    "finished": "2021-12-15T19:33:05.1501526+00:00",
+    "durationMs": 236
   }
 }

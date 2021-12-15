@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "1.rs",
   "input": "250000",
-  "timeMS": 137.9417,
-  "timeStdDevMS": 21.82906863129986,
-  "memBytes": 35807232,
-  "cpuTimeMS": 153.3332,
-  "cpuTimeUserMS": 146.6666,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1579924640",
+  "timeMS": 159.3866,
+  "timeStdDevMS": 4.944732061834406,
+  "memBytes": 35840000,
+  "cpuTimeMS": 176.6666,
+  "cpuTimeUserMS": 160.0,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1584174668",
   "buildLog": {
     "compilerVersion": "deno 1.16.4 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.15\ntypescript 4.4.2",
-    "start": "2021-12-15T08:28:29.1424748+00:00",
-    "finished": "2021-12-15T08:28:31.9370313+00:00",
-    "durationMs": 2794
+    "start": "2021-12-15T18:53:29.7138881+00:00",
+    "finished": "2021-12-15T18:53:32.8774118+00:00",
+    "durationMs": 3163
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T09:07:54.7647582+00:00",
-    "finished": "2021-12-15T09:07:54.9174313+00:00",
-    "durationMs": 152
+    "start": "2021-12-15T19:36:56.8583581+00:00",
+    "finished": "2021-12-15T19:36:56.9907965+00:00",
+    "durationMs": 132
   }
 }

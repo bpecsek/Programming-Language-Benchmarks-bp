@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "1.ex",
   "input": "8000",
-  "timeMS": 4491.4898,
-  "timeStdDevMS": 69.73517327728729,
-  "memBytes": 56061952,
-  "cpuTimeMS": 5179.9998,
-  "cpuTimeUserMS": 4226.6666,
-  "cpuTimeKernelMS": 953.3332,
-  "githubRunId": "1579924640",
+  "timeMS": 4528.1884,
+  "timeStdDevMS": 71.2582128151551,
+  "memBytes": 54902784,
+  "cpuTimeMS": 5246.6666,
+  "cpuTimeUserMS": 4330.0,
+  "cpuTimeKernelMS": 916.6666,
+  "githubRunId": "1584174668",
   "buildLog": {
-    "compilerVersion": "Erlang/OTP 24 [erts-12.1.5] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.13.0 (compiled with Erlang/OTP 24)",
-    "start": "2021-12-15T08:23:09.8443766+00:00",
-    "finished": "2021-12-15T08:23:15.1097874+00:00",
-    "durationMs": 5265
+    "compilerVersion": "Erlang/OTP 24 [erts-12.1.5] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.13.1 (compiled with Erlang/OTP 24)",
+    "start": "2021-12-15T18:47:30.6131502+00:00",
+    "finished": "2021-12-15T18:47:34.874096+00:00",
+    "durationMs": 4260
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T09:04:08.297671+00:00",
-    "finished": "2021-12-15T09:04:08.7043883+00:00",
-    "durationMs": 406
+    "start": "2021-12-15T19:33:04.4988231+00:00",
+    "finished": "2021-12-15T19:33:04.9131638+00:00",
+    "durationMs": 414
   }
 }

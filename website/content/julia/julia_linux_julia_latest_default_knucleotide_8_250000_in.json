@@ -7,23 +7,23 @@
   "test": "knucleotide",
   "code": "8.jl",
   "input": "250000_in",
-  "timeMS": 895.5303,
-  "timeStdDevMS": 45.898082703202384,
-  "memBytes": 256987136,
-  "cpuTimeMS": 1136.6666,
-  "cpuTimeUserMS": 990.0,
-  "cpuTimeKernelMS": 146.6666,
-  "githubRunId": "1579924640",
+  "timeMS": 924.845,
+  "timeStdDevMS": 0.5305498751295289,
+  "memBytes": 270061568,
+  "cpuTimeMS": 1170.0,
+  "cpuTimeUserMS": 1010.0,
+  "cpuTimeKernelMS": 160.0,
+  "githubRunId": "1584174668",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-15T08:22:57.460517+00:00",
-    "finished": "2021-12-15T08:23:00.4055717+00:00",
-    "durationMs": 2945
+    "start": "2021-12-15T18:47:30.4049351+00:00",
+    "finished": "2021-12-15T18:47:33.3222568+00:00",
+    "durationMs": 2917
   },
   "testLog": {
     "runtimeVersion": "julia version 1.7.0",
-    "start": "2021-12-15T09:05:02.265272+00:00",
-    "finished": "2021-12-15T09:05:04.033786+00:00",
-    "durationMs": 1768
+    "start": "2021-12-15T19:33:59.2059807+00:00",
+    "finished": "2021-12-15T19:34:01.0897258+00:00",
+    "durationMs": 1883
   }
 }
