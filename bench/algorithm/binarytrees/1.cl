@@ -4,11 +4,12 @@
 ;;; contributed by Roman Kashitsyn
 ;;; added eval-when by Bela Pecsek to run in container
 (declaim (optimize (speed 3) (safety 0) (space 0) (debug 0)))
-(defconstant min-depth    4 "Minimal depth of the binary tree.")
 
+(defconstant min-depth    4 "Minimal depth of the binary tree.")
 (deftype uint () '(unsigned-byte 31))
 
-(declaim (ftype (function (uint) list) build-tree))
+(declaim (ftype (function (uint) list) build-tree)
+         (inline build-tree check-node))
 (defun build-tree (depth)
   "Build a binary tree of the specified DEPTH. Leaves are represented by NIL,
      branches are represented by a cons cell."
@@ -16,8 +17,7 @@
   (cond ((zerop depth) (cons nil nil))
         (t (cons (build-tree (- depth 1)) (build-tree (- depth 1))))))
 
-(declaim (ftype (function (list) uint) check-node)
-         (maybe-inline build-tree check-node))
+(declaim (ftype (function (list) uint) check-node))
 (defun check-node (node)
   (declare (type list node))
   (cond ((car node) (the uint (+ 1 (check-node (car node)) (check-node (cdr node)))))
@@ -26,23 +26,13 @@
 (declaim (ftype (function (uint) null) loop-depths))
 (defun loop-depths (max-depth)
   (declare (type uint max-depth))
-  (labels ((build-tree (depth)
-             (declare (type uint max-depth))
-             (cond ((zerop depth) (cons nil nil))
-                   (t (cons (build-tree (- depth 1)) (build-tree (- depth 1))))))
-           (check-node (node)
-             (declare (type list node))
-             (cond ((car node) (the uint (+ 1 (check-node (car node))
-                                              (check-node (cdr node)))))
-                   (t 1))))
-    (declare (inline build-tree check-node))
-    (loop for depth of-type uint from min-depth by 2 upto max-depth
+  (loop for depth of-type uint from min-depth by 2 upto max-depth
           do (let ((iterations (ash 1 (+ max-depth min-depth (- depth))))
                    (check 0))
                (loop for i of-type uint from 1 upto iterations
                      do (incf check (check-node (build-tree depth))))
                (format t "~D	 trees of depth ~D	 check: ~D~%" iterations
-                       depth check)))))
+                       depth check))))
 
 (defun binary-trees-upto-size (n)
   (declare (type (integer 0 255) n))
