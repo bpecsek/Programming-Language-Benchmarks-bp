@@ -14,7 +14,7 @@
      branches are represented by a cons cell."
   (declare (type uint depth))
   (cond ((zerop depth) (cons nil nil))
-        (t (prog1 (cons (build-tree (- depth 1)) (build-tree (- depth 1)))))))
+        (t (cons (build-tree (- depth 1)) (build-tree (- depth 1))))))
 
 (declaim (ftype (function (list) uint) check-node)
          (maybe-inline build-tree check-node))
