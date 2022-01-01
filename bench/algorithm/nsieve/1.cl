@@ -14,7 +14,9 @@
        and count t)))
 
 (defun main (&optional n-supplied)
-  (let* ((args sb-ext:*posix-argv*)
+  (let* ((args #+sbcl sb-ext:*posix-argv*
+               #+cmu  extensions:*command-line-strings*
+	       #+gcl  si::*command-args*)
 	 (n (or n-supplied (parse-integer (car (last args))))))
   (loop for k from n downto (- n 2) 
      for m = (* 10000 (expt 2 k)) do

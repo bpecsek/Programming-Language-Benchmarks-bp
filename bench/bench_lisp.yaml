@@ -7,6 +7,10 @@ problems:
     source:
       - 1.cl
       - 2.cl
+      - 3.cl
+      - 4.cl
+      - 5.cl
+      - 6.cl
   - name: fannkuch-redux
     source:
       - 1.cl
@@ -37,6 +41,7 @@ problems:
       - 2.cl
       - 3.cl
       - 4.cl
+      - 5.cl
   - name: mandelbrot
     source:
       - 1.cl
@@ -48,7 +53,7 @@ source_rename_to: app.cl
 environments:
   - os: linux
     compiler: sbcl
-    version: stable
+    version: latest
     # docker: fukamachi/sbcl:latest-ubuntu
     include: lisp
     build: sbcl --dynamic-space-size 8Gb --noinform --disable-debugger --non-interactive --load bundle.cl

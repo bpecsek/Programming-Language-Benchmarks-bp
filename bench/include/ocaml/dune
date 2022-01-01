@@ -1,13 +1,13 @@
 (executable
  (name app)
- (libraries unix res yojson)
+ (libraries unix re res yojson)
  (ocamlopt_flags
   -verbose
   -inline
   100
   -O3
   -cc
-  "gcc -pipe -Wall -O3 -fomit-frame-pointer -march=skylake -mno-avx512f -fopenmp"
+  "gcc -pipe -Wall -O3 -fomit-frame-pointer -march=broadwell -fopenmp"
   -nodynlink
   -noassert
   -unsafe

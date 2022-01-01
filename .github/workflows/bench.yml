@@ -22,39 +22,43 @@ jobs:
             csharp,
             crystal,
             d,
-            #dart,
-            #elixir,
+            dart,
+            elixir,
             fortran,
             go,
             haskell,
-            #haxe,
-            #java,
-            #javascript,
+            haxe,
+            java,
+            javascript,
             julia,
-            #kotlin,
+            kotlin,
             lisp,
-            #lua,
-            #nim,
+            lua,
+            nim,
             ocaml,
-            #perl,
-            #python,
+            perl,
+            python,
             racket,
-            #ruby,
+            ruby,
             rust,
             swift,
             typescript,
             v,
-            #wasm,
-            #wren,
+            wasm,
+            # wren,
             zig,
           ]
     steps:
-      - uses: actions/checkout@v2
+      - run: lscpu      
+      - uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.x'
       - name: Install
-        run: |
-          lscpu          
-          echo '# placeholder' >> $PROFILE
+        run: |   
+          echo '# placeholder' > $PROFILE
+          dotnet --info
           sudo apt-get update -y
+      - uses: actions/checkout@v2
       - name: Install rust stable
         uses: actions-rs/toolchain@v1
         if: matrix.lang == 'rust' || matrix.lang == 'wasm'
@@ -86,11 +90,6 @@ jobs:
         env:
           LISP: sbcl-bin
         run: ./.github/lisp.sh
-      - name: Install lisp nightly
-        if: matrix.lang == 'lisp-nightly'
-        env:
-          LISP: /usr/local/bin/sbcl
-        run: ./.github/lisp-nightly.sh
       - name: Install racket
         if: matrix.lang == 'racket'
         run: ./.github/racket.sh
@@ -98,7 +97,7 @@ jobs:
         if: matrix.lang == 'fortran'
         run: ./.github/fortran.sh
       - name: Install loom
-        if: matrix.lang == 'java' || matrix.lang == 'kotlin'
+        if: matrix.lang == 'java'
         run: ./.github/loom.sh
       - name: Install graalvm native-image
         if: matrix.lang == 'java'
@@ -107,7 +106,7 @@ jobs:
         if: matrix.lang == 'javascript'
         run: ./.github/graalvm-node.sh
       - name: Install zig
-        if: matrix.lang == 'zig' || matrix.lang == 'c' || matrix.lang == 'cpp'
+        if: matrix.lang == 'zig' || matrix.lang == 'c' || matrix.lang == 'cpp' || matrix.lang == 'v'
         run: ./.github/zig.sh
       - name: Install crystal
         if: matrix.lang == 'crystal'
@@ -185,10 +184,15 @@ jobs:
       matrix:
         os: [ubuntu-20.04]
     steps:
+      - run: lscpu
+      - uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.x'
       - name: Install
         run: |
-          lscpu
+          dotnet --info
           echo '# placeholder' > $PROFILE
+          sudo apt-get update -y
       - uses: actions/checkout@v2
       - uses: actions/download-artifact@v2
         with:
@@ -198,6 +202,7 @@ jobs:
       - run: ./.github/graalvm-node.sh
       - run: ./.github/truffleruby.sh
       - run: ./.github/wasm.sh
+      - run: ./.github/fortran.sh
       - run: ./.github/loom.sh
       - run: ./.github/racket.sh
       # - run: sudo ./.github/dart.sh
@@ -208,6 +213,7 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: "3.x"
+      - run: ./.github/python.sh
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3 # Not needed with a .ruby-version file
@@ -216,6 +222,7 @@ jobs:
         run: |
           source $PROFILE
           pushd bench
+          dotnet run -c Release --project tool -- --task test --ignore-missing
           dotnet run -c Release --project tool -- --task bench --ignore-missing
           popd
       - uses: actions/upload-artifact@v2
@@ -232,6 +239,9 @@ jobs:
         os: [ubuntu-20.04]
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14.x
       - uses: actions/download-artifact@v2
         with:
           # Artifact name

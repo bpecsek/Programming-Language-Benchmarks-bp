@@ -21,7 +21,16 @@ problems:
   - name: fasta
     source:
       - 5.chpl
+  - name: knucleotide
+    source:
+      - 3.chpl
+  - name: regex-redux
+    source:
+      - 3.chpl
   - name: coro-prime-sieve
+    source:
+      - 1.chpl
+  - name: secp256k1
     source:
       - 1.chpl
 compiler_version_command:
@@ -37,7 +46,7 @@ environments:
     docker: chapel/chapel
     include: chapel
     include_sub_dir: src
-    build: mason build --release --show --static
+    build: mason build --release --show -- --static --ccflags -march=broadwell
     after_build:
       - cp target/release/app out
     out_dir: out

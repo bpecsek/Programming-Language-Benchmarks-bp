@@ -15,6 +15,9 @@ problems:
   - name: fasta
     source:
       - 7.jl
+  - name: knucleotide
+    source:
+      - 8.jl
   - name: fannkuch-redux
     source:
       - 2.jl
@@ -26,6 +29,9 @@ problems:
     source:
       - 1.jl
       - 3.jl
+  - name: nsieve
+    source:
+      - 1.jl
 compiler_version_command:
 compiler_version_regex:
 runtime_version_parameter: -v

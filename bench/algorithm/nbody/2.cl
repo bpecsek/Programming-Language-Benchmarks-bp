@@ -21,7 +21,6 @@
 ;;;   * calculate magnitude by (/ 1.0d0 (* dist_sq distance))
 ;;;   * precompute mass * mag instead of dx,y,z * mag 
 ;;; sbcl --load nbody3.lisp --no-userinit --eval "(setf *block-compile-default* t)" --eval "(save-lisp-and-die \"nbody3.core\" :executable t :purify t :toplevel (lambda () (main) (quit)))"
-
 (declaim (optimize (speed 3) (safety 0) (space 0) (debug 0)))
 
 (defconstant +days-per-year+ 365.24d0)
@@ -159,7 +158,6 @@
     (format t "~,9F~%" (energy system))))
 
 (defun main (&optional n-supplied)
-  (let ((n (or n-supplied (parse-integer (or (car (last #+sbcl sb-ext:*posix-argv*
-                                                        #+cmu  extensions:*command-line-strings*
-					                #+gcl  si::*command-args*)) "1")))))
+  (let ((n (or n-supplied (parse-integer (or (car (last #+sbcl sb-ext:*posix-argv*))
+                                             "10000")))))
     (nbody n)))

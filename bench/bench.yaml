@@ -18,6 +18,8 @@ problems:
         repeat: 5
   - name: binarytrees
     unittests:
+      - input: 6
+        output: 6_out
       - input: 10
         output: 10_out
     tests:
@@ -30,6 +32,7 @@ problems:
       - input: 10000
         output: 10000_out
     tests:
+      - input: 100000
       - input: 500000
       - input: 5000000
   - name: spectral-norm
@@ -49,6 +52,7 @@ problems:
       - input: 30
         output: 30_out
     tests:
+      - input: 1000
       - input: 4000
       - input: 8000
   - name: edigits
@@ -87,6 +91,34 @@ problems:
     tests:
       - input: 250000
       - input: 2500000
+  - name: knucleotide
+    data:
+      - in.zip
+    data_setup_cmd:
+      - unzip in.zip
+      - rm in.zip
+    unittests:
+      - input: 25000_in
+        output: 25000_out
+      - input: 250000_in
+        output: 250000_out
+    tests:
+      - input: 250000_in
+      - input: 2500000_in
+  - name: regex-redux
+    data:
+      - ../knucleotide/in.zip
+    data_setup_cmd:
+      - unzip in.zip
+      - rm in.zip
+    unittests:
+      - input: 25000_in
+        output: 25000_out
+      - input: 250000_in
+        output: 250000_out
+    tests:
+      - input: 250000_in
+      - input: 2500000_in
   - name: json-serde
     data:
       - sample.json
@@ -110,10 +142,30 @@ problems:
           - javascript
   - name: http-server
     unittests:
-      - input: 100
-        output: 100_out
-      - input: 500
-        output: 500_out
+      - input: 10
+        output: 10_out
+      - input: 50
+        output: 50_out
     tests:
       - input: 500
       - input: 3000
+  - name: lru
+    unittests:
+      - input: 1000
+        output: 1000_out
+      - input: 10000
+        output: 10000_out
+    tests:
+      - input: 500000
+      - input: 1000000
+      - input: 5000000
+  - name: secp256k1
+    unittests:
+      - input: 1
+        output: 1_out
+      - input: 10
+        output: 10_out
+    tests:
+      - input: 50
+      - input: 500
+      - input: 5000

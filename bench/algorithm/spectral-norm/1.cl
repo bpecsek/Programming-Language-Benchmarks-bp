@@ -20,30 +20,32 @@
 ;;      * uint31 type defined
 ;;      * double-float values are always positive
 ;;      * threading slightly modified - 2021-09-19
+;;      * eval-A inlines function is optimised for ultimate speed - 2021-12-27
 (declaim (optimize (speed 3) (safety 0) (space 0) (debug 0)))
 
 (deftype uint31   () '(unsigned-byte 31))
 (deftype d+       () '(double-float 0d0))
 (deftype array-d+ () '(simple-array d+ (*)))
 
-(declaim (ftype (function (uint31 uint31) d+) eval-A)
+(declaim (ftype (function (uint31 uint31) uint31) eval-A)
          (inline eval-A))
 (defun eval-A (i j)
-  (let ((i+j (+ i j)))
-    (declare (type uint31 i+j))
-    (/ (float (+ (ash (* i+j (+ i+j 1)) -1) i 1) 0d0))))
+  (let ((i+1 (1+ i)))
+    (the uint31 (+ (the uint31 (ash (the uint31 (* (the uint31 (+ i j))
+                                                   (the uint31 (+ i+1 j)))) -1))
+                   i+1))))
 
 (declaim (ftype (function (array-d+ uint31 array-d+ uint31 uint31) null)
-                eval-At-times-u eval-A-times-u))
-(defun eval-At-times-u (u n Au start end)
-  (loop for i from start below end do
-    (setf (aref Au i) (loop for j below n
-                            summing (* (aref u j) (eval-A j i)) of-type d+))))
-
+                eval-A-times-u eval-At-times-u))
 (defun eval-A-times-u (u n Au start end)
-  (loop for i from start below end do
-    (setf (aref Au i) (loop for j below n
-                            summing (* (aref u j) (eval-A i j)) of-type d+))))
+  (loop for i of-type uint31 from start below end do
+    (setf (aref Au i) (loop for j of-type uint31 below n
+                            summing (/ (aref u j) (eval-A i j)) of-type d+))))
+
+(defun eval-At-times-u (u n Au start end)
+  (loop for i of-type uint31 from start below end do
+    (setf (aref Au i) (loop for j of-type uint31 below n
+                            summing (/ (aref u j) (eval-A j i)) of-type d+))))
 
 #+sb-thread
 (defun get-thread-count ()
@@ -53,15 +55,14 @@
 (declaim (ftype (function (uint31 uint31 function) null) execute-parallel))
 #+sb-thread
 (defun execute-parallel (start end function)
-  (declare (optimize (speed 0)))
-  (let* ((num-threads (get-thread-count)))
-    (mapcar #'sb-thread:join-thread
-            (loop with step = (truncate (- end start) num-threads)
-                  for index from start below end by step
-                  collecting (let ((start index)
-                                   (end (min end (+ index step))))
-                               (sb-thread:make-thread
-                                (lambda () (funcall function start end))))))))
+  (declare (optimize (speed 1)))
+  (mapc #'sb-thread:join-thread
+          (loop with step = (truncate (- end start) (get-thread-count))
+                for index from start below end by step
+                collecting (let ((start index)
+                                 (end (min end (+ index step))))
+                             (sb-thread:make-thread
+                              (lambda () (funcall function start end)))))))
 
 #-sb-thread
 (defun execute-parallel (start end function )
@@ -69,11 +70,9 @@
 
 (defun eval-AtA-times-u (u AtAu v n start end)
   (execute-parallel start end
-                    (lambda (start end)
-                      (eval-A-times-u u n v start end)))
+                    (lambda (start end) (eval-A-times-u u n v start end)))
   (execute-parallel start end
-                    (lambda (start end)
-                      (eval-At-times-u v n AtAu start end))))
+                    (lambda (start end) (eval-At-times-u v n AtAu start end))))
 
 (declaim (ftype (function (&optional uint31) null) main))
 (defun main (&optional n-supplied)
@@ -90,8 +89,8 @@
         (eval-AtA-times-u v u tmp n 0 n))
       (let ((vBv 0d0)
             (vv  0d0))
-        (loop for i below n do
-          (let ((aref-vi (aref v i)))
-            (incf vBv (* (aref u i) aref-vi))
-            (incf vv  (* aref-vi aref-vi))))
-        (format t "~11,9F~%" (sqrt (the d+ (/ vBv vv))))))))
+        (loop for i of-type uint31 below n do
+          (let ((vi (aref v i)))
+            (incf vBv (* (the d+ (aref u i)) (the d+ vi)))
+            (incf vv  (* (the d+ vi) (the d+ vi)))))
+        (format t "~11,9F~%" (sqrt (the d+ (/ (the d+ vBv) (the d+ vv)))))))))

@@ -29,6 +29,12 @@ problems:
   - name: fasta
     source:
       - 3.go
+  - name: knucleotide
+    source:
+      - 7.go
+  - name: regex-redux
+    source:
+      - 3.go
   - name: json-serde
     source:
       - 1.go
@@ -42,6 +48,13 @@ problems:
     source:
       - 1.go
       - 2.go
+  - name: lru
+    source:
+      - 1.go
+      - 2.go
+  - name: secp256k1
+    source:
+      - 0.go
 compiler_version_command: go version
 compiler_version_regex:
 runtime_version_parameter:

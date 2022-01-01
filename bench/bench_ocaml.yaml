@@ -5,7 +5,7 @@ problems:
       - 1.ml
   - name: binarytrees
     source:
-      - 5.ml
+      - 1.ml
   - name: fannkuch-redux
     source:
       - 2.ml
@@ -15,6 +15,12 @@ problems:
   - name: fasta
     source:
       - 6.ml
+  # - name: knucleotide
+  #   source:
+  #     - 3.ml
+  - name: regex-redux
+    source:
+      - 3.ml
   - name: spectral-norm
     source:
       - 2.ml

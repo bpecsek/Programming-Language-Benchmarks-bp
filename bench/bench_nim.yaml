@@ -32,6 +32,9 @@ problems:
   # - name: coro-prime-sieve
   #   source:
   #     - 1.nim
+  - name: lru
+    source:
+      - 1.nim
 compiler_version_command: nim --version
 compiler_version_regex:
 runtime_version_parameter:
@@ -45,7 +48,7 @@ environments:
     include: nim
     include_sub_dir:
     before_build:
-    build: nimble build app -y -x:off -a:off -d:release -d:danger -d:nimCoroutines --threads:on --verbose
+    build: nimble build app -y -x:off -a:off -d:release -d:danger -d:nimCoroutines --threads:on --opt:speed --verbose
     after_build:
       - cp app out
     out_dir: out
