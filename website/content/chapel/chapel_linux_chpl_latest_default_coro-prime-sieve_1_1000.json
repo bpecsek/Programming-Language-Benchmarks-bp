@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.chpl",
   "input": "1000",
-  "timeMS": 270.1338,
-  "timeStdDevMS": 4.747262919128597,
-  "memBytes": 35614720,
-  "cpuTimeMS": 500.0,
-  "cpuTimeUserMS": 490.0,
+  "timeMS": 284.4616,
+  "timeStdDevMS": 12.41475555793722,
+  "memBytes": 37703680,
+  "cpuTimeMS": 526.6666,
+  "cpuTimeUserMS": 516.6666,
   "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1584174668",
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2021-12-15T18:47:59.1294149+00:00",
-    "finished": "2021-12-15T18:48:11.5262568+00:00",
-    "durationMs": 12396
+    "start": "2022-01-05T11:13:46.0214381+00:00",
+    "finished": "2022-01-05T11:13:56.6365904+00:00",
+    "durationMs": 10615
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T19:32:28.3730413+00:00",
-    "finished": "2021-12-15T19:32:28.7328356+00:00",
-    "durationMs": 359
+    "start": "2022-01-05T11:41:43.0847313+00:00",
+    "finished": "2022-01-05T11:41:43.3757024+00:00",
+    "durationMs": 290
   }
 }

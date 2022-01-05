@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasm/graal",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "3.rs",
+  "input": "14",
+  "timeMS": 1779.4692,
+  "timeStdDevMS": 105.22234826824253,
+  "memBytes": 633475072,
+  "cpuTimeMS": 3309.9999,
+  "cpuTimeUserMS": 2943.3333,
+  "cpuTimeKernelMS": 366.6666,
+  "githubRunId": "1658059361",
+  "buildLog": {
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2022-01-05T11:21:23.7738065+00:00",
+    "finished": "2022-01-05T11:21:59.359785+00:00",
+    "durationMs": 35585
+  },
+  "testLog": {
+    "runtimeVersion": "WebAssembly (GraalVM CE Native 21.3.0)",
+    "start": "2022-01-05T11:45:00.4937489+00:00",
+    "finished": "2022-01-05T11:45:01.3369603+00:00",
+    "durationMs": 843
+  }
+}

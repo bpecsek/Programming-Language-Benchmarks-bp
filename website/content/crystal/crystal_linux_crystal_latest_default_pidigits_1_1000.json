@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "1.cr",
   "input": "1000",
-  "timeMS": 53.4808,
-  "timeStdDevMS": 5.173928411114064,
-  "memBytes": 7016448,
-  "cpuTimeMS": 39.9999,
-  "cpuTimeUserMS": 33.3333,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1584174668",
+  "timeMS": 51.5035,
+  "timeStdDevMS": 4.116763622070133,
+  "memBytes": 5300224,
+  "cpuTimeMS": 40.0,
+  "cpuTimeUserMS": 40.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "Crystal 1.2.2 [6529d725a] (2021-11-10)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2021-12-15T18:50:02.9208211+00:00",
-    "finished": "2021-12-15T18:50:14.1766258+00:00",
-    "durationMs": 11255
+    "start": "2022-01-05T11:16:27.4432216+00:00",
+    "finished": "2022-01-05T11:16:39.815846+00:00",
+    "durationMs": 12372
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T19:32:31.5094206+00:00",
-    "finished": "2021-12-15T19:32:31.5186429+00:00",
-    "durationMs": 9
+    "start": "2022-01-05T11:41:44.8786858+00:00",
+    "finished": "2022-01-05T11:41:44.8874902+00:00",
+    "durationMs": 8
   }
 }

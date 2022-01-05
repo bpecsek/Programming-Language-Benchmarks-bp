@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "4.java",
   "input": "8000",
-  "timeMS": 2066.6251,
-  "timeStdDevMS": 9.127045540772112,
-  "memBytes": 53420032,
-  "cpuTimeMS": 3956.6666,
-  "cpuTimeUserMS": 3936.6666,
-  "cpuTimeKernelMS": 20.0,
-  "githubRunId": "1584174668",
+  "timeMS": 2078.2268,
+  "timeStdDevMS": 25.836306850438167,
+  "memBytes": 53293056,
+  "cpuTimeMS": 3966.6666,
+  "cpuTimeUserMS": 3950.0,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2021-12-15T19:07:21.2724253+00:00",
-    "finished": "2021-12-15T19:07:24.5012222+00:00",
-    "durationMs": 3228
+    "start": "2022-01-05T11:16:13.4483831+00:00",
+    "finished": "2022-01-05T11:16:16.2265496+00:00",
+    "durationMs": 2778
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+27-1924)\nOpenJDK 64-Bit Server VM (build 18-ea+27-1924, mixed mode, sharing)",
-    "start": "2021-12-15T19:33:42.7445251+00:00",
-    "finished": "2021-12-15T19:33:43.1242978+00:00",
-    "durationMs": 379
+    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+29-2007)\nOpenJDK 64-Bit Server VM (build 18-ea+29-2007, mixed mode, sharing)",
+    "start": "2022-01-05T11:42:53.411256+00:00",
+    "finished": "2022-01-05T11:42:53.7826756+00:00",
+    "durationMs": 371
   }
 }

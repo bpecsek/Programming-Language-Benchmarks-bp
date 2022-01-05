@@ -7,23 +7,23 @@
   "test": "http-server",
   "code": "1.cr",
   "input": "500",
-  "timeMS": 1181.8754,
-  "timeStdDevMS": 109.55040412104067,
-  "memBytes": 33124352,
-  "cpuTimeMS": 96.6666,
-  "cpuTimeUserMS": 40.0,
+  "timeMS": 1118.1181,
+  "timeStdDevMS": 2.7515792198903877,
+  "memBytes": 34095104,
+  "cpuTimeMS": 103.3332,
+  "cpuTimeUserMS": 46.6666,
   "cpuTimeKernelMS": 56.6666,
-  "githubRunId": "1584174668",
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "Crystal 1.2.2 [6529d725a] (2021-11-10)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2021-12-15T18:48:44.3957498+00:00",
-    "finished": "2021-12-15T18:49:38.7318217+00:00",
-    "durationMs": 54336
+    "start": "2022-01-05T11:15:01.4266821+00:00",
+    "finished": "2022-01-05T11:16:00.5758015+00:00",
+    "durationMs": 59149
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T19:32:30.1405347+00:00",
-    "finished": "2021-12-15T19:32:31.4793968+00:00",
-    "durationMs": 1338
+    "start": "2022-01-05T11:41:44.8185669+00:00",
+    "finished": "2022-01-05T11:41:44.858096+00:00",
+    "durationMs": 39
   }
 }

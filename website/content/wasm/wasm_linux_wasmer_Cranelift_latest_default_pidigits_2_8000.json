@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "2.rs",
   "input": "8000",
-  "timeMS": 4949.6105,
-  "timeStdDevMS": 2.1567878438394765,
-  "memBytes": 45162496,
-  "cpuTimeMS": 4933.3332,
-  "cpuTimeUserMS": 4926.6666,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1584174668",
+  "timeMS": 4946.3795,
+  "timeStdDevMS": 1.8945647952319653,
+  "memBytes": 46071808,
+  "cpuTimeMS": 4926.6666,
+  "cpuTimeUserMS": 4923.3333,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2021-12-15T18:53:08.6589458+00:00",
-    "finished": "2021-12-15T18:53:11.4905799+00:00",
-    "durationMs": 2831
+    "start": "2022-01-05T11:18:43.4998059+00:00",
+    "finished": "2022-01-05T11:18:46.1255725+00:00",
+    "durationMs": 2625
   },
   "testLog": {
-    "runtimeVersion": "wasmer 2.1.0",
-    "start": "2021-12-15T19:36:55.2587185+00:00",
-    "finished": "2021-12-15T19:36:55.4109015+00:00",
-    "durationMs": 152
+    "runtimeVersion": "wasmer 2.1.1",
+    "start": "2022-01-05T11:44:53.4825561+00:00",
+    "finished": "2022-01-05T11:44:53.6333338+00:00",
+    "durationMs": 150
   }
 }

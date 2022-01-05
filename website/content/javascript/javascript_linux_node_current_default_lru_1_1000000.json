@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "1.js",
   "input": "1000000",
-  "timeMS": 799.3726,
-  "timeStdDevMS": 1.5559084945244281,
-  "memBytes": 40894464,
-  "cpuTimeMS": 796.6666,
-  "cpuTimeUserMS": 796.6666,
-  "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1584174668",
+  "timeMS": 797.7677,
+  "timeStdDevMS": 0.6245812143614876,
+  "memBytes": 40706048,
+  "cpuTimeMS": 793.3332,
+  "cpuTimeUserMS": 786.6666,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-15T18:47:44.9306821+00:00",
-    "finished": "2021-12-15T18:47:45.3488655+00:00",
-    "durationMs": 418
+    "start": "2022-01-05T11:13:52.6734534+00:00",
+    "finished": "2022-01-05T11:13:53.1112524+00:00",
+    "durationMs": 437
   },
   "testLog": {
-    "runtimeVersion": "v17.2.0",
-    "start": "2021-12-15T19:33:49.569025+00:00",
-    "finished": "2021-12-15T19:33:49.6935045+00:00",
-    "durationMs": 124
+    "runtimeVersion": "v17.3.0",
+    "start": "2022-01-05T11:42:59.8563183+00:00",
+    "finished": "2022-01-05T11:42:59.9799973+00:00",
+    "durationMs": 123
   }
 }

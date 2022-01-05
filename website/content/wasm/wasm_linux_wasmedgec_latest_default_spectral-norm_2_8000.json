@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "2.rs",
   "input": "8000",
-  "timeMS": 3446.4925,
-  "timeStdDevMS": 0.34632877924501143,
-  "memBytes": 14204928,
+  "timeMS": 3446.7488,
+  "timeStdDevMS": 1.0816157651094485,
+  "memBytes": 14241792,
   "cpuTimeMS": 3430.0,
   "cpuTimeUserMS": 3430.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1584174668",
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2021-12-15T18:54:50.4164669+00:00",
-    "finished": "2021-12-15T18:54:55.2642449+00:00",
-    "durationMs": 4847
+    "start": "2022-01-05T11:20:44.5899783+00:00",
+    "finished": "2022-01-05T11:20:48.6247254+00:00",
+    "durationMs": 4034
   },
   "testLog": {
     "runtimeVersion": "wasmedge version 0.9.0",
-    "start": "2021-12-15T19:36:58.9663018+00:00",
-    "finished": "2021-12-15T19:36:58.9888254+00:00",
-    "durationMs": 22
+    "start": "2022-01-05T11:44:58.4912016+00:00",
+    "finished": "2022-01-05T11:44:58.5158058+00:00",
+    "durationMs": 24
   }
 }

@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "1.rb",
   "input": "1000000",
-  "timeMS": 984.5963,
-  "timeStdDevMS": 12.760044363689966,
-  "memBytes": 79327232,
-  "cpuTimeMS": 1869.9999,
-  "cpuTimeUserMS": 1726.6666,
-  "cpuTimeKernelMS": 143.3333,
-  "githubRunId": "1584174668",
+  "timeMS": 815.5782,
+  "timeStdDevMS": 8.530758015753024,
+  "memBytes": 301940736,
+  "cpuTimeMS": 803.3332,
+  "cpuTimeUserMS": 656.6666,
+  "cpuTimeKernelMS": 146.6666,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-15T18:49:03.830517+00:00",
-    "finished": "2021-12-15T18:49:03.8330823+00:00",
+    "start": "2022-01-05T11:15:09.8113564+00:00",
+    "finished": "2022-01-05T11:15:09.813923+00:00",
     "durationMs": 2
   },
   "testLog": {
-    "runtimeVersion": "ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-linux]",
-    "start": "2021-12-15T19:36:11.1745544+00:00",
-    "finished": "2021-12-15T19:36:11.919895+00:00",
-    "durationMs": 745
+    "runtimeVersion": "ruby 3.1.0p0 (2021-12-25 revision fb4df44d16) [x86_64-linux]",
+    "start": "2022-01-05T11:44:04.8229219+00:00",
+    "finished": "2022-01-05T11:44:05.376294+00:00",
+    "durationMs": 553
   }
 }

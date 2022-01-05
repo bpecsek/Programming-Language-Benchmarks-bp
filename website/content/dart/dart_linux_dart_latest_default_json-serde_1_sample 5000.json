@@ -7,23 +7,23 @@
   "test": "json-serde",
   "code": "1.dart",
   "input": "sample 5000",
-  "timeMS": 285.986,
-  "timeStdDevMS": 0.3884163015803253,
-  "memBytes": 67186688,
+  "timeMS": 287.3951,
+  "timeStdDevMS": 1.7494331996392867,
+  "memBytes": 68616192,
   "cpuTimeMS": 283.3333,
-  "cpuTimeUserMS": 260.0,
-  "cpuTimeKernelMS": 23.3333,
-  "githubRunId": "1584174668",
+  "cpuTimeUserMS": 250.0,
+  "cpuTimeKernelMS": 33.3333,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "Dart SDK version: 2.15.1 (stable) (Tue Dec 14 13:32:21 2021 +0100) on \"linux_x64\"",
-    "start": "2021-12-15T18:48:16.713702+00:00",
-    "finished": "2021-12-15T18:48:23.3241877+00:00",
-    "durationMs": 6610
+    "start": "2022-01-05T11:14:06.7132403+00:00",
+    "finished": "2022-01-05T11:14:13.5027107+00:00",
+    "durationMs": 6789
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T19:32:59.576179+00:00",
-    "finished": "2021-12-15T19:33:00.1828715+00:00",
-    "durationMs": 606
+    "start": "2022-01-05T11:42:12.4539728+00:00",
+    "finished": "2022-01-05T11:42:14.0643209+00:00",
+    "durationMs": 1610
   }
 }

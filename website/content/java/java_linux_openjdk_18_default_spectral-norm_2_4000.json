@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "2.java",
   "input": "4000",
-  "timeMS": 2119.1021,
-  "timeStdDevMS": 36.63457230845436,
-  "memBytes": 39211008,
-  "cpuTimeMS": 4073.3332,
-  "cpuTimeUserMS": 4056.6666,
-  "cpuTimeKernelMS": 16.6666,
-  "githubRunId": "1584174668",
+  "timeMS": 2049.3453,
+  "timeStdDevMS": 187.1613552023049,
+  "memBytes": 39165952,
+  "cpuTimeMS": 3933.3333,
+  "cpuTimeUserMS": 3920.0,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2021-12-15T19:07:36.7379184+00:00",
-    "finished": "2021-12-15T19:07:39.9770769+00:00",
-    "durationMs": 3239
+    "start": "2022-01-05T11:16:27.0308861+00:00",
+    "finished": "2022-01-05T11:16:29.8563773+00:00",
+    "durationMs": 2825
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+27-1924)\nOpenJDK 64-Bit Server VM (build 18-ea+27-1924, mixed mode, sharing)",
-    "start": "2021-12-15T19:33:44.8175585+00:00",
-    "finished": "2021-12-15T19:33:44.957501+00:00",
-    "durationMs": 139
+    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+29-2007)\nOpenJDK 64-Bit Server VM (build 18-ea+29-2007, mixed mode, sharing)",
+    "start": "2022-01-05T11:42:55.3961605+00:00",
+    "finished": "2022-01-05T11:42:55.5296959+00:00",
+    "durationMs": 133
   }
 }

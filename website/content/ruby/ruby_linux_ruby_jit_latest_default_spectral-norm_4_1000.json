@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "4.rb",
   "input": "1000",
-  "timeMS": 3717.806,
-  "timeStdDevMS": 22.768760560323262,
-  "memBytes": 84455424,
-  "cpuTimeMS": 4576.6666,
-  "cpuTimeUserMS": 4453.3333,
-  "cpuTimeKernelMS": 123.3333,
-  "githubRunId": "1584174668",
+  "timeMS": 3622.7929,
+  "timeStdDevMS": 3.825181630981823,
+  "memBytes": 301371392,
+  "cpuTimeMS": 3610.0,
+  "cpuTimeUserMS": 3470.0,
+  "cpuTimeKernelMS": 140.0,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2021-12-15T18:49:06.2526625+00:00",
-    "finished": "2021-12-15T18:49:06.2566172+00:00",
-    "durationMs": 3
+    "start": "2022-01-05T11:15:12.9653835+00:00",
+    "finished": "2022-01-05T11:15:12.9710767+00:00",
+    "durationMs": 5
   },
   "testLog": {
-    "runtimeVersion": "ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-linux]",
-    "start": "2021-12-15T19:36:18.7690318+00:00",
-    "finished": "2021-12-15T19:36:19.2166654+00:00",
-    "durationMs": 447
+    "runtimeVersion": "ruby 3.1.0p0 (2021-12-25 revision fb4df44d16) [x86_64-linux]",
+    "start": "2022-01-05T11:44:08.0087716+00:00",
+    "finished": "2022-01-05T11:44:08.3252507+00:00",
+    "durationMs": 316
   }
 }

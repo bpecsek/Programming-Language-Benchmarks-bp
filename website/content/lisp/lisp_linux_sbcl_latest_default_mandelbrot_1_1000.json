@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "1.cl",
   "input": "1000",
-  "timeMS": 45.6625,
-  "timeStdDevMS": 0.9882372302910489,
-  "memBytes": 35807232,
-  "cpuTimeMS": 63.3333,
+  "timeMS": 47.2017,
+  "timeStdDevMS": 0.2044130703583611,
+  "memBytes": 38965248,
+  "cpuTimeMS": 60.0,
   "cpuTimeUserMS": 60.0,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1584174668",
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1658059361",
   "buildLog": {
-    "compilerVersion": "SBCL 2.1.11",
-    "start": "2021-12-15T18:50:59.2336753+00:00",
-    "finished": "2021-12-15T18:51:01.4899117+00:00",
-    "durationMs": 2256
+    "compilerVersion": "SBCL 2.2.0",
+    "start": "2022-01-05T11:16:57.0015998+00:00",
+    "finished": "2022-01-05T11:16:59.0331829+00:00",
+    "durationMs": 2031
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-15T19:34:18.8240136+00:00",
-    "finished": "2021-12-15T19:34:19.0195855+00:00",
-    "durationMs": 195
+    "start": "2022-01-05T11:43:32.6338001+00:00",
+    "finished": "2022-01-05T11:43:32.8443997+00:00",
+    "durationMs": 210
   }
 }

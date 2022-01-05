@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "2.rs",
   "input": "11",
-  "timeMS": 3126.7574,
-  "timeStdDevMS": 2.1106775033937115,
-  "memBytes": 42078208,
-  "cpuTimeMS": 3113.3332,
-  "cpuTimeUserMS": 3106.6666,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1584174668",
+  "timeMS": 3153.3657,
+  "timeStdDevMS": 44.97221252755255,
+  "memBytes": 43106304,
+  "cpuTimeMS": 3140.0,
+  "cpuTimeUserMS": 3140.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1658059361",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2021-12-15T18:52:23.1969698+00:00",
-    "finished": "2021-12-15T18:52:25.1274566+00:00",
-    "durationMs": 1930
+    "start": "2022-01-05T11:17:53.9261375+00:00",
+    "finished": "2022-01-05T11:17:55.739971+00:00",
+    "durationMs": 1813
   },
   "testLog": {
-    "runtimeVersion": "wasmer 2.1.0",
-    "start": "2021-12-15T19:36:44.5545164+00:00",
-    "finished": "2021-12-15T19:36:45.538888+00:00",
-    "durationMs": 984
+    "runtimeVersion": "wasmer 2.1.1",
+    "start": "2022-01-05T11:44:39.8951318+00:00",
+    "finished": "2022-01-05T11:44:40.8333437+00:00",
+    "durationMs": 938
   }
 }
