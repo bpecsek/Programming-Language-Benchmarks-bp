@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "lang": "c",
+  "os": "linux",
+  "compiler": "clang",
+  "compilerVersion": "13",
+  "test": "nsieve",
+  "code": "2.c",
+  "input": "12",
+  "timeMS": 55.7856,
+  "timeStdDevMS": 1.4950014347819174,
+  "memBytes": 4509696,
+  "cpuTimeMS": 43.3333,
+  "cpuTimeUserMS": 43.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1665287786",
+  "buildLog": {
+    "compilerVersion": "Ubuntu clang version 13.0.1-++20211223012851+9468a0f95385-1~exp1~20211223012902.41\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2022-01-06T23:11:57.5807005+00:00",
+    "finished": "2022-01-06T23:11:57.7668438+00:00",
+    "durationMs": 186
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-06T23:38:57.8991064+00:00",
+    "finished": "2022-01-06T23:38:57.9035211+00:00",
+    "durationMs": 4
+  }
+}

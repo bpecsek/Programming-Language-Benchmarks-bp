@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "lang": "v",
+  "os": "linux",
+  "compiler": "v+clang",
+  "compilerVersion": "latest",
+  "test": "fasta",
+  "code": "1.v",
+  "input": "2500000",
+  "timeMS": 2904.7915,
+  "timeStdDevMS": 284.9809485742511,
+  "memBytes": 614400,
+  "cpuTimeMS": 1473.3331,
+  "cpuTimeUserMS": 689.9999,
+  "cpuTimeKernelMS": 783.3332,
+  "githubRunId": "1665287786",
+  "buildLog": {
+    "compilerVersion": "V 0.2.4 60527a5",
+    "start": "2022-01-06T23:19:32.8407327+00:00",
+    "finished": "2022-01-06T23:19:37.2944294+00:00",
+    "durationMs": 4453
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-06T23:42:03.4510236+00:00",
+    "finished": "2022-01-06T23:42:03.4563987+00:00",
+    "durationMs": 5
+  }
+}

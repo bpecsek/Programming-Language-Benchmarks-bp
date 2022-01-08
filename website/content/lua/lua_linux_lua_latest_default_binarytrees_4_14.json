@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "lua",
   "os": "linux",
   "compiler": "lua",
@@ -7,23 +7,23 @@
   "test": "binarytrees",
   "code": "4.lua",
   "input": "14",
-  "timeMS": 362.4637,
-  "timeStdDevMS": 1.633210495721038,
-  "memBytes": 9592832,
-  "cpuTimeMS": 436.6666,
-  "cpuTimeUserMS": 426.6666,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1658059361",
+  "timeMS": 411.0226,
+  "timeStdDevMS": 4.490798683233632,
+  "memBytes": 9588736,
+  "cpuTimeMS": 493.3333,
+  "cpuTimeUserMS": 473.3333,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-05T11:13:13.6775165+00:00",
-    "finished": "2022-01-05T11:13:13.7038088+00:00",
-    "durationMs": 26
+    "start": "2022-01-06T23:15:54.3564097+00:00",
+    "finished": "2022-01-06T23:15:54.386561+00:00",
+    "durationMs": 30
   },
   "testLog": {
     "runtimeVersion": "Lua 5.4.3  Copyright (C) 1994-2021 Lua.org, PUC-Rio",
-    "start": "2022-01-05T11:43:35.6008977+00:00",
-    "finished": "2022-01-05T11:43:35.6535757+00:00",
-    "durationMs": 52
+    "start": "2022-01-06T23:41:08.8866816+00:00",
+    "finished": "2022-01-06T23:41:08.940393+00:00",
+    "durationMs": 53
   }
 }

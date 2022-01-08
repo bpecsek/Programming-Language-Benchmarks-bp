@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "rust",
   "os": "linux",
   "compiler": "rustc",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.rs",
   "input": "QwQ",
-  "timeMS": 1.7272,
-  "timeStdDevMS": 0.3594388014669535,
-  "memBytes": 757760,
+  "timeMS": 2.3597,
+  "timeStdDevMS": 0.6873038287395176,
+  "memBytes": 1990656,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1658059361",
+  "githubRunId": "1665287786",
   "buildLog": {
-    "compilerVersion": "rustc 1.59.0-nightly (7d6f94817 2022-01-04)",
-    "start": "2022-01-05T11:23:18.3138099+00:00",
-    "finished": "2022-01-05T11:23:22.7084506+00:00",
-    "durationMs": 4394
+    "compilerVersion": "rustc 1.59.0-nightly (f1ce0e6a0 2022-01-05)",
+    "start": "2022-01-06T23:27:05.4194506+00:00",
+    "finished": "2022-01-06T23:27:10.2812175+00:00",
+    "durationMs": 4861
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-05T11:44:22.3547239+00:00",
-    "finished": "2022-01-05T11:44:22.3616903+00:00",
+    "start": "2022-01-06T23:41:57.9254919+00:00",
+    "finished": "2022-01-06T23:41:57.9317741+00:00",
     "durationMs": 6
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "javascript",
   "os": "linux",
   "compiler": "node",
@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "1.js",
   "input": "5000000",
-  "timeMS": 3721.0132,
-  "timeStdDevMS": 22.6622439603848,
-  "memBytes": 41381888,
-  "cpuTimeMS": 3750.0,
-  "cpuTimeUserMS": 3730.0,
+  "timeMS": 3981.1346,
+  "timeStdDevMS": 46.60693831483999,
+  "memBytes": 41680896,
+  "cpuTimeMS": 4013.3333,
+  "cpuTimeUserMS": 3993.3333,
   "cpuTimeKernelMS": 20.0,
-  "githubRunId": "1658059361",
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-05T11:13:41.3658715+00:00",
-    "finished": "2022-01-05T11:13:41.7977376+00:00",
-    "durationMs": 431
+    "start": "2022-01-06T23:15:43.864187+00:00",
+    "finished": "2022-01-06T23:15:44.2920241+00:00",
+    "durationMs": 427
   },
   "testLog": {
     "runtimeVersion": "v16.13.1",
-    "start": "2022-01-05T11:42:57.7917342+00:00",
-    "finished": "2022-01-05T11:42:57.9086233+00:00",
-    "durationMs": 116
+    "start": "2022-01-06T23:40:30.7846182+00:00",
+    "finished": "2022-01-06T23:40:30.8869816+00:00",
+    "durationMs": 102
   }
 }

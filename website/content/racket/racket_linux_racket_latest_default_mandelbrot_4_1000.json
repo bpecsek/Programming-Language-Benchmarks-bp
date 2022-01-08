@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "racket",
   "os": "linux",
   "compiler": "racket",
@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "4.rkt",
   "input": "1000",
-  "timeMS": 241.8155,
-  "timeStdDevMS": 2.1269563065564014,
-  "memBytes": 69595136,
-  "cpuTimeMS": 313.3333,
-  "cpuTimeUserMS": 283.3333,
-  "cpuTimeKernelMS": 30.0,
-  "githubRunId": "1658059361",
+  "timeMS": 243.6126,
+  "timeStdDevMS": 16.115660108416282,
+  "memBytes": 71503872,
+  "cpuTimeMS": 313.3332,
+  "cpuTimeUserMS": 276.6666,
+  "cpuTimeKernelMS": 36.6666,
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "Welcome to Racket v8.3 [cs].",
-    "start": "2022-01-05T11:15:01.9436145+00:00",
-    "finished": "2022-01-05T11:15:03.3548724+00:00",
-    "durationMs": 1411
+    "start": "2022-01-06T23:17:50.1707097+00:00",
+    "finished": "2022-01-06T23:17:51.4965619+00:00",
+    "durationMs": 1325
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-05T11:43:52.1731116+00:00",
-    "finished": "2022-01-05T11:43:52.6540394+00:00",
-    "durationMs": 480
+    "start": "2022-01-06T23:41:26.3185081+00:00",
+    "finished": "2022-01-06T23:41:26.7597313+00:00",
+    "durationMs": 441
   }
 }

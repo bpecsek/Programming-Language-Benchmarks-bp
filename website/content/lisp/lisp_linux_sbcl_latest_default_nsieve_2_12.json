@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "lisp",
   "os": "linux",
   "compiler": "sbcl",
@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "2.cl",
   "input": "12",
-  "timeMS": 427.9488,
-  "timeStdDevMS": 1.7644624601655228,
-  "memBytes": 39727104,
-  "cpuTimeMS": 409.9999,
-  "cpuTimeUserMS": 409.9999,
+  "timeMS": 450.9327,
+  "timeStdDevMS": 8.108177998375083,
+  "memBytes": 39661568,
+  "cpuTimeMS": 440.0,
+  "cpuTimeUserMS": 440.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1658059361",
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "SBCL 2.2.0",
-    "start": "2022-01-05T11:17:19.659989+00:00",
-    "finished": "2022-01-05T11:17:21.522852+00:00",
-    "durationMs": 1862
+    "start": "2022-01-06T23:21:03.5569793+00:00",
+    "finished": "2022-01-06T23:21:05.855354+00:00",
+    "durationMs": 2298
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-05T11:43:33.7934708+00:00",
-    "finished": "2022-01-05T11:43:33.9254424+00:00",
-    "durationMs": 131
+    "start": "2022-01-06T23:41:06.9622235+00:00",
+    "finished": "2022-01-06T23:41:07.0800303+00:00",
+    "durationMs": 117
   }
 }

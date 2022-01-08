@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "cpython",
@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "4.py",
   "input": "1000",
-  "timeMS": 51.5305,
-  "timeStdDevMS": 0.9522985683772375,
-  "memBytes": 8855552,
-  "cpuTimeMS": 40.0,
-  "cpuTimeUserMS": 40.0,
+  "timeMS": 53.0508,
+  "timeStdDevMS": 0.6829060623541094,
+  "memBytes": 8835072,
+  "cpuTimeMS": 43.3333,
+  "cpuTimeUserMS": 43.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1658059361",
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-05T11:14:28.0359992+00:00",
-    "finished": "2022-01-05T11:14:28.0389891+00:00",
+    "start": "2022-01-06T23:17:36.4647747+00:00",
+    "finished": "2022-01-06T23:17:36.4672482+00:00",
     "durationMs": 2
   },
   "testLog": {
     "runtimeVersion": "Python 3.10.1",
-    "start": "2022-01-05T11:43:42.5328537+00:00",
-    "finished": "2022-01-05T11:43:42.5648893+00:00",
-    "durationMs": 32
+    "start": "2022-01-06T23:41:16.5709069+00:00",
+    "finished": "2022-01-06T23:41:16.6010579+00:00",
+    "durationMs": 30
   }
 }

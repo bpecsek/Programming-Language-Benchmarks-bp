@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "wasm/graal",
@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "2.rs",
   "input": "1000",
-  "timeMS": 801.3629,
-  "timeStdDevMS": 3.1741438830022277,
-  "memBytes": 334016512,
-  "cpuTimeMS": 1399.9999,
-  "cpuTimeUserMS": 1256.6666,
-  "cpuTimeKernelMS": 143.3333,
-  "githubRunId": "1658059361",
+  "timeMS": 878.4379,
+  "timeStdDevMS": 32.74900641408831,
+  "memBytes": 335368192,
+  "cpuTimeMS": 1533.3333,
+  "cpuTimeUserMS": 1393.3333,
+  "cpuTimeKernelMS": 140.0,
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2022-01-05T11:22:10.1306379+00:00",
-    "finished": "2022-01-05T11:22:12.1778253+00:00",
-    "durationMs": 2047
+    "start": "2022-01-06T23:26:19.4545722+00:00",
+    "finished": "2022-01-06T23:26:21.4071916+00:00",
+    "durationMs": 1952
   },
   "testLog": {
     "runtimeVersion": "WebAssembly (GraalVM CE Native 21.3.0)",
-    "start": "2022-01-05T11:45:03.4645384+00:00",
-    "finished": "2022-01-05T11:45:03.6023935+00:00",
-    "durationMs": 137
+    "start": "2022-01-06T23:42:44.9373994+00:00",
+    "finished": "2022-01-06T23:42:45.0875754+00:00",
+    "durationMs": 150
   }
 }

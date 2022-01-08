@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "racket",
   "os": "linux",
   "compiler": "racket",
@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "3.rkt",
   "input": "250000",
-  "timeMS": 228.3597,
-  "timeStdDevMS": 7.195499500613788,
-  "memBytes": 67010560,
-  "cpuTimeMS": 209.9999,
-  "cpuTimeUserMS": 176.6666,
-  "cpuTimeKernelMS": 33.3333,
-  "githubRunId": "1658059361",
+  "timeMS": 221.0363,
+  "timeStdDevMS": 17.548873012532727,
+  "memBytes": 65728512,
+  "cpuTimeMS": 203.3333,
+  "cpuTimeUserMS": 173.3333,
+  "cpuTimeKernelMS": 30.0,
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "Welcome to Racket v8.3 [cs].",
-    "start": "2022-01-05T11:14:59.1264086+00:00",
-    "finished": "2022-01-05T11:15:00.5919464+00:00",
-    "durationMs": 1465
+    "start": "2022-01-06T23:17:47.5372479+00:00",
+    "finished": "2022-01-06T23:17:48.887694+00:00",
+    "durationMs": 1350
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-05T11:43:51.7299761+00:00",
-    "finished": "2022-01-05T11:43:51.8831614+00:00",
-    "durationMs": 153
+    "start": "2022-01-06T23:41:25.8933614+00:00",
+    "finished": "2022-01-06T23:41:26.0474016+00:00",
+    "durationMs": 154
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "v",
   "os": "linux",
   "compiler": "v+gc+clang",
@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.v",
   "input": "1000",
-  "timeMS": 2380.5866,
-  "timeStdDevMS": 545.6745891984555,
-  "memBytes": 21606400,
-  "cpuTimeMS": 4403.3332,
-  "cpuTimeUserMS": 2169.9999,
-  "cpuTimeKernelMS": 2233.3333,
-  "githubRunId": "1658059361",
+  "timeMS": 3047.0634,
+  "timeStdDevMS": 1585.7985410974372,
+  "memBytes": 24367104,
+  "cpuTimeMS": 5609.9999,
+  "cpuTimeUserMS": 2716.6666,
+  "cpuTimeKernelMS": 2893.3333,
+  "githubRunId": "1665287786",
   "buildLog": {
-    "compilerVersion": "V 0.2.4 897bbb7",
-    "start": "2022-01-05T11:17:39.8544218+00:00",
-    "finished": "2022-01-05T11:17:44.6743635+00:00",
-    "durationMs": 4819
+    "compilerVersion": "V 0.2.4 60527a5",
+    "start": "2022-01-06T23:20:43.5658373+00:00",
+    "finished": "2022-01-06T23:20:48.4710178+00:00",
+    "durationMs": 4905
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-05T11:44:30.5781531+00:00",
-    "finished": "2022-01-05T11:44:32.4214894+00:00",
-    "durationMs": 1843
+    "start": "2022-01-06T23:42:08.0955115+00:00",
+    "finished": "2022-01-06T23:42:10.6962691+00:00",
+    "durationMs": 2600
   }
 }

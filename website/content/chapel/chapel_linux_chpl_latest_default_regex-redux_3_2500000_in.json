@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "chapel",
   "os": "linux",
   "compiler": "chpl",
@@ -7,23 +7,23 @@
   "test": "regex-redux",
   "code": "3.chpl",
   "input": "2500000_in",
-  "timeMS": 2010.7099,
-  "timeStdDevMS": 34.00760919299282,
-  "memBytes": 288641024,
-  "cpuTimeMS": 1983.3332,
-  "cpuTimeUserMS": 1806.6666,
-  "cpuTimeKernelMS": 176.6666,
-  "githubRunId": "1658059361",
+  "timeMS": 2051.2535,
+  "timeStdDevMS": 19.861302157797862,
+  "memBytes": 286613504,
+  "cpuTimeMS": 2029.9999,
+  "cpuTimeUserMS": 1836.6666,
+  "cpuTimeKernelMS": 193.3333,
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2022-01-05T11:15:18.769802+00:00",
-    "finished": "2022-01-05T11:15:34.2105707+00:00",
-    "durationMs": 15440
+    "start": "2022-01-06T23:14:16.0596679+00:00",
+    "finished": "2022-01-06T23:14:31.6426122+00:00",
+    "durationMs": 15582
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-05T11:41:43.8347622+00:00",
-    "finished": "2022-01-05T11:41:44.0992523+00:00",
-    "durationMs": 264
+    "start": "2022-01-06T23:38:58.9244438+00:00",
+    "finished": "2022-01-06T23:38:59.2176288+00:00",
+    "durationMs": 293
   }
 }

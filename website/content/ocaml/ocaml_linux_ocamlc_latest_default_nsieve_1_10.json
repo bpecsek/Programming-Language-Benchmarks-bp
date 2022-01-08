@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "ocaml",
   "os": "linux",
   "compiler": "ocamlc",
@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "1.ml",
   "input": "10",
-  "timeMS": 593.0104,
-  "timeStdDevMS": 6.025439978126098,
-  "memBytes": 148557824,
-  "cpuTimeMS": 576.6666,
-  "cpuTimeUserMS": 546.6666,
+  "timeMS": 503.5849,
+  "timeStdDevMS": 10.977444522747538,
+  "memBytes": 149438464,
+  "cpuTimeMS": 486.6666,
+  "cpuTimeUserMS": 456.6666,
   "cpuTimeKernelMS": 30.0,
-  "githubRunId": "1658059361",
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "4.13.1",
-    "start": "2022-01-05T11:18:20.1970066+00:00",
-    "finished": "2022-01-05T11:19:02.5719743+00:00",
-    "durationMs": 42374
+    "start": "2022-01-06T23:21:31.6657063+00:00",
+    "finished": "2022-01-06T23:22:12.6021543+00:00",
+    "durationMs": 40936
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-05T11:43:36.392774+00:00",
-    "finished": "2022-01-05T11:43:36.4007028+00:00",
-    "durationMs": 7
+    "start": "2022-01-06T23:41:09.7226591+00:00",
+    "finished": "2022-01-06T23:41:09.7322701+00:00",
+    "durationMs": 9
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "node",
@@ -7,23 +7,23 @@
   "test": "secp256k1",
   "code": "1.rs",
   "input": "500",
-  "timeMS": 1270.7372,
-  "timeStdDevMS": 4.974118020647837,
-  "memBytes": 56139776,
-  "cpuTimeMS": 1329.9999,
-  "cpuTimeUserMS": 1316.6666,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1658059361",
+  "timeMS": 1295.2936,
+  "timeStdDevMS": 60.549856357963456,
+  "memBytes": 57217024,
+  "cpuTimeMS": 1356.6666,
+  "cpuTimeUserMS": 1340.0,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2022-01-05T11:22:41.7090774+00:00",
-    "finished": "2022-01-05T11:22:45.2567005+00:00",
-    "durationMs": 3547
+    "start": "2022-01-06T23:26:49.6202105+00:00",
+    "finished": "2022-01-06T23:26:53.0147022+00:00",
+    "durationMs": 3394
   },
   "testLog": {
     "runtimeVersion": "v16.13.1",
-    "start": "2022-01-05T11:45:06.382716+00:00",
-    "finished": "2022-01-05T11:45:06.6761261+00:00",
-    "durationMs": 293
+    "start": "2022-01-06T23:42:47.9452426+00:00",
+    "finished": "2022-01-06T23:42:48.2696775+00:00",
+    "durationMs": 324
   }
 }

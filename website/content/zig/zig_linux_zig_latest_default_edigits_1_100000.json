@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "zig",
   "os": "linux",
   "compiler": "zig",
@@ -7,23 +7,23 @@
   "test": "edigits",
   "code": "1.zig",
   "input": "100000",
-  "timeMS": 3589.2639,
-  "timeStdDevMS": 64.55444964913951,
-  "memBytes": 552960,
-  "cpuTimeMS": 3546.6666,
-  "cpuTimeUserMS": 3430.0,
-  "cpuTimeKernelMS": 116.6666,
-  "githubRunId": "1658059361",
+  "timeMS": 3595.5918,
+  "timeStdDevMS": 61.580627602869406,
+  "memBytes": 557056,
+  "cpuTimeMS": 3580.0,
+  "cpuTimeUserMS": 3470.0,
+  "cpuTimeKernelMS": 110.0,
+  "githubRunId": "1665287786",
   "buildLog": {
-    "compilerVersion": "0.10.0-dev.183+5c228765f",
-    "start": "2022-01-05T11:16:10.7741555+00:00",
-    "finished": "2022-01-05T11:16:25.8611987+00:00",
-    "durationMs": 15087
+    "compilerVersion": "0.10.0-dev.203+0772fb051",
+    "start": "2022-01-06T23:19:23.8880635+00:00",
+    "finished": "2022-01-06T23:19:41.2305123+00:00",
+    "durationMs": 17342
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-05T11:45:06.7748953+00:00",
-    "finished": "2022-01-05T11:45:06.7819703+00:00",
-    "durationMs": 7
+    "start": "2022-01-06T23:42:48.3739932+00:00",
+    "finished": "2022-01-06T23:42:48.3838107+00:00",
+    "durationMs": 9
   }
 }

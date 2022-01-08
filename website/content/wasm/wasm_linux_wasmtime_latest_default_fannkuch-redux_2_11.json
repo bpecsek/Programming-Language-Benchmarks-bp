@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "wasmtime",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "2.rs",
   "input": "11",
-  "timeMS": 3357.3282,
-  "timeStdDevMS": 1.6373726159107787,
-  "memBytes": 9314304,
-  "cpuTimeMS": 3346.6666,
-  "cpuTimeUserMS": 3346.6666,
+  "timeMS": 3268.4431,
+  "timeStdDevMS": 41.221416577955054,
+  "memBytes": 9474048,
+  "cpuTimeMS": 3256.6666,
+  "cpuTimeUserMS": 3256.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1658059361",
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2022-01-05T11:20:58.0941415+00:00",
-    "finished": "2022-01-05T11:20:59.939367+00:00",
-    "durationMs": 1845
+    "start": "2022-01-06T23:25:09.3849088+00:00",
+    "finished": "2022-01-06T23:25:11.1494764+00:00",
+    "durationMs": 1764
   },
   "testLog": {
-    "runtimeVersion": "wasmtime 0.32.0",
-    "start": "2022-01-05T11:44:59.0782331+00:00",
-    "finished": "2022-01-05T11:44:59.4186213+00:00",
-    "durationMs": 340
+    "runtimeVersion": "wasmtime 0.33.0",
+    "start": "2022-01-06T23:42:40.1960025+00:00",
+    "finished": "2022-01-06T23:42:40.5494797+00:00",
+    "durationMs": 353
   }
 }

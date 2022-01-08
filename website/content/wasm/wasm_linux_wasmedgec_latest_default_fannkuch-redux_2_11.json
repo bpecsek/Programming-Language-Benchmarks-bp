@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "wasmedgec",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "2.rs",
   "input": "11",
-  "timeMS": 2965.3873,
-  "timeStdDevMS": 23.01329068654313,
-  "memBytes": 12193792,
-  "cpuTimeMS": 2953.3333,
-  "cpuTimeUserMS": 2953.3333,
-  "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1658059361",
+  "timeMS": 3136.0981,
+  "timeStdDevMS": 91.91476010958894,
+  "memBytes": 12263424,
+  "cpuTimeMS": 3123.3332,
+  "cpuTimeUserMS": 3116.6666,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2022-01-05T11:19:59.1420231+00:00",
-    "finished": "2022-01-05T11:20:02.4013872+00:00",
-    "durationMs": 3259
+    "start": "2022-01-06T23:24:12.4493007+00:00",
+    "finished": "2022-01-06T23:24:15.567376+00:00",
+    "durationMs": 3118
   },
   "testLog": {
     "runtimeVersion": "wasmedge version 0.9.0",
-    "start": "2022-01-05T11:44:57.8555314+00:00",
-    "finished": "2022-01-05T11:44:58.1302467+00:00",
-    "durationMs": 274
+    "start": "2022-01-06T23:42:38.9302624+00:00",
+    "finished": "2022-01-06T23:42:39.1996812+00:00",
+    "durationMs": 269
   }
 }

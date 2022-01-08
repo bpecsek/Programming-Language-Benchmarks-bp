@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
   "lang": "perl",
   "os": "linux",
   "compiler": "perl",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "2.pl",
   "input": "100000",
-  "timeMS": 650.9274,
-  "timeStdDevMS": 29.562794497532455,
-  "memBytes": 6553600,
-  "cpuTimeMS": 640.0,
-  "cpuTimeUserMS": 640.0,
+  "timeMS": 664.6183,
+  "timeStdDevMS": 8.462784834792869,
+  "memBytes": 6483968,
+  "cpuTimeMS": 653.3333,
+  "cpuTimeUserMS": 653.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1658059361",
+  "githubRunId": "1665287786",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-05T11:13:59.8737551+00:00",
-    "finished": "2022-01-05T11:13:59.8771848+00:00",
-    "durationMs": 3
+    "start": "2022-01-06T23:17:05.5822038+00:00",
+    "finished": "2022-01-06T23:17:05.5873924+00:00",
+    "durationMs": 5
   },
   "testLog": {
     "runtimeVersion": "This is perl 5, version 34, subversion 0 (v5.34.0) built for x86_64-linux-thread-multi\n\nCopyright 1987-2021, Larry Wall\n\nPerl may be copied only under the terms of either the Artistic License or the\nGNU General Public License, which may be found in the Perl 5 source kit.\n\nComplete documentation for Perl, including FAQ lists, should be found on\nthis system using \"man perl\" or \"perldoc perl\".  If you have access to the\nInternet, point your browser at http://www.perl.org/, the Perl Home Page.",
-    "start": "2022-01-05T11:43:36.6669822+00:00",
-    "finished": "2022-01-05T11:43:36.7528757+00:00",
-    "durationMs": 85
+    "start": "2022-01-06T23:41:10.0305047+00:00",
+    "finished": "2022-01-06T23:41:10.1269017+00:00",
+    "durationMs": 96
   }
 }
