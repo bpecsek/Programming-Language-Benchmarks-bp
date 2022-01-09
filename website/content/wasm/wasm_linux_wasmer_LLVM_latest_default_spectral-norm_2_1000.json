@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "wasmer/LLVM",
@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "2.rs",
   "input": "1000",
-  "timeMS": 78.8797,
-  "timeStdDevMS": 4.444875691175173,
-  "memBytes": 43565056,
-  "cpuTimeMS": 63.3333,
-  "cpuTimeUserMS": 60.0,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1665287786",
+  "timeMS": 73.9068,
+  "timeStdDevMS": 1.4607142876004087,
+  "memBytes": 43597824,
+  "cpuTimeMS": 59.9999,
+  "cpuTimeUserMS": 53.3333,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1672427162",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2022-01-06T23:22:33.7158276+00:00",
-    "finished": "2022-01-06T23:22:35.7087164+00:00",
-    "durationMs": 1992
+    "start": "2022-01-08T23:07:26.7766118+00:00",
+    "finished": "2022-01-08T23:07:28.8388966+00:00",
+    "durationMs": 2062
   },
   "testLog": {
     "runtimeVersion": "wasmer 2.1.1",
-    "start": "2022-01-06T23:42:31.3924936+00:00",
-    "finished": "2022-01-06T23:42:32.489544+00:00",
-    "durationMs": 1097
+    "start": "2022-01-08T23:35:22.053218+00:00",
+    "finished": "2022-01-08T23:35:23.1391121+00:00",
+    "durationMs": 1085
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "lua",
   "os": "linux",
   "compiler": "luajit",
@@ -7,23 +7,23 @@
   "test": "binarytrees",
   "code": "4.lua",
   "input": "14",
-  "timeMS": 202.3406,
-  "timeStdDevMS": 7.8089146563398835,
-  "memBytes": 11194368,
-  "cpuTimeMS": 330.0,
-  "cpuTimeUserMS": 290.0,
-  "cpuTimeKernelMS": 40.0,
-  "githubRunId": "1665287786",
+  "timeMS": 208.2261,
+  "timeStdDevMS": 3.782305387370686,
+  "memBytes": 11235328,
+  "cpuTimeMS": 339.9999,
+  "cpuTimeUserMS": 286.6666,
+  "cpuTimeKernelMS": 53.3333,
+  "githubRunId": "1672427162",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-06T23:15:54.5046867+00:00",
-    "finished": "2022-01-06T23:15:54.5292872+00:00",
-    "durationMs": 24
+    "start": "2022-01-08T23:02:43.5891829+00:00",
+    "finished": "2022-01-08T23:02:43.5937349+00:00",
+    "durationMs": 4
   },
   "testLog": {
     "runtimeVersion": "LuaJIT 2.1.0-beta3 -- Copyright (C) 2005-2021 Mike Pall. https://luajit.org/",
-    "start": "2022-01-06T23:41:09.0313021+00:00",
-    "finished": "2022-01-06T23:41:09.0933834+00:00",
-    "durationMs": 62
+    "start": "2022-01-08T23:34:04.9224101+00:00",
+    "finished": "2022-01-08T23:34:04.979893+00:00",
+    "durationMs": 57
   }
 }

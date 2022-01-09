@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "cpython",
@@ -7,23 +7,23 @@
   "test": "http-server",
   "code": "1.py",
   "input": "3000",
-  "timeMS": 2882.8684,
-  "timeStdDevMS": 51.48188264208416,
-  "memBytes": 28766208,
-  "cpuTimeMS": 3256.6666,
-  "cpuTimeUserMS": 2200.0,
-  "cpuTimeKernelMS": 1056.6666,
-  "githubRunId": "1665287786",
+  "timeMS": 2728.1956,
+  "timeStdDevMS": 39.88870823315795,
+  "memBytes": 28954624,
+  "cpuTimeMS": 3093.3332,
+  "cpuTimeUserMS": 2089.9999,
+  "cpuTimeKernelMS": 1003.3333,
+  "githubRunId": "1672427162",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-06T23:17:32.4526682+00:00",
-    "finished": "2022-01-06T23:17:32.4548974+00:00",
-    "durationMs": 2
+    "start": "2022-01-08T23:03:59.6968994+00:00",
+    "finished": "2022-01-08T23:03:59.7018086+00:00",
+    "durationMs": 4
   },
   "testLog": {
     "runtimeVersion": "Python 3.10.1",
-    "start": "2022-01-06T23:41:13.5119917+00:00",
-    "finished": "2022-01-06T23:41:14.3743082+00:00",
-    "durationMs": 862
+    "start": "2022-01-08T23:34:08.8602627+00:00",
+    "finished": "2022-01-08T23:34:09.5223117+00:00",
+    "durationMs": 662
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "kotlin",
   "os": "linux",
   "compiler": "Kotlin/Native",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "1.kt",
   "input": "100000",
-  "timeMS": 23.3637,
-  "timeStdDevMS": 0.8608519578495095,
-  "memBytes": 2502656,
+  "timeMS": 20.0763,
+  "timeStdDevMS": 0.2749862784455514,
+  "memBytes": 2506752,
   "cpuTimeMS": 10.0,
   "cpuTimeUserMS": 10.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1665287786",
+  "githubRunId": "1672427162",
   "buildLog": {
-    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.11+9)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 721ms\n1 actionable task: 1 executed",
-    "start": "2022-01-06T23:22:14.5517648+00:00",
-    "finished": "2022-01-06T23:23:03.4680645+00:00",
-    "durationMs": 48916
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.11+9)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 1s\n1 actionable task: 1 executed",
+    "start": "2022-01-08T23:14:35.7480056+00:00",
+    "finished": "2022-01-08T23:15:38.7472211+00:00",
+    "durationMs": 62999
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-06T23:41:04.4732651+00:00",
-    "finished": "2022-01-06T23:41:04.4911001+00:00",
-    "durationMs": 17
+    "start": "2022-01-08T23:34:00.662062+00:00",
+    "finished": "2022-01-08T23:34:00.6771878+00:00",
+    "durationMs": 15
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "ruby",
   "os": "linux",
   "compiler": "truffleruby",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.rb",
   "input": "QwQ",
-  "timeMS": 37.8103,
-  "timeStdDevMS": 3.3269251814550906,
-  "memBytes": 124866560,
-  "cpuTimeMS": 40.0,
-  "cpuTimeUserMS": 24.0,
-  "cpuTimeKernelMS": 16.0,
-  "githubRunId": "1665287786",
+  "timeMS": 37.4786,
+  "timeStdDevMS": 2.694054093369324,
+  "memBytes": 122032128,
+  "cpuTimeMS": 38.0,
+  "cpuTimeUserMS": 26.0,
+  "cpuTimeKernelMS": 12.0,
+  "githubRunId": "1672427162",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-06T23:18:08.1026511+00:00",
-    "finished": "2022-01-06T23:18:08.1077917+00:00",
-    "durationMs": 5
+    "start": "2022-01-08T23:05:16.4052846+00:00",
+    "finished": "2022-01-08T23:05:16.4085425+00:00",
+    "durationMs": 3
   },
   "testLog": {
     "runtimeVersion": "truffleruby 21.3.0, like ruby 2.7.4, GraalVM CE Native [x86_64-linux]",
-    "start": "2022-01-06T23:41:43.5919572+00:00",
-    "finished": "2022-01-06T23:41:43.6741484+00:00",
-    "durationMs": 82
+    "start": "2022-01-08T23:34:38.5186977+00:00",
+    "finished": "2022-01-08T23:34:38.5947559+00:00",
+    "durationMs": 76
   }
 }

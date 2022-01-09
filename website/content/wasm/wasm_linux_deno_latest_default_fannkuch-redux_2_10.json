@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "deno",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "2.rs",
   "input": "10",
-  "timeMS": 579.7102,
-  "timeStdDevMS": 62.55679776150097,
-  "memBytes": 36225024,
-  "cpuTimeMS": 609.9999,
-  "cpuTimeUserMS": 586.6666,
-  "cpuTimeKernelMS": 23.3333,
-  "githubRunId": "1665287786",
+  "timeMS": 519.0914,
+  "timeStdDevMS": 3.0498807096890648,
+  "memBytes": 34615296,
+  "cpuTimeMS": 586.6665,
+  "cpuTimeUserMS": 579.9999,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1672427162",
   "buildLog": {
     "compilerVersion": "deno 1.17.2 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.15\ntypescript 4.5.2",
-    "start": "2022-01-06T23:23:23.9070759+00:00",
-    "finished": "2022-01-06T23:23:26.7161691+00:00",
-    "durationMs": 2809
+    "start": "2022-01-08T23:08:20.437254+00:00",
+    "finished": "2022-01-08T23:08:23.3870048+00:00",
+    "durationMs": 2949
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-06T23:42:35.7781083+00:00",
-    "finished": "2022-01-06T23:42:36.4670059+00:00",
-    "durationMs": 688
+    "start": "2022-01-08T23:35:26.2490251+00:00",
+    "finished": "2022-01-08T23:35:26.9165196+00:00",
+    "durationMs": 667
   }
 }

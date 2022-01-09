@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "wasmedgec",
@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "2.rs",
   "input": "10",
-  "timeMS": 200.0062,
-  "timeStdDevMS": 3.9602465659771013,
-  "memBytes": 13410304,
-  "cpuTimeMS": 186.6666,
-  "cpuTimeUserMS": 186.6666,
+  "timeMS": 181.6104,
+  "timeStdDevMS": 1.348178448870918,
+  "memBytes": 13385728,
+  "cpuTimeMS": 170.0,
+  "cpuTimeUserMS": 170.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1665287786",
+  "githubRunId": "1672427162",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2022-01-06T23:24:35.6323832+00:00",
-    "finished": "2022-01-06T23:24:38.6620329+00:00",
-    "durationMs": 3029
+    "start": "2022-01-08T23:09:36.695025+00:00",
+    "finished": "2022-01-08T23:09:39.8374715+00:00",
+    "durationMs": 3142
   },
   "testLog": {
     "runtimeVersion": "wasmedge version 0.9.0",
-    "start": "2022-01-06T23:42:39.3968764+00:00",
-    "finished": "2022-01-06T23:42:39.419316+00:00",
-    "durationMs": 22
+    "start": "2022-01-08T23:35:29.403565+00:00",
+    "finished": "2022-01-08T23:35:29.4266471+00:00",
+    "durationMs": 23
   }
 }
