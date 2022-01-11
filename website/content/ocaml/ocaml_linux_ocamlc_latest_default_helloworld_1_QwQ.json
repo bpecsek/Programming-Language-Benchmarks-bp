@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "ocaml",
+  "os": "linux",
+  "compiler": "ocamlc",
+  "compilerVersion": "latest",
+  "test": "helloworld",
+  "code": "1.ml",
+  "input": "QwQ",
+  "timeMS": 3.1971,
+  "timeStdDevMS": 0.48272448974544446,
+  "memBytes": 2805760,
+  "cpuTimeMS": 0.0,
+  "cpuTimeUserMS": 0.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1683935959",
+  "buildLog": {
+    "compilerVersion": "4.13.1",
+    "start": "2022-01-11T18:12:51.1956931+00:00",
+    "finished": "2022-01-11T18:13:24.9033687+00:00",
+    "durationMs": 33707
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T18:43:57.8680889+00:00",
+    "finished": "2022-01-11T18:43:57.8776002+00:00",
+    "durationMs": 9
+  }
+}

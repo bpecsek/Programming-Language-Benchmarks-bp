@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "lisp",
   "os": "linux",
   "compiler": "sbcl",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "1.cl",
   "input": "100000",
-  "timeMS": 14.6999,
-  "timeStdDevMS": 0.15315682594430455,
-  "memBytes": 20443136,
+  "timeMS": 19.6985,
+  "timeStdDevMS": 0.543006777121612,
+  "memBytes": 27332608,
   "cpuTimeMS": 10.0,
   "cpuTimeUserMS": 10.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "githubRunId": "1683935959",
   "buildLog": {
     "compilerVersion": "SBCL 2.2.0",
-    "start": "2022-01-11T15:03:47.8664817+00:00",
-    "finished": "2022-01-11T15:03:49.5187453+00:00",
-    "durationMs": 1652
+    "start": "2022-01-11T18:16:05.1987624+00:00",
+    "finished": "2022-01-11T18:16:07.3729369+00:00",
+    "durationMs": 2174
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:40:30.2442839+00:00",
-    "finished": "2022-01-11T15:40:30.282748+00:00",
-    "durationMs": 38
+    "start": "2022-01-11T18:43:54.0878532+00:00",
+    "finished": "2022-01-11T18:43:54.2423286+00:00",
+    "durationMs": 154
   }
 }

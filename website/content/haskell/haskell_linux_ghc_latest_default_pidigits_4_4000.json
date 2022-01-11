@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "haskell",
   "os": "linux",
   "compiler": "ghc",
@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "4.hs",
   "input": "4000",
-  "timeMS": 285.4912,
-  "timeStdDevMS": 15.967418817391883,
-  "memBytes": 8155136,
-  "cpuTimeMS": 483.3333,
-  "cpuTimeUserMS": 443.3333,
-  "cpuTimeKernelMS": 40.0,
-  "githubRunId": null,
+  "timeMS": 234.038,
+  "timeStdDevMS": 0.7128114851300682,
+  "memBytes": 19820544,
+  "cpuTimeMS": 223.3333,
+  "cpuTimeUserMS": 200.0,
+  "cpuTimeKernelMS": 23.3333,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "The Glorious Glasgow Haskell Compilation System, version 9.0.1",
-    "start": "2022-01-11T14:54:24.2982146+00:00",
-    "finished": "2022-01-11T14:54:28.3932516+00:00",
-    "durationMs": 4095
+    "compilerVersion": "The Glorious Glasgow Haskell Compilation System, version 9.2.1",
+    "start": "2022-01-11T18:11:00.9139693+00:00",
+    "finished": "2022-01-11T18:11:05.6245333+00:00",
+    "durationMs": 4710
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:39:55.8554721+00:00",
-    "finished": "2022-01-11T15:39:55.882507+00:00",
-    "durationMs": 27
+    "start": "2022-01-11T18:42:48.9347686+00:00",
+    "finished": "2022-01-11T18:42:48.9681264+00:00",
+    "durationMs": 33
   }
 }

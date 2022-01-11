@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "lua",
   "os": "linux",
   "compiler": "lua",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.lua",
   "input": "QwQ",
-  "timeMS": 1.2257,
-  "timeStdDevMS": 0.16202433459206064,
-  "memBytes": 1753088,
+  "timeMS": 3.1061,
+  "timeStdDevMS": 0.8693184301508855,
+  "memBytes": 1359872,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "githubRunId": "1683935959",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-11T15:04:36.1935069+00:00",
-    "finished": "2022-01-11T15:04:36.1971802+00:00",
-    "durationMs": 3
+    "start": "2022-01-11T18:10:19.4704409+00:00",
+    "finished": "2022-01-11T18:10:19.4789537+00:00",
+    "durationMs": 8
   },
   "testLog": {
     "runtimeVersion": "Lua 5.4.3  Copyright (C) 1994-2021 Lua.org, PUC-Rio",
-    "start": "2022-01-11T15:40:31.1921902+00:00",
-    "finished": "2022-01-11T15:40:31.198222+00:00",
-    "durationMs": 6
+    "start": "2022-01-11T18:43:57.1949517+00:00",
+    "finished": "2022-01-11T18:43:57.203629+00:00",
+    "durationMs": 8
   }
 }

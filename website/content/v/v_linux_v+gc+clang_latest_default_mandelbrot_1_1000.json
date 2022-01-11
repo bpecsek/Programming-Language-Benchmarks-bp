@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "v",
   "os": "linux",
   "compiler": "v+gc+clang",
@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "1.v",
   "input": "1000",
-  "timeMS": 18.1809,
-  "timeStdDevMS": 0.32951930646524397,
-  "memBytes": 2523136,
-  "cpuTimeMS": 10.0,
-  "cpuTimeUserMS": 10.0,
+  "timeMS": 22.817,
+  "timeStdDevMS": 1.6837497745607397,
+  "memBytes": 2379776,
+  "cpuTimeMS": 13.3333,
+  "cpuTimeUserMS": 13.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "V 0.2.4 a0a1807",
-    "start": "2022-01-11T15:36:15.9404927+00:00",
-    "finished": "2022-01-11T15:36:19.4691252+00:00",
-    "durationMs": 3528
+    "compilerVersion": "V 0.2.4 ea66031",
+    "start": "2022-01-11T18:16:47.0823729+00:00",
+    "finished": "2022-01-11T18:16:53.5728575+00:00",
+    "durationMs": 6490
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:41:05.5885303+00:00",
-    "finished": "2022-01-11T15:41:05.5999666+00:00",
-    "durationMs": 11
+    "start": "2022-01-11T18:44:52.0228424+00:00",
+    "finished": "2022-01-11T18:44:52.0361847+00:00",
+    "durationMs": 13
   }
 }

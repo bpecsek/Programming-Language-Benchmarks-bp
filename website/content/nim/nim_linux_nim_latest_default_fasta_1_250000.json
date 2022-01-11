@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "nim",
+  "os": "linux",
+  "compiler": "nim",
+  "compilerVersion": "latest",
+  "test": "fasta",
+  "code": "1.nim",
+  "input": "250000",
+  "timeMS": 169.9844,
+  "timeStdDevMS": 24.185847646988375,
+  "memBytes": 729088,
+  "cpuTimeMS": 110.0,
+  "cpuTimeUserMS": 50.0,
+  "cpuTimeKernelMS": 60.0,
+  "githubRunId": "1683935959",
+  "buildLog": {
+    "compilerVersion": "Nim Compiler Version 1.6.2 [Linux: amd64]\nCompiled at 2021-12-17\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 9084d9bc02bcd983b81a4c76a05f27b9ce2707dd\nactive boot switches: -d:release -d:danger",
+    "start": "2022-01-11T18:10:51.9696965+00:00",
+    "finished": "2022-01-11T18:11:00.5886263+00:00",
+    "durationMs": 8618
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T18:43:57.367267+00:00",
+    "finished": "2022-01-11T18:43:57.3712484+00:00",
+    "durationMs": 3
+  }
+}

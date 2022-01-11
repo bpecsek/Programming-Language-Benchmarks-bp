@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "fortran",
   "os": "linux",
   "compiler": "flang",
@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "3.f90",
   "input": "8000",
-  "timeMS": 934.4614,
-  "timeStdDevMS": 4.789168151499036,
-  "memBytes": 1519616,
-  "cpuTimeMS": 3696.6666,
-  "cpuTimeUserMS": 3696.6666,
+  "timeMS": 894.2308,
+  "timeStdDevMS": 18.440182586496682,
+  "memBytes": 6074368,
+  "cpuTimeMS": 1743.3333,
+  "cpuTimeUserMS": 1743.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "flang version @FLANG_VERSION@",
-    "start": "2022-01-11T14:52:35.8563957+00:00",
-    "finished": "2022-01-11T14:52:35.9987011+00:00",
-    "durationMs": 142
+    "compilerVersion": "clang version 7.0.1 \nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2022-01-11T18:10:40.8962643+00:00",
+    "finished": "2022-01-11T18:10:41.135809+00:00",
+    "durationMs": 239
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:39:48.938149+00:00",
-    "finished": "2022-01-11T15:39:48.9401512+00:00",
-    "durationMs": 2
+    "start": "2022-01-11T18:42:38.3557946+00:00",
+    "finished": "2022-01-11T18:42:38.363837+00:00",
+    "durationMs": 8
   }
 }

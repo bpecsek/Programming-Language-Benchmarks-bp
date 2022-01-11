@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "deno",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "1.rs",
+  "input": "100000",
+  "timeMS": 63.9339,
+  "timeStdDevMS": 4.464803336094434,
+  "memBytes": 36896768,
+  "cpuTimeMS": 80.0,
+  "cpuTimeUserMS": 70.0,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1683935959",
+  "buildLog": {
+    "compilerVersion": "deno 1.17.2 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.15\ntypescript 4.5.2",
+    "start": "2022-01-11T18:17:18.9272505+00:00",
+    "finished": "2022-01-11T18:17:22.1698757+00:00",
+    "durationMs": 3242
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T18:45:18.6692905+00:00",
+    "finished": "2022-01-11T18:45:18.8772103+00:00",
+    "durationMs": 207
+  }
+}

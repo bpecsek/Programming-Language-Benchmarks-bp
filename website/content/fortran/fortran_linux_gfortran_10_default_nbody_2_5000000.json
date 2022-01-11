@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "fortran",
   "os": "linux",
   "compiler": "gfortran",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "2.f90",
   "input": "5000000",
-  "timeMS": 313.5397,
-  "timeStdDevMS": 0.38166084857288196,
-  "memBytes": 1454080,
-  "cpuTimeMS": 303.3333,
-  "cpuTimeUserMS": 303.3333,
+  "timeMS": 384.0452,
+  "timeStdDevMS": 1.3259098171947123,
+  "memBytes": 1097728,
+  "cpuTimeMS": 370.0,
+  "cpuTimeUserMS": 370.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "GNU Fortran (Ubuntu 10.3.0-11ubuntu1) 10.3.0\nCopyright (C) 2020 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
-    "start": "2022-01-11T14:52:33.8460275+00:00",
-    "finished": "2022-01-11T14:52:34.2132472+00:00",
-    "durationMs": 367
+    "compilerVersion": "GNU Fortran (Ubuntu 10.3.0-1ubuntu1~20.04) 10.3.0\nCopyright (C) 2020 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
+    "start": "2022-01-11T18:10:37.8019244+00:00",
+    "finished": "2022-01-11T18:10:38.3918576+00:00",
+    "durationMs": 589
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:39:48.9191564+00:00",
-    "finished": "2022-01-11T15:39:48.9224452+00:00",
-    "durationMs": 3
+    "start": "2022-01-11T18:42:38.310905+00:00",
+    "finished": "2022-01-11T18:42:38.3166359+00:00",
+    "durationMs": 5
   }
 }

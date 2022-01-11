@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "c",
   "os": "linux",
   "compiler": "clang",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "8.c",
   "input": "5000000",
-  "timeMS": 266.2983,
-  "timeStdDevMS": 2.213567521747011,
-  "memBytes": 1675264,
-  "cpuTimeMS": 256.6666,
-  "cpuTimeUserMS": 256.6666,
+  "timeMS": 315.8124,
+  "timeStdDevMS": 2.1024704928567215,
+  "memBytes": 1380352,
+  "cpuTimeMS": 306.6666,
+  "cpuTimeUserMS": 306.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "Ubuntu clang version 13.0.0-2\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2022-01-11T14:38:40.3520514+00:00",
-    "finished": "2022-01-11T14:38:40.7617349+00:00",
-    "durationMs": 409
+    "compilerVersion": "Ubuntu clang version 13.0.1-++20220108083114+bfb1bd1b9906-1~exp1~20220108083151.49\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2022-01-11T18:11:37.0959886+00:00",
+    "finished": "2022-01-11T18:11:37.7545186+00:00",
+    "durationMs": 658
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:39:28.7465717+00:00",
-    "finished": "2022-01-11T15:39:28.7513215+00:00",
-    "durationMs": 4
+    "start": "2022-01-11T18:42:01.5570698+00:00",
+    "finished": "2022-01-11T18:42:01.5638174+00:00",
+    "durationMs": 6
   }
 }

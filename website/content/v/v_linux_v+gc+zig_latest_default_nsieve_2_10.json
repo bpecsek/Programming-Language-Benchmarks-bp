@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "v",
   "os": "linux",
   "compiler": "v+gc+zig",
@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "2.v",
   "input": "10",
-  "timeMS": 104.0899,
-  "timeStdDevMS": 0.5507577446875658,
-  "memBytes": 4431872,
-  "cpuTimeMS": 93.3333,
-  "cpuTimeUserMS": 93.3333,
+  "timeMS": 109.3099,
+  "timeStdDevMS": 1.3076981851074394,
+  "memBytes": 4521984,
+  "cpuTimeMS": 100.0,
+  "cpuTimeUserMS": 100.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "V 0.2.4 a0a1807",
-    "start": "2022-01-11T15:37:06.50481+00:00",
-    "finished": "2022-01-11T15:37:10.0873553+00:00",
-    "durationMs": 3582
+    "compilerVersion": "V 0.2.4 ea66031",
+    "start": "2022-01-11T18:18:22.9534405+00:00",
+    "finished": "2022-01-11T18:18:29.6778241+00:00",
+    "durationMs": 6724
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:41:08.2318182+00:00",
-    "finished": "2022-01-11T15:41:08.2362072+00:00",
-    "durationMs": 4
+    "start": "2022-01-11T18:44:57.3256829+00:00",
+    "finished": "2022-01-11T18:44:57.3315853+00:00",
+    "durationMs": 5
   }
 }

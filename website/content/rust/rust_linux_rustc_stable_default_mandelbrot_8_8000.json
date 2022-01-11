@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "rust",
   "os": "linux",
   "compiler": "rustc",
@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "8.rs",
   "input": "8000",
-  "timeMS": 224.5238,
-  "timeStdDevMS": 1.2515085337303957,
-  "memBytes": 8605696,
-  "cpuTimeMS": 816.6665,
-  "cpuTimeUserMS": 813.3332,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": null,
+  "timeMS": 497.1709,
+  "timeStdDevMS": 0.3526391971028255,
+  "memBytes": 8617984,
+  "cpuTimeMS": 933.3333,
+  "cpuTimeUserMS": 933.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1683935959",
   "buildLog": {
     "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2022-01-11T15:33:12.0551948+00:00",
-    "finished": "2022-01-11T15:33:17.1770632+00:00",
-    "durationMs": 5121
+    "start": "2022-01-11T18:19:25.8047571+00:00",
+    "finished": "2022-01-11T18:19:32.9074145+00:00",
+    "durationMs": 7102
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:40:57.8324479+00:00",
-    "finished": "2022-01-11T15:40:57.837442+00:00",
-    "durationMs": 4
+    "start": "2022-01-11T18:44:41.1159865+00:00",
+    "finished": "2022-01-11T18:44:41.1283818+00:00",
+    "durationMs": 12
   }
 }

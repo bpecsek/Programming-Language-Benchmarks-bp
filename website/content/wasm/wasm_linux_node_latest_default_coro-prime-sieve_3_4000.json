@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "wasm",
   "os": "linux",
   "compiler": "node",
@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "3.rs",
   "input": "4000",
-  "timeMS": 51.9627,
-  "timeStdDevMS": 0.40985559652150594,
-  "memBytes": 33234944,
-  "cpuTimeMS": 46.6666,
-  "cpuTimeUserMS": 46.6666,
-  "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "timeMS": 1453.1555,
+  "timeStdDevMS": 19.353234283275132,
+  "memBytes": 51175424,
+  "cpuTimeMS": 1516.6666,
+  "cpuTimeUserMS": 1506.6666,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "rustc 1.56.0-nightly (ac50a5335 2021-08-27)",
-    "start": "2022-01-11T15:37:43.0897513+00:00",
-    "finished": "2022-01-11T15:37:43.4264233+00:00",
-    "durationMs": 336
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2022-01-11T18:20:28.9013867+00:00",
+    "finished": "2022-01-11T18:20:32.6205607+00:00",
+    "durationMs": 3719
   },
   "testLog": {
-    "runtimeVersion": null,
-    "start": "2022-01-11T17:29:25.6315278+00:00",
-    "finished": "0001-01-01T00:00:00+00:00",
-    "durationMs": 0
+    "runtimeVersion": "v16.13.1",
+    "start": "2022-01-11T18:45:26.691506+00:00",
+    "finished": "2022-01-11T18:45:26.8969809+00:00",
+    "durationMs": 205
   }
 }

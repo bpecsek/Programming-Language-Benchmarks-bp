@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "fortran",
   "os": "linux",
   "compiler": "flang",
@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "4.f90",
   "input": "2500000",
-  "timeMS": 230.5298,
-  "timeStdDevMS": 0.29856441516027543,
-  "memBytes": 1507328,
-  "cpuTimeMS": 146.6666,
-  "cpuTimeUserMS": 133.3333,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": null,
+  "timeMS": 490.6967,
+  "timeStdDevMS": 65.53088875151423,
+  "memBytes": 5730304,
+  "cpuTimeMS": 279.9999,
+  "cpuTimeUserMS": 233.3333,
+  "cpuTimeKernelMS": 46.6666,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "flang version @FLANG_VERSION@",
-    "start": "2022-01-11T14:52:35.2393842+00:00",
-    "finished": "2022-01-11T14:52:35.5061927+00:00",
-    "durationMs": 266
+    "compilerVersion": "clang version 7.0.1 \nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2022-01-11T18:10:39.9920027+00:00",
+    "finished": "2022-01-11T18:10:40.2723122+00:00",
+    "durationMs": 280
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:39:48.9270023+00:00",
-    "finished": "2022-01-11T15:39:48.9285519+00:00",
-    "durationMs": 1
+    "start": "2022-01-11T18:42:38.3288058+00:00",
+    "finished": "2022-01-11T18:42:38.3344015+00:00",
+    "durationMs": 5
   }
 }

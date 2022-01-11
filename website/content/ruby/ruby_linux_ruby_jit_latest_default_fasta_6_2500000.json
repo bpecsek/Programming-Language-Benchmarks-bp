@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "ruby",
   "os": "linux",
   "compiler": "ruby/jit",
@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "6.rb",
   "input": "2500000",
-  "timeMS": 4045.5749,
-  "timeStdDevMS": 20.43542756130474,
-  "memBytes": 32403456,
-  "cpuTimeMS": 4013.3333,
-  "cpuTimeUserMS": 4003.3333,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": null,
+  "timeMS": 2937.2743,
+  "timeStdDevMS": 4.309039242104326,
+  "memBytes": 310665216,
+  "cpuTimeMS": 2896.6666,
+  "cpuTimeUserMS": 2723.3333,
+  "cpuTimeKernelMS": 173.3333,
+  "githubRunId": "1683935959",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-11T15:28:54.6167569+00:00",
-    "finished": "2022-01-11T15:28:54.6183218+00:00",
-    "durationMs": 1
+    "start": "2022-01-11T18:12:48.9363083+00:00",
+    "finished": "2022-01-11T18:12:48.939153+00:00",
+    "durationMs": 2
   },
   "testLog": {
-    "runtimeVersion": "ruby 2.7.4p191 (2021-07-07 revision a21a3b7d23) [x86_64-linux-gnu]",
-    "start": "2022-01-11T15:40:54.117462+00:00",
-    "finished": "2022-01-11T15:40:54.1757661+00:00",
-    "durationMs": 58
+    "runtimeVersion": "ruby 3.1.0p0 (2021-12-25 revision fb4df44d16) [x86_64-linux]",
+    "start": "2022-01-11T18:44:19.9969937+00:00",
+    "finished": "2022-01-11T18:44:20.2747906+00:00",
+    "durationMs": 277
   }
 }

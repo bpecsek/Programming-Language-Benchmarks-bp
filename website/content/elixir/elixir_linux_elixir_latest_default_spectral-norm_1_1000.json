@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "elixir",
   "os": "linux",
   "compiler": "elixir",
@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "1.ex",
   "input": "1000",
-  "timeMS": 1.0003,
-  "timeStdDevMS": 0.06701651537743013,
-  "memBytes": 2347008,
-  "cpuTimeMS": 0.0,
-  "cpuTimeUserMS": 0.0,
-  "cpuTimeKernelMS": 0.0,
-  "githubRunId": null,
+  "timeMS": 2540.1989,
+  "timeStdDevMS": 0.5305156956518882,
+  "memBytes": 50343936,
+  "cpuTimeMS": 2576.6666,
+  "cpuTimeUserMS": 2516.6666,
+  "cpuTimeKernelMS": 60.0,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "Erlang/OTP 24 [erts-12.0.3] [source] [64-bit] [smp:8:4] [ds:8:4:10] [async-threads:1] [jit]\n\nElixir 1.12.2 (compiled with Erlang/OTP 24)",
-    "start": "2022-01-11T14:52:29.0077264+00:00",
-    "finished": "2022-01-11T14:52:33.1703125+00:00",
-    "durationMs": 4162
+    "compilerVersion": "Erlang/OTP 24 [erts-12.2] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.13.1 (compiled with Erlang/OTP 24)",
+    "start": "2022-01-11T18:11:35.5756244+00:00",
+    "finished": "2022-01-11T18:11:40.541766+00:00",
+    "durationMs": 4966
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T16:53:12.5011048+00:00",
-    "finished": "0001-01-01T00:00:00+00:00",
-    "durationMs": 0
+    "start": "2022-01-11T18:42:38.0573729+00:00",
+    "finished": "2022-01-11T18:42:38.2882258+00:00",
+    "durationMs": 230
   }
 }

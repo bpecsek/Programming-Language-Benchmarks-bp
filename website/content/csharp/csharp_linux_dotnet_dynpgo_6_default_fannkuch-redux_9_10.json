@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "csharp",
   "os": "linux",
   "compiler": "dotnet/dynpgo",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "9.cs",
   "input": "10",
-  "timeMS": 124.6209,
-  "timeStdDevMS": 22.370275363302987,
-  "memBytes": 31604736,
-  "cpuTimeMS": 219.9999,
-  "cpuTimeUserMS": 213.3333,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": null,
+  "timeMS": 160.1635,
+  "timeStdDevMS": 3.619428785043283,
+  "memBytes": 28946432,
+  "cpuTimeMS": 230.0,
+  "cpuTimeUserMS": 230.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1683935959",
   "buildLog": {
-    "compilerVersion": "6.0.100-preview.7.21379.14",
-    "start": "2022-01-11T14:49:01.932717+00:00",
-    "finished": "2022-01-11T14:49:10.1119337+00:00",
-    "durationMs": 8179
+    "compilerVersion": "6.0.101",
+    "start": "2022-01-11T18:15:46.0028847+00:00",
+    "finished": "2022-01-11T18:15:57.1296938+00:00",
+    "durationMs": 11126
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:39:40.6877325+00:00",
-    "finished": "2022-01-11T15:39:40.9039249+00:00",
-    "durationMs": 216
+    "start": "2022-01-11T18:42:15.6121899+00:00",
+    "finished": "2022-01-11T18:42:15.9311803+00:00",
+    "durationMs": 318
   }
 }

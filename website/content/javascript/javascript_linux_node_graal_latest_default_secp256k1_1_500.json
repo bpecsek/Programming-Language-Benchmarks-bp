@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "javascript",
+  "os": "linux",
+  "compiler": "node/graal",
+  "compilerVersion": "latest",
+  "test": "secp256k1",
+  "code": "1.js",
+  "input": "500",
+  "timeMS": 2542.0333,
+  "timeStdDevMS": 1.2590944219294706,
+  "memBytes": 745988096,
+  "cpuTimeMS": 4869.9999,
+  "cpuTimeUserMS": 4566.6666,
+  "cpuTimeKernelMS": 303.3333,
+  "githubRunId": "1683935959",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-01-11T18:10:54.6161181+00:00",
+    "finished": "2022-01-11T18:10:54.6202163+00:00",
+    "durationMs": 4
+  },
+  "testLog": {
+    "runtimeVersion": "v14.17.6",
+    "start": "2022-01-11T18:43:25.7370948+00:00",
+    "finished": "2022-01-11T18:43:26.3551961+00:00",
+    "durationMs": 618
+  }
+}

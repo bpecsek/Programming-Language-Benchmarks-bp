@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "swift",
+  "os": "linux",
+  "compiler": "swift",
+  "compilerVersion": "latest",
+  "test": "knucleotide",
+  "code": "2.swift",
+  "input": "2500000_in",
+  "timeMS": 2043.8619,
+  "timeStdDevMS": 47.872814279122125,
+  "memBytes": 44154880,
+  "cpuTimeMS": 3813.3332,
+  "cpuTimeUserMS": 3796.6666,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1683935959",
+  "buildLog": {
+    "compilerVersion": "Swift version 5.5.2 (swift-5.5.2-RELEASE)\nTarget: x86_64-unknown-linux-gnu",
+    "start": "2022-01-11T18:14:05.0041795+00:00",
+    "finished": "2022-01-11T18:14:26.0299462+00:00",
+    "durationMs": 21025
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T18:44:41.7887633+00:00",
+    "finished": "2022-01-11T18:44:42.2192863+00:00",
+    "durationMs": 430
+  }
+}

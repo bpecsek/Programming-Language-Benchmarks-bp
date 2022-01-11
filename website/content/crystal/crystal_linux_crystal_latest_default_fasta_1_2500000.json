@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "crystal",
   "os": "linux",
   "compiler": "crystal",
@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "1.cr",
   "input": "2500000",
-  "timeMS": 1561.3118,
-  "timeStdDevMS": 56.61241615585189,
-  "memBytes": 15917056,
-  "cpuTimeMS": 1303.3333,
-  "cpuTimeUserMS": 740.0,
-  "cpuTimeKernelMS": 563.3333,
-  "githubRunId": null,
+  "timeMS": 2893.3664,
+  "timeStdDevMS": 39.01156276597161,
+  "memBytes": 15790080,
+  "cpuTimeMS": 1713.3333,
+  "cpuTimeUserMS": 833.3333,
+  "cpuTimeKernelMS": 880.0,
+  "githubRunId": "1683935959",
   "buildLog": {
     "compilerVersion": "Crystal 1.3.0 [a3ee70ca0] (2022-01-06)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2022-01-11T14:42:42.4062226+00:00",
-    "finished": "2022-01-11T14:42:54.1636862+00:00",
-    "durationMs": 11757
+    "start": "2022-01-11T18:11:37.4863655+00:00",
+    "finished": "2022-01-11T18:11:54.1311384+00:00",
+    "durationMs": 16644
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T15:39:30.312203+00:00",
-    "finished": "2022-01-11T15:39:30.3177765+00:00",
-    "durationMs": 5
+    "start": "2022-01-11T18:42:04.9479785+00:00",
+    "finished": "2022-01-11T18:42:04.9559821+00:00",
+    "durationMs": 8
   }
 }
