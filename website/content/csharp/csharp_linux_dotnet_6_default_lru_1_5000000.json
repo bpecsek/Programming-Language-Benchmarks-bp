@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "dotnet",
+  "compilerVersion": "6",
+  "test": "lru",
+  "code": "1.cs",
+  "input": "5000000",
+  "timeMS": 4440.7881,
+  "timeStdDevMS": 21.835146363375063,
+  "memBytes": 47575040,
+  "cpuTimeMS": 4440.0,
+  "cpuTimeUserMS": 4420.0,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": "6.0.100-preview.7.21379.14",
+    "start": "2022-01-11T14:47:16.1939897+00:00",
+    "finished": "2022-01-11T14:47:24.5021861+00:00",
+    "durationMs": 8308
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T15:39:38.0986197+00:00",
+    "finished": "2022-01-11T15:39:38.2805453+00:00",
+    "durationMs": 181
+  }
+}

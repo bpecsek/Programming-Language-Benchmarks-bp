@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "pypy",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.py",
   "input": "QwQ",
-  "timeMS": 36.2833,
-  "timeStdDevMS": 2.1648673407393773,
-  "memBytes": 57552896,
-  "cpuTimeMS": 20.0,
-  "cpuTimeUserMS": 10.0,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1672427162",
+  "timeMS": 59.9098,
+  "timeStdDevMS": 9.376911379126925,
+  "memBytes": 62816256,
+  "cpuTimeMS": 42.0,
+  "cpuTimeUserMS": 30.0,
+  "cpuTimeKernelMS": 12.0,
+  "githubRunId": null,
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-08T23:04:16.1823195+00:00",
-    "finished": "2022-01-08T23:04:16.5845456+00:00",
-    "durationMs": 402
+    "start": "2022-01-11T15:28:34.6938046+00:00",
+    "finished": "2022-01-11T15:28:35.2169852+00:00",
+    "durationMs": 523
   },
   "testLog": {
-    "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2022-01-08T23:34:14.8333744+00:00",
-    "finished": "2022-01-08T23:34:14.9323737+00:00",
-    "durationMs": 98
+    "runtimeVersion": "Python 3.7.10 (77787b8f4c49, May 15 2021, 11:50:33)\n[PyPy 7.3.5 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
+    "start": "2022-01-11T15:40:40.7563412+00:00",
+    "finished": "2022-01-11T15:40:40.8899775+00:00",
+    "durationMs": 133
   }
 }

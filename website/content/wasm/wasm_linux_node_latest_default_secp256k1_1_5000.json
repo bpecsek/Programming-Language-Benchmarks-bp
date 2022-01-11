@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "node",
+  "compilerVersion": "latest",
+  "test": "secp256k1",
+  "code": "1.rs",
+  "input": "5000",
+  "timeMS": 51.5673,
+  "timeStdDevMS": 0.14653331816803591,
+  "memBytes": 32985088,
+  "cpuTimeMS": 43.3333,
+  "cpuTimeUserMS": 43.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": "rustc 1.56.0-nightly (ac50a5335 2021-08-27)",
+    "start": "2022-01-11T15:37:47.1483172+00:00",
+    "finished": "2022-01-11T15:37:47.4839544+00:00",
+    "durationMs": 335
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T17:29:30.3818159+00:00",
+    "finished": "0001-01-01T00:00:00+00:00",
+    "durationMs": 0
+  }
+}

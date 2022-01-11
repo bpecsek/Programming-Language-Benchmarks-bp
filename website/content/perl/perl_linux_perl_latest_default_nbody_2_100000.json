@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "perl",
   "os": "linux",
   "compiler": "perl",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "2.pl",
   "input": "100000",
-  "timeMS": 633.6985,
-  "timeStdDevMS": 1.343763946284152,
-  "memBytes": 6524928,
-  "cpuTimeMS": 626.6666,
-  "cpuTimeUserMS": 626.6666,
+  "timeMS": 514.88,
+  "timeStdDevMS": 2.7167798972312522,
+  "memBytes": 6795264,
+  "cpuTimeMS": 503.3333,
+  "cpuTimeUserMS": 503.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1672427162",
+  "githubRunId": null,
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-08T23:03:37.3392056+00:00",
-    "finished": "2022-01-08T23:03:37.3440054+00:00",
-    "durationMs": 4
+    "start": "2022-01-11T15:28:27.6213214+00:00",
+    "finished": "2022-01-11T15:28:27.6238157+00:00",
+    "durationMs": 2
   },
   "testLog": {
-    "runtimeVersion": "This is perl 5, version 34, subversion 0 (v5.34.0) built for x86_64-linux-thread-multi\n\nCopyright 1987-2021, Larry Wall\n\nPerl may be copied only under the terms of either the Artistic License or the\nGNU General Public License, which may be found in the Perl 5 source kit.\n\nComplete documentation for Perl, including FAQ lists, should be found on\nthis system using \"man perl\" or \"perldoc perl\".  If you have access to the\nInternet, point your browser at http://www.perl.org/, the Perl Home Page.",
-    "start": "2022-01-08T23:34:05.8661994+00:00",
-    "finished": "2022-01-08T23:34:05.9542633+00:00",
-    "durationMs": 88
+    "runtimeVersion": "This is perl 5, version 32, subversion 1 (v5.32.1) built for x86_64-linux-gnu-thread-multi\n(with 47 registered patches, see perl -V for more detail)\n\nCopyright 1987-2021, Larry Wall\n\nPerl may be copied only under the terms of either the Artistic License or the\nGNU General Public License, which may be found in the Perl 5 source kit.\n\nComplete documentation for Perl, including FAQ lists, should be found on\nthis system using \"man perl\" or \"perldoc perl\".  If you have access to the\nInternet, point your browser at http://www.perl.org/, the Perl Home Page.",
+    "start": "2022-01-11T15:40:31.3759152+00:00",
+    "finished": "2022-01-11T15:40:31.4481169+00:00",
+    "durationMs": 72
   }
 }

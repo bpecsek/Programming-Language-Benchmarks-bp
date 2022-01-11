@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "ruby",
+  "os": "linux",
+  "compiler": "ruby",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "4.rb",
+  "input": "1000",
+  "timeMS": 4317.4663,
+  "timeStdDevMS": 64.88019482649055,
+  "memBytes": 22589440,
+  "cpuTimeMS": 4299.9999,
+  "cpuTimeUserMS": 4296.6666,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-01-11T15:28:54.6094957+00:00",
+    "finished": "2022-01-11T15:28:54.6131297+00:00",
+    "durationMs": 3
+  },
+  "testLog": {
+    "runtimeVersion": "ruby 2.7.4p191 (2021-07-07 revision a21a3b7d23) [x86_64-linux-gnu]",
+    "start": "2022-01-11T15:40:53.7031452+00:00",
+    "finished": "2022-01-11T15:40:53.8014149+00:00",
+    "durationMs": 98
+  }
+}

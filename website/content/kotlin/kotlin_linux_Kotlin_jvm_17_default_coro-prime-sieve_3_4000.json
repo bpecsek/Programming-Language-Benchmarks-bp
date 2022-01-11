@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "kotlin",
   "os": "linux",
   "compiler": "Kotlin/jvm",
@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "3.kt",
   "input": "4000",
-  "timeMS": 599.0659,
-  "timeStdDevMS": 47.02320540715333,
-  "memBytes": 127053824,
-  "cpuTimeMS": 643.3333,
-  "cpuTimeUserMS": 580.0,
-  "cpuTimeKernelMS": 63.3333,
-  "githubRunId": "1672427162",
+  "timeMS": 459.261,
+  "timeStdDevMS": 30.579847197296438,
+  "memBytes": 176971776,
+  "cpuTimeMS": 756.6666,
+  "cpuTimeUserMS": 680.0,
+  "cpuTimeKernelMS": 76.6666,
+  "githubRunId": null,
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-08T23:07:26.1833308+00:00",
-    "finished": "2022-01-08T23:07:34.3068138+00:00",
-    "durationMs": 8123
+    "start": "2022-01-11T14:57:47.1496331+00:00",
+    "finished": "2022-01-11T14:57:51.8324089+00:00",
+    "durationMs": 4682
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
-    "start": "2022-01-08T23:33:48.5013022+00:00",
-    "finished": "2022-01-08T23:33:48.7320268+00:00",
-    "durationMs": 230
+    "runtimeVersion": "openjdk version \"17\" 2021-09-14\nOpenJDK Runtime Environment (build 17+35-2724)\nOpenJDK 64-Bit Server VM (build 17+35-2724, mixed mode, sharing)",
+    "start": "2022-01-11T15:40:20.1712738+00:00",
+    "finished": "2022-01-11T15:40:20.3629442+00:00",
+    "durationMs": 191
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "d",
   "os": "linux",
   "compiler": "ldc2",
@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "2.d",
   "input": "10",
-  "timeMS": 215.1358,
-  "timeStdDevMS": 1.2444816270238506,
-  "memBytes": 15523840,
-  "cpuTimeMS": 199.9999,
-  "cpuTimeUserMS": 196.6666,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1672427162",
+  "timeMS": 183.0214,
+  "timeStdDevMS": 0.3901926190998271,
+  "memBytes": 14532608,
+  "cpuTimeMS": 173.3333,
+  "cpuTimeUserMS": 173.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": null,
   "buildLog": {
-    "compilerVersion": "LDC - the LLVM D compiler (1.26.0):\n  based on DMD v2.096.1 and LLVM 11.0.1\n  built with LDC - the LLVM D compiler (1.26.0)\n  Default target: x86_64-unknown-linux-gnu\n  Host CPU: haswell\n  http://dlang.org - http://wiki.dlang.org/LDC\n\n  Registered Targets:\n    aarch64    - AArch64 (little endian)\n    aarch64_32 - AArch64 (little endian ILP32)\n    aarch64_be - AArch64 (big endian)\n    amdgcn     - AMD GCN GPUs\n    arm        - ARM\n    arm64      - ARM64 (little endian)\n    arm64_32   - ARM64 (little endian ILP32)\n    armeb      - ARM (big endian)\n    avr        - Atmel AVR Microcontroller\n    mips       - MIPS (32-bit big endian)\n    mips64     - MIPS (64-bit big endian)\n    mips64el   - MIPS (64-bit little endian)\n    mipsel     - MIPS (32-bit little endian)\n    msp430     - MSP430 [experimental]\n    nvptx      - NVIDIA PTX 32-bit\n    nvptx64    - NVIDIA PTX 64-bit\n    ppc32      - PowerPC 32\n    ppc64      - PowerPC 64\n    ppc64le    - PowerPC 64 LE\n    r600       - AMD GPUs HD2XXX-HD6XXX\n    riscv32    - 32-bit RISC-V\n    riscv64    - 64-bit RISC-V\n    thumb      - Thumb\n    thumbeb    - Thumb (big endian)\n    wasm32     - WebAssembly 32-bit\n    wasm64     - WebAssembly 64-bit\n    x86        - 32-bit X86: Pentium-Pro and above\n    x86-64     - 64-bit X86: EM64T and AMD64",
-    "start": "2022-01-08T23:03:38.1746008+00:00",
-    "finished": "2022-01-08T23:03:41.2972359+00:00",
-    "durationMs": 3122
+    "compilerVersion": "LDC - the LLVM D compiler (1.26.0):\n  based on DMD v2.096.1 and LLVM 11.0.1\n  built with LDC - the LLVM D compiler (1.26.0)\n  Default target: x86_64-unknown-linux-gnu\n  Host CPU: skylake\n  http://dlang.org - http://wiki.dlang.org/LDC\n\n  Registered Targets:\n    aarch64    - AArch64 (little endian)\n    aarch64_32 - AArch64 (little endian ILP32)\n    aarch64_be - AArch64 (big endian)\n    amdgcn     - AMD GCN GPUs\n    arm        - ARM\n    arm64      - ARM64 (little endian)\n    arm64_32   - ARM64 (little endian ILP32)\n    armeb      - ARM (big endian)\n    avr        - Atmel AVR Microcontroller\n    mips       - MIPS (32-bit big endian)\n    mips64     - MIPS (64-bit big endian)\n    mips64el   - MIPS (64-bit little endian)\n    mipsel     - MIPS (32-bit little endian)\n    msp430     - MSP430 [experimental]\n    nvptx      - NVIDIA PTX 32-bit\n    nvptx64    - NVIDIA PTX 64-bit\n    ppc32      - PowerPC 32\n    ppc64      - PowerPC 64\n    ppc64le    - PowerPC 64 LE\n    r600       - AMD GPUs HD2XXX-HD6XXX\n    riscv32    - 32-bit RISC-V\n    riscv64    - 64-bit RISC-V\n    thumb      - Thumb\n    thumbeb    - Thumb (big endian)\n    wasm32     - WebAssembly 32-bit\n    wasm64     - WebAssembly 64-bit\n    x86        - 32-bit X86: Pentium-Pro and above\n    x86-64     - 64-bit X86: EM64T and AMD64",
+    "start": "2022-01-11T14:51:46.9696479+00:00",
+    "finished": "2022-01-11T14:51:49.3262659+00:00",
+    "durationMs": 2356
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-08T23:32:37.4359731+00:00",
-    "finished": "2022-01-08T23:32:37.4454029+00:00",
-    "durationMs": 9
+    "start": "2022-01-11T15:39:48.8597906+00:00",
+    "finished": "2022-01-11T15:39:48.8665164+00:00",
+    "durationMs": 6
   }
 }

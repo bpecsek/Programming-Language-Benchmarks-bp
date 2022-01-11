@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "elixir",
+  "os": "linux",
+  "compiler": "elixir",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "1.ex",
+  "input": "4000",
+  "timeMS": 1.0697,
+  "timeStdDevMS": 0.06748750501636094,
+  "memBytes": 2355200,
+  "cpuTimeMS": 0.0,
+  "cpuTimeUserMS": 0.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": "Erlang/OTP 24 [erts-12.0.3] [source] [64-bit] [smp:8:4] [ds:8:4:10] [async-threads:1] [jit]\n\nElixir 1.12.2 (compiled with Erlang/OTP 24)",
+    "start": "2022-01-11T14:52:29.0077264+00:00",
+    "finished": "2022-01-11T14:52:33.1703125+00:00",
+    "durationMs": 4162
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T16:53:12.5049711+00:00",
+    "finished": "0001-01-01T00:00:00+00:00",
+    "durationMs": 0
+  }
+}

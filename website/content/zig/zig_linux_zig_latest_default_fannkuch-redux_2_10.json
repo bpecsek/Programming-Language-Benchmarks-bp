@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "zig",
   "os": "linux",
   "compiler": "zig",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "2.zig",
   "input": "10",
-  "timeMS": 203.5054,
-  "timeStdDevMS": 1.0220086301005564,
+  "timeMS": 167.3479,
+  "timeStdDevMS": 0.23713340127447913,
   "memBytes": 8192,
-  "cpuTimeMS": 190.0,
-  "cpuTimeUserMS": 190.0,
+  "cpuTimeMS": 160.0,
+  "cpuTimeUserMS": 160.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1672427162",
+  "githubRunId": null,
   "buildLog": {
-    "compilerVersion": "0.10.0-dev.217+3f586781b",
-    "start": "2022-01-08T23:06:12.1186181+00:00",
-    "finished": "2022-01-08T23:06:17.9867423+00:00",
-    "durationMs": 5868
+    "compilerVersion": "0.10.0-dev.238+4731a6e5d",
+    "start": "2022-01-11T15:38:04.9106355+00:00",
+    "finished": "2022-01-11T15:38:08.6263662+00:00",
+    "durationMs": 3715
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-08T23:35:39.5200442+00:00",
-    "finished": "2022-01-08T23:35:39.7269771+00:00",
-    "durationMs": 206
+    "start": "2022-01-11T15:41:12.2361639+00:00",
+    "finished": "2022-01-11T15:41:12.4026298+00:00",
+    "durationMs": 166
   }
 }

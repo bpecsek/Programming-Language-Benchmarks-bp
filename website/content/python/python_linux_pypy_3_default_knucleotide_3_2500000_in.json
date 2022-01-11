@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "python",
+  "os": "linux",
+  "compiler": "pypy",
+  "compilerVersion": "3",
+  "test": "knucleotide",
+  "code": "3.py",
+  "input": "2500000_in",
+  "timeMS": 2904.2495,
+  "timeStdDevMS": 67.43448646108313,
+  "memBytes": 151490560,
+  "cpuTimeMS": 9173.3333,
+  "cpuTimeUserMS": 8953.3333,
+  "cpuTimeKernelMS": 220.0,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-01-11T15:28:36.2466176+00:00",
+    "finished": "2022-01-11T15:28:38.5122137+00:00",
+    "durationMs": 2265
+  },
+  "testLog": {
+    "runtimeVersion": "Python 3.7.10 (77787b8f4c49, May 15 2021, 11:50:33)\n[PyPy 7.3.5 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
+    "start": "2022-01-11T15:40:45.0424293+00:00",
+    "finished": "2022-01-11T15:40:46.2596416+00:00",
+    "durationMs": 1217
+  }
+}

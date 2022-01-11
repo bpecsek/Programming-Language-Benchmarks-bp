@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "openjdk",
@@ -7,23 +7,23 @@
   "test": "regex-redux",
   "code": "3.java",
   "input": "250000_in",
-  "timeMS": 732.1394,
-  "timeStdDevMS": 34.49702967445161,
-  "memBytes": 116428800,
-  "cpuTimeMS": 1323.3332,
-  "cpuTimeUserMS": 1289.9999,
-  "cpuTimeKernelMS": 33.3333,
-  "githubRunId": "1672427162",
+  "timeMS": 422.3626,
+  "timeStdDevMS": 11.934336955748055,
+  "memBytes": 137588736,
+  "cpuTimeMS": 1283.3332,
+  "cpuTimeUserMS": 1226.6666,
+  "cpuTimeKernelMS": 56.6666,
+  "githubRunId": null,
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2022-01-08T23:05:49.5690818+00:00",
-    "finished": "2022-01-08T23:05:53.4425726+00:00",
-    "durationMs": 3873
+    "start": "2022-01-11T14:56:06.7404942+00:00",
+    "finished": "2022-01-11T14:56:10.1148418+00:00",
+    "durationMs": 3374
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+30-2029)\nOpenJDK 64-Bit Server VM (build 18-ea+30-2029, mixed mode, sharing)",
-    "start": "2022-01-08T23:33:23.4713023+00:00",
-    "finished": "2022-01-08T23:33:24.4681825+00:00",
-    "durationMs": 996
+    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-15\nOpenJDK Runtime Environment (build 18-ea+14-756)\nOpenJDK 64-Bit Server VM (build 18-ea+14-756, mixed mode, sharing)",
+    "start": "2022-01-11T15:40:07.1546394+00:00",
+    "finished": "2022-01-11T15:40:07.7228427+00:00",
+    "durationMs": 568
   }
 }

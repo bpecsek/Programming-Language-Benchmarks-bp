@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "haxe",
   "os": "linux",
   "compiler": "haxe/hashlink",
@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "1.hx",
   "input": "1000",
-  "timeMS": 716.8502,
-  "timeStdDevMS": 0.30082573582277167,
-  "memBytes": 3903488,
-  "cpuTimeMS": 703.3333,
-  "cpuTimeUserMS": 703.3333,
+  "timeMS": 584.5844,
+  "timeStdDevMS": 0.5403383970563325,
+  "memBytes": 3809280,
+  "cpuTimeMS": 576.6666,
+  "cpuTimeUserMS": 576.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1672427162",
+  "githubRunId": null,
   "buildLog": {
-    "compilerVersion": "4.2.4",
-    "start": "2022-01-08T23:02:55.3200072+00:00",
-    "finished": "2022-01-08T23:02:56.4264063+00:00",
-    "durationMs": 1106
+    "compilerVersion": "4.2.3",
+    "start": "2022-01-11T14:54:31.936873+00:00",
+    "finished": "2022-01-11T14:54:33.0176691+00:00",
+    "durationMs": 1080
   },
   "testLog": {
     "runtimeVersion": "1.12.0",
-    "start": "2022-01-08T23:32:55.9965282+00:00",
-    "finished": "2022-01-08T23:32:56.0139036+00:00",
-    "durationMs": 17
+    "start": "2022-01-11T15:39:55.9197554+00:00",
+    "finished": "2022-01-11T15:39:55.9330245+00:00",
+    "durationMs": 13
   }
 }

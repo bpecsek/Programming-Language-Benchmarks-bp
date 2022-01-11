@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "lua",
   "os": "linux",
   "compiler": "luajit",
@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "1.lua",
   "input": "1000",
-  "timeMS": 90.3766,
-  "timeStdDevMS": 0.24254181082857398,
-  "memBytes": 2588672,
-  "cpuTimeMS": 80.0,
-  "cpuTimeUserMS": 80.0,
+  "timeMS": 74.2817,
+  "timeStdDevMS": 0.18914889196961523,
+  "memBytes": 2568192,
+  "cpuTimeMS": 70.0,
+  "cpuTimeUserMS": 70.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1672427162",
+  "githubRunId": null,
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-08T23:02:43.6059456+00:00",
-    "finished": "2022-01-08T23:02:43.6106419+00:00",
-    "durationMs": 4
+    "start": "2022-01-11T15:04:36.2159642+00:00",
+    "finished": "2022-01-11T15:04:36.2190221+00:00",
+    "durationMs": 3
   },
   "testLog": {
     "runtimeVersion": "LuaJIT 2.1.0-beta3 -- Copyright (C) 2005-2021 Mike Pall. https://luajit.org/",
-    "start": "2022-01-08T23:34:04.9980646+00:00",
-    "finished": "2022-01-08T23:34:05.005718+00:00",
-    "durationMs": 7
+    "start": "2022-01-11T15:40:31.3010284+00:00",
+    "finished": "2022-01-11T15:40:31.306065+00:00",
+    "durationMs": 5
   }
 }

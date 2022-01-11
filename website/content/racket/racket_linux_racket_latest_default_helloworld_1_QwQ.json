@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "racket",
   "os": "linux",
   "compiler": "racket",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.rkt",
   "input": "QwQ",
-  "timeMS": 132.9921,
-  "timeStdDevMS": 0.5858273013440005,
-  "memBytes": 68263936,
-  "cpuTimeMS": 122.0,
-  "cpuTimeUserMS": 82.0,
-  "cpuTimeKernelMS": 40.0,
-  "githubRunId": "1672427162",
+  "timeMS": 102.2874,
+  "timeStdDevMS": 0.26460376603517893,
+  "memBytes": 68423680,
+  "cpuTimeMS": 92.0,
+  "cpuTimeUserMS": 70.0,
+  "cpuTimeKernelMS": 22.0,
+  "githubRunId": null,
   "buildLog": {
     "compilerVersion": "Welcome to Racket v8.3 [cs].",
-    "start": "2022-01-08T23:04:58.6624054+00:00",
-    "finished": "2022-01-08T23:04:59.95148+00:00",
-    "durationMs": 1289
+    "start": "2022-01-11T15:28:46.1250105+00:00",
+    "finished": "2022-01-11T15:28:47.064847+00:00",
+    "durationMs": 939
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-08T23:34:21.2606031+00:00",
-    "finished": "2022-01-08T23:34:21.5438096+00:00",
-    "durationMs": 283
+    "start": "2022-01-11T15:40:49.5897531+00:00",
+    "finished": "2022-01-11T15:40:49.8035207+00:00",
+    "durationMs": 213
   }
 }

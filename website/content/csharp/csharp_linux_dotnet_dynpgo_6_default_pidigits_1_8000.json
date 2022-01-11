@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "dotnet/dynpgo",
+  "compilerVersion": "6",
+  "test": "pidigits",
+  "code": "1.cs",
+  "input": "8000",
+  "timeMS": 4020.6182,
+  "timeStdDevMS": 15.192372721862986,
+  "memBytes": 72192000,
+  "cpuTimeMS": 4429.9999,
+  "cpuTimeUserMS": 4319.9999,
+  "cpuTimeKernelMS": 110.0,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": "6.0.100-preview.7.21379.14",
+    "start": "2022-01-11T14:50:49.6166287+00:00",
+    "finished": "2022-01-11T14:50:57.2964988+00:00",
+    "durationMs": 7679
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T15:39:45.7238405+00:00",
+    "finished": "2022-01-11T15:39:45.8870987+00:00",
+    "durationMs": 163
+  }
+}

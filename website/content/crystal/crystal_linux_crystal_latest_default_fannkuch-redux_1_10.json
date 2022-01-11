@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "crystal",
   "os": "linux",
   "compiler": "crystal",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.cr",
   "input": "10",
-  "timeMS": 325.3127,
-  "timeStdDevMS": 0.4250288970568469,
-  "memBytes": 5160960,
-  "cpuTimeMS": 313.3333,
-  "cpuTimeUserMS": 313.3333,
+  "timeMS": 271.2277,
+  "timeStdDevMS": 4.493930754176541,
+  "memBytes": 3129344,
+  "cpuTimeMS": 260.0,
+  "cpuTimeUserMS": 260.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1672427162",
+  "githubRunId": null,
   "buildLog": {
     "compilerVersion": "Crystal 1.3.0 [a3ee70ca0] (2022-01-06)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2022-01-08T23:04:00.3408584+00:00",
-    "finished": "2022-01-08T23:04:17.2764879+00:00",
-    "durationMs": 16935
+    "start": "2022-01-11T14:42:30.8535815+00:00",
+    "finished": "2022-01-11T14:42:42.4055698+00:00",
+    "durationMs": 11551
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-08T23:32:11.4963325+00:00",
-    "finished": "2022-01-08T23:32:11.8325647+00:00",
-    "durationMs": 336
+    "start": "2022-01-11T15:39:30.0381096+00:00",
+    "finished": "2022-01-11T15:39:30.3119401+00:00",
+    "durationMs": 273
   }
 }

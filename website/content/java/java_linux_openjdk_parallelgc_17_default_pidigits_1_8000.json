@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk/parallelgc",
+  "compilerVersion": "17",
+  "test": "pidigits",
+  "code": "1.java",
+  "input": "8000",
+  "timeMS": 4650.1069,
+  "timeStdDevMS": 83.91055054026286,
+  "memBytes": 592150528,
+  "cpuTimeMS": 5176.6666,
+  "cpuTimeUserMS": 4956.6666,
+  "cpuTimeKernelMS": 220.0,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": "javac 17",
+    "start": "2022-01-11T14:55:39.8972206+00:00",
+    "finished": "2022-01-11T14:55:41.4299155+00:00",
+    "durationMs": 1532
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17\" 2021-09-14\nOpenJDK Runtime Environment (build 17+35-2724)\nOpenJDK 64-Bit Server VM (build 17+35-2724, mixed mode, sharing)",
+    "start": "2022-01-11T15:40:04.1763293+00:00",
+    "finished": "2022-01-11T15:40:04.3045255+00:00",
+    "durationMs": 128
+  }
+}

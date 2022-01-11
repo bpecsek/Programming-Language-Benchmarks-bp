@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "python",
+  "os": "linux",
+  "compiler": "pypy",
+  "compilerVersion": "3",
+  "test": "fasta",
+  "code": "5.py",
+  "input": "2500000",
+  "timeMS": 3854.0039,
+  "timeStdDevMS": 24.108471311207737,
+  "memBytes": 94896128,
+  "cpuTimeMS": 6343.3332,
+  "cpuTimeUserMS": 5643.3333,
+  "cpuTimeKernelMS": 699.9999,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-01-11T15:28:34.189694+00:00",
+    "finished": "2022-01-11T15:28:34.6933231+00:00",
+    "durationMs": 503
+  },
+  "testLog": {
+    "runtimeVersion": "Python 3.7.10 (77787b8f4c49, May 15 2021, 11:50:33)\n[PyPy 7.3.5 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
+    "start": "2022-01-11T15:40:40.3126038+00:00",
+    "finished": "2022-01-11T15:40:40.7560726+00:00",
+    "durationMs": 443
+  }
+}

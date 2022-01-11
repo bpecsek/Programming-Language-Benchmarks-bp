@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+  "lang": "go",
+  "os": "linux",
+  "compiler": "tinygo",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "2.go",
+  "input": "18",
+  "timeMS": 4013.2894,
+  "timeStdDevMS": 23.298630267106645,
+  "memBytes": 40759296,
+  "cpuTimeMS": 3996.6666,
+  "cpuTimeUserMS": 3986.6666,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": null,
+  "buildLog": {
+    "compilerVersion": "tinygo version 0.19.0 linux/amd64 (using go version go1.16.5 and LLVM version 11.0.0)",
+    "start": "2022-01-11T14:53:27.0063649+00:00",
+    "finished": "2022-01-11T14:53:31.3890233+00:00",
+    "durationMs": 4382
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-11T15:39:50.7413222+00:00",
+    "finished": "2022-01-11T15:39:50.7566536+00:00",
+    "durationMs": 15
+  }
+}

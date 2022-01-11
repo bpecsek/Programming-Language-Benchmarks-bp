@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][8 cores] Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
   "lang": "csharp",
   "os": "linux",
   "compiler": "mono",
@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "2.cs",
   "input": "10",
-  "timeMS": 2490.6451,
-  "timeStdDevMS": 6.353655354204067,
-  "memBytes": 29147136,
-  "cpuTimeMS": 2479.9999,
-  "cpuTimeUserMS": 2476.6666,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1672427162",
+  "timeMS": 1901.9915,
+  "timeStdDevMS": 9.491035586805141,
+  "memBytes": 16252928,
+  "cpuTimeMS": 1890.0,
+  "cpuTimeUserMS": 1890.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": null,
   "buildLog": {
-    "compilerVersion": "Mono JIT compiler version 6.12.0.122 (tarball Mon Feb 22 17:42:49 UTC 2021)\nCopyright (C) 2002-2014 Novell, Inc, Xamarin Inc and Contributors. www.mono-project.com\n\tTLS:           __thread\n\tSIGSEGV:       altstack\n\tNotifications: epoll\n\tArchitecture:  amd64\n\tDisabled:      none\n\tMisc:          softdebug \n\tInterpreter:   yes\n\tLLVM:          yes(610)\n\tSuspend:       hybrid\n\tGC:            sgen (concurrent by default)",
-    "start": "2022-01-08T23:10:34.5401268+00:00",
-    "finished": "2022-01-08T23:10:37.084257+00:00",
-    "durationMs": 2544
+    "compilerVersion": "Mono JIT compiler version 6.12.0.107 (tarball Thu Dec 10 05:28:17 UTC 2020)\nCopyright (C) 2002-2014 Novell, Inc, Xamarin Inc and Contributors. www.mono-project.com\n\tTLS:           __thread\n\tSIGSEGV:       altstack\n\tNotifications: epoll\n\tArchitecture:  amd64\n\tDisabled:      none\n\tMisc:          softdebug \n\tInterpreter:   yes\n\tLLVM:          yes(610)\n\tSuspend:       hybrid\n\tGC:            sgen (concurrent by default)",
+    "start": "2022-01-11T14:45:15.2708111+00:00",
+    "finished": "2022-01-11T14:45:17.5230007+00:00",
+    "durationMs": 2252
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-08T23:32:31.4242487+00:00",
-    "finished": "2022-01-08T23:32:31.5043467+00:00",
-    "durationMs": 80
+    "start": "2022-01-11T15:39:31.2799887+00:00",
+    "finished": "2022-01-11T15:39:31.355893+00:00",
+    "durationMs": 75
   }
 }
