@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "2.f90",
   "input": "500000",
-  "timeMS": 41.7323,
-  "timeStdDevMS": 0.5508664115131122,
-  "memBytes": 5619712,
-  "cpuTimeMS": 30.0,
-  "cpuTimeUserMS": 30.0,
+  "timeMS": 43.0159,
+  "timeStdDevMS": 1.6702443543785268,
+  "memBytes": 5705728,
+  "cpuTimeMS": 33.3333,
+  "cpuTimeUserMS": 33.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1683935959",
+  "githubRunId": "1733268852",
   "buildLog": {
     "compilerVersion": "clang version 7.0.1 \nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2022-01-11T18:10:40.4039757+00:00",
-    "finished": "2022-01-11T18:10:40.6021087+00:00",
-    "durationMs": 198
+    "start": "2022-01-22T15:38:56.802529+00:00",
+    "finished": "2022-01-22T15:38:56.9699345+00:00",
+    "durationMs": 167
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T18:42:38.3423834+00:00",
-    "finished": "2022-01-11T18:42:38.3501908+00:00",
-    "durationMs": 7
+    "start": "2022-01-22T16:06:12.0019486+00:00",
+    "finished": "2022-01-22T16:06:12.0106178+00:00",
+    "durationMs": 8
   }
 }

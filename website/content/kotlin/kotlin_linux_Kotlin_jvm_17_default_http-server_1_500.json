@@ -7,23 +7,23 @@
   "test": "http-server",
   "code": "1.kt",
   "input": "500",
-  "timeMS": 2516.8771,
-  "timeStdDevMS": 46.20343074549088,
-  "memBytes": 248352768,
-  "cpuTimeMS": 4056.6666,
-  "cpuTimeUserMS": 3716.6666,
-  "cpuTimeKernelMS": 340.0,
-  "githubRunId": "1683935959",
+  "timeMS": 2810.0731,
+  "timeStdDevMS": 159.43465308559269,
+  "memBytes": 263565312,
+  "cpuTimeMS": 4553.3332,
+  "cpuTimeUserMS": 4153.3333,
+  "cpuTimeKernelMS": 399.9999,
+  "githubRunId": "1733268852",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-11T18:12:32.2099511+00:00",
-    "finished": "2022-01-11T18:12:40.7188211+00:00",
-    "durationMs": 8508
+    "start": "2022-01-22T15:41:11.4595089+00:00",
+    "finished": "2022-01-22T15:41:18.7786091+00:00",
+    "durationMs": 7319
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
-    "start": "2022-01-11T18:43:40.9427507+00:00",
-    "finished": "2022-01-11T18:43:42.8553339+00:00",
-    "durationMs": 1912
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
+    "start": "2022-01-22T16:07:25.1712529+00:00",
+    "finished": "2022-01-22T16:07:27.3296658+00:00",
+    "durationMs": 2158
   }
 }

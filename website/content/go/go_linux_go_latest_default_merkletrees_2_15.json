@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "go",
+  "os": "linux",
+  "compiler": "go",
+  "compilerVersion": "latest",
+  "test": "merkletrees",
+  "code": "2.go",
+  "input": "15",
+  "timeMS": 523.263,
+  "timeStdDevMS": 6.905622894665857,
+  "memBytes": 14073856,
+  "cpuTimeMS": 713.3332,
+  "cpuTimeUserMS": 686.6666,
+  "cpuTimeKernelMS": 26.6666,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "go version go1.17.6 linux/amd64",
+    "start": "2022-01-22T15:39:14.1276799+00:00",
+    "finished": "2022-01-22T15:39:15.2873058+00:00",
+    "durationMs": 1159
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-22T16:06:13.0598496+00:00",
+    "finished": "2022-01-22T16:06:13.0833917+00:00",
+    "durationMs": 23
+  }
+}

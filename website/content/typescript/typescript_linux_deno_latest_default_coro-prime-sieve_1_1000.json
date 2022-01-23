@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.ts",
   "input": "1000",
-  "timeMS": 201.217,
-  "timeStdDevMS": 11.892263216197902,
-  "memBytes": 40738816,
-  "cpuTimeMS": 183.3333,
-  "cpuTimeUserMS": 170.0,
+  "timeMS": 203.9566,
+  "timeStdDevMS": 18.40795512878422,
+  "memBytes": 42745856,
+  "cpuTimeMS": 186.6666,
+  "cpuTimeUserMS": 173.3333,
   "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1683935959",
+  "githubRunId": "1733268852",
   "buildLog": {
-    "compilerVersion": "deno 1.17.2 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.15\ntypescript 4.5.2",
-    "start": "2022-01-11T18:12:48.2417728+00:00",
-    "finished": "2022-01-11T18:12:49.0804428+00:00",
-    "durationMs": 838
+    "compilerVersion": "deno 1.18.0 (release, x86_64-unknown-linux-gnu)\nv8 9.8.177.6\ntypescript 4.5.2",
+    "start": "2022-01-22T15:40:36.6260572+00:00",
+    "finished": "2022-01-22T15:40:37.6058376+00:00",
+    "durationMs": 979
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T18:44:42.3187839+00:00",
-    "finished": "2022-01-11T18:44:42.6480034+00:00",
-    "durationMs": 329
+    "start": "2022-01-22T16:08:59.3059436+00:00",
+    "finished": "2022-01-22T16:08:59.6430971+00:00",
+    "durationMs": 337
   }
 }

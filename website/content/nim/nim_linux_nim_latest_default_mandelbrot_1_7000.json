@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "nim",
+  "os": "linux",
+  "compiler": "nim",
+  "compilerVersion": "latest",
+  "test": "mandelbrot",
+  "code": "1.nim",
+  "input": "7000",
+  "timeMS": 1718.0066,
+  "timeStdDevMS": 1.7546468372105206,
+  "memBytes": 7852032,
+  "cpuTimeMS": 1703.3333,
+  "cpuTimeUserMS": 1703.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "Nim Compiler Version 1.6.2 [Linux: amd64]\nCompiled at 2021-12-17\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 9084d9bc02bcd983b81a4c76a05f27b9ce2707dd\nactive boot switches: -d:release -d:danger",
+    "start": "2022-01-22T15:39:45.3135679+00:00",
+    "finished": "2022-01-22T15:39:53.5193823+00:00",
+    "durationMs": 8205
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-22T16:07:42.6177965+00:00",
+    "finished": "2022-01-22T16:07:42.6362945+00:00",
+    "durationMs": 18
+  }
+}

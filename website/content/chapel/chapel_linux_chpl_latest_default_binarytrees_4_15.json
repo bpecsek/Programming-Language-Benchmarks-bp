@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "chapel",
+  "os": "linux",
+  "compiler": "chpl",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "4.chpl",
+  "input": "15",
+  "timeMS": 227.8905,
+  "timeStdDevMS": 0.3002647054406064,
+  "memBytes": 16625664,
+  "cpuTimeMS": 219.9999,
+  "cpuTimeUserMS": 216.6666,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
+    "start": "2022-01-22T15:39:24.6758016+00:00",
+    "finished": "2022-01-22T15:39:35.5171249+00:00",
+    "durationMs": 10841
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-22T16:05:11.7688064+00:00",
+    "finished": "2022-01-22T16:05:11.8139282+00:00",
+    "durationMs": 45
+  }
+}

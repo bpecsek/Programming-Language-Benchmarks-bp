@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "2.java",
   "input": "10",
-  "timeMS": 799.3246,
-  "timeStdDevMS": 1.5231774201757116,
-  "memBytes": 47075328,
-  "cpuTimeMS": 829.9998,
-  "cpuTimeUserMS": 813.3332,
-  "cpuTimeKernelMS": 16.6666,
-  "githubRunId": "1683935959",
+  "timeMS": 805.5992,
+  "timeStdDevMS": 3.393274554664496,
+  "memBytes": 45096960,
+  "cpuTimeMS": 843.3333,
+  "cpuTimeUserMS": 823.3333,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1733268852",
   "buildLog": {
-    "compilerVersion": "javac 17.0.1",
-    "start": "2022-01-11T18:12:14.9220477+00:00",
-    "finished": "2022-01-11T18:12:16.6758202+00:00",
-    "durationMs": 1753
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-01-22T15:39:59.6528103+00:00",
+    "finished": "2022-01-22T15:40:01.2095297+00:00",
+    "durationMs": 1556
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
-    "start": "2022-01-11T18:43:02.209218+00:00",
-    "finished": "2022-01-11T18:43:02.3327595+00:00",
-    "durationMs": 123
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
+    "start": "2022-01-22T16:06:26.506514+00:00",
+    "finished": "2022-01-22T16:06:26.6552506+00:00",
+    "durationMs": 148
   }
 }

@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk/parallelgc",
+  "compilerVersion": "17",
+  "test": "binarytrees",
+  "code": "2.java",
+  "input": "15",
+  "timeMS": 160.9607,
+  "timeStdDevMS": 4.100630173928547,
+  "memBytes": 103796736,
+  "cpuTimeMS": 169.9999,
+  "cpuTimeUserMS": 136.6666,
+  "cpuTimeKernelMS": 33.3333,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-01-22T15:40:41.710892+00:00",
+    "finished": "2022-01-22T15:40:43.3495526+00:00",
+    "durationMs": 1638
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
+    "start": "2022-01-22T16:06:34.3266298+00:00",
+    "finished": "2022-01-22T16:06:34.5461079+00:00",
+    "durationMs": 219
+  }
+}

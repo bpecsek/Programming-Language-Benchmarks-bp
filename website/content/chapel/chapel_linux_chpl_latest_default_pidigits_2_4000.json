@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "2.chpl",
   "input": "4000",
-  "timeMS": 124.4219,
-  "timeStdDevMS": 1.0012551339860103,
-  "memBytes": 35766272,
-  "cpuTimeMS": 116.6666,
-  "cpuTimeUserMS": 106.6666,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1683935959",
+  "timeMS": 122.1759,
+  "timeStdDevMS": 2.694980150205202,
+  "memBytes": 13332480,
+  "cpuTimeMS": 110.0,
+  "cpuTimeUserMS": 110.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1733268852",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2022-01-11T18:12:26.7712657+00:00",
-    "finished": "2022-01-11T18:12:37.1865508+00:00",
-    "durationMs": 10415
+    "start": "2022-01-22T15:41:05.0635396+00:00",
+    "finished": "2022-01-22T15:41:15.8742793+00:00",
+    "durationMs": 10810
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T18:42:03.5432581+00:00",
-    "finished": "2022-01-11T18:42:03.9670382+00:00",
-    "durationMs": 423
+    "start": "2022-01-22T16:05:12.7939437+00:00",
+    "finished": "2022-01-22T16:05:12.842255+00:00",
+    "durationMs": 48
   }
 }

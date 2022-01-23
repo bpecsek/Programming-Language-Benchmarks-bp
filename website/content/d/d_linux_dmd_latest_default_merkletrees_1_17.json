@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "d",
+  "os": "linux",
+  "compiler": "dmd",
+  "compilerVersion": "latest",
+  "test": "merkletrees",
+  "code": "1.d",
+  "input": "17",
+  "timeMS": 3373.358,
+  "timeStdDevMS": 21.23643731427961,
+  "memBytes": 160854016,
+  "cpuTimeMS": 3776.6666,
+  "cpuTimeUserMS": 3720.0,
+  "cpuTimeKernelMS": 56.6666,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "DMD64 D Compiler v2.098.1\nCopyright (C) 1999-2021 by The D Language Foundation, All Rights Reserved written by Walter Bright",
+    "start": "2022-01-22T15:39:07.0555545+00:00",
+    "finished": "2022-01-22T15:39:08.9088552+00:00",
+    "durationMs": 1853
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-22T16:06:02.9107889+00:00",
+    "finished": "2022-01-22T16:06:02.9490974+00:00",
+    "durationMs": 38
+  }
+}

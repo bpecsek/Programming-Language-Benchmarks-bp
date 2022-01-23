@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.java",
   "input": "10",
-  "timeMS": 212.8643,
-  "timeStdDevMS": 3.5089892661562794,
-  "memBytes": 38879232,
-  "cpuTimeMS": 350.0,
-  "cpuTimeUserMS": 340.0,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1683935959",
+  "timeMS": 221.0447,
+  "timeStdDevMS": 8.222614275885727,
+  "memBytes": 39510016,
+  "cpuTimeMS": 359.9999,
+  "cpuTimeUserMS": 353.3333,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1733268852",
   "buildLog": {
-    "compilerVersion": "javac 17.0.1",
-    "start": "2022-01-11T18:13:01.0644987+00:00",
-    "finished": "2022-01-11T18:13:02.9058985+00:00",
-    "durationMs": 1841
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-01-22T15:40:45.0046214+00:00",
+    "finished": "2022-01-22T15:40:46.6839866+00:00",
+    "durationMs": 1679
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment (build 17.0.1+12-39)\nOpenJDK 64-Bit Server VM (build 17.0.1+12-39, mixed mode, sharing)",
-    "start": "2022-01-11T18:43:09.2078427+00:00",
-    "finished": "2022-01-11T18:43:09.5301989+00:00",
-    "durationMs": 322
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
+    "start": "2022-01-22T16:06:34.7407725+00:00",
+    "finished": "2022-01-22T16:06:35.0867492+00:00",
+    "durationMs": 345
   }
 }

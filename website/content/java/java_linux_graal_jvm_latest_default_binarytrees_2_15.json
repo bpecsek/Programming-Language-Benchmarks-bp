@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "java",
+  "os": "linux",
+  "compiler": "graal/jvm",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "2.java",
+  "input": "15",
+  "timeMS": 522.9419,
+  "timeStdDevMS": 20.47656272628132,
+  "memBytes": 164433920,
+  "cpuTimeMS": 303.3333,
+  "cpuTimeUserMS": 240.0,
+  "cpuTimeKernelMS": 63.3333,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.1",
+    "start": "2022-01-22T15:41:55.8756195+00:00",
+    "finished": "2022-01-22T15:41:57.7677176+00:00",
+    "durationMs": 1892
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
+    "start": "2022-01-22T16:06:43.965575+00:00",
+    "finished": "2022-01-22T16:06:44.9111722+00:00",
+    "durationMs": 945
+  }
+}

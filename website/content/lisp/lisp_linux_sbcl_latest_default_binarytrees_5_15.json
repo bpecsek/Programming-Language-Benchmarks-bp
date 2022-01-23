@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "lisp",
+  "os": "linux",
+  "compiler": "sbcl",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "5.cl",
+  "input": "15",
+  "timeMS": 113.8207,
+  "timeStdDevMS": 3.4918426639812905,
+  "memBytes": 239730688,
+  "cpuTimeMS": 100.0,
+  "cpuTimeUserMS": 50.0,
+  "cpuTimeKernelMS": 50.0,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "SBCL 2.2.0",
+    "start": "2022-01-22T15:42:37.3798251+00:00",
+    "finished": "2022-01-22T15:42:39.6900164+00:00",
+    "durationMs": 2310
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-22T16:07:38.0091156+00:00",
+    "finished": "2022-01-22T16:07:38.140537+00:00",
+    "durationMs": 131
+  }
+}

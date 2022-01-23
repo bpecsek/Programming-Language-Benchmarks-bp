@@ -7,23 +7,23 @@
   "test": "regex-redux",
   "code": "7.rs",
   "input": "250000_in",
-  "timeMS": 59.9831,
-  "timeStdDevMS": 0.9822877853935318,
-  "memBytes": 11710464,
-  "cpuTimeMS": 69.9999,
-  "cpuTimeUserMS": 66.6666,
+  "timeMS": 66.8012,
+  "timeStdDevMS": 3.1353470530921004,
+  "memBytes": 12587008,
+  "cpuTimeMS": 79.9999,
+  "cpuTimeUserMS": 76.6666,
   "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1683935959",
+  "githubRunId": "1733268852",
   "buildLog": {
-    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
-    "start": "2022-01-11T18:20:31.1034696+00:00",
-    "finished": "2022-01-11T18:20:49.3390383+00:00",
-    "durationMs": 18235
+    "compilerVersion": "rustc 1.58.1 (db9d1b20b 2022-01-20)",
+    "start": "2022-01-22T15:48:30.0983549+00:00",
+    "finished": "2022-01-22T15:48:46.6390753+00:00",
+    "durationMs": 16540
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-11T18:44:41.2632691+00:00",
-    "finished": "2022-01-11T18:44:41.3456959+00:00",
-    "durationMs": 82
+    "start": "2022-01-22T16:08:58.0123309+00:00",
+    "finished": "2022-01-22T16:08:58.10008+00:00",
+    "durationMs": 87
   }
 }

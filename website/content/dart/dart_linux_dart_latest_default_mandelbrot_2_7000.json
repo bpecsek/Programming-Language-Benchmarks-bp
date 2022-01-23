@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "dart",
+  "os": "linux",
+  "compiler": "dart",
+  "compilerVersion": "latest",
+  "test": "mandelbrot",
+  "code": "2.dart",
+  "input": "7000",
+  "timeMS": 2967.4525,
+  "timeStdDevMS": 76.78618784080463,
+  "memBytes": 46047232,
+  "cpuTimeMS": 5673.3332,
+  "cpuTimeUserMS": 5606.6666,
+  "cpuTimeKernelMS": 66.6666,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "Dart SDK version: 2.15.1 (stable) (Tue Dec 14 13:32:21 2021 +0100) on \"linux_x64\"",
+    "start": "2022-01-22T15:40:06.3222026+00:00",
+    "finished": "2022-01-22T15:40:13.2178148+00:00",
+    "durationMs": 6895
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-22T16:06:08.086449+00:00",
+    "finished": "2022-01-22T16:06:08.1543282+00:00",
+    "durationMs": 67
+  }
+}

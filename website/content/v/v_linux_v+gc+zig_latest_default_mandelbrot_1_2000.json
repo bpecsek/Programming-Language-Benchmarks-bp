@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "v",
+  "os": "linux",
+  "compiler": "v+gc+zig",
+  "compilerVersion": "latest",
+  "test": "mandelbrot",
+  "code": "1.v",
+  "input": "2000",
+  "timeMS": 72.8693,
+  "timeStdDevMS": 0.8908477535471508,
+  "memBytes": 2609152,
+  "cpuTimeMS": 66.6666,
+  "cpuTimeUserMS": 66.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1733268852",
+  "buildLog": {
+    "compilerVersion": "V 0.2.4 839ae6b",
+    "start": "2022-01-22T15:43:33.2148468+00:00",
+    "finished": "2022-01-22T15:43:39.1346502+00:00",
+    "durationMs": 5919
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-22T16:09:10.6027071+00:00",
+    "finished": "2022-01-22T16:09:10.6172059+00:00",
+    "durationMs": 14
+  }
+}
