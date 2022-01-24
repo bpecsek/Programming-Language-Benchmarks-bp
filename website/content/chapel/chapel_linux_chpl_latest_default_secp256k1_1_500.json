@@ -7,23 +7,23 @@
   "test": "secp256k1",
   "code": "1.chpl",
   "input": "500",
-  "timeMS": 396.1145,
-  "timeStdDevMS": 15.317228162214386,
-  "memBytes": 10899456,
-  "cpuTimeMS": 386.6666,
-  "cpuTimeUserMS": 386.6666,
-  "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1733268852",
+  "timeMS": 393.503,
+  "timeStdDevMS": 0.08266924055135531,
+  "memBytes": 33984512,
+  "cpuTimeMS": 383.3332,
+  "cpuTimeUserMS": 376.6666,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1737079326",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2022-01-22T15:41:31.6596359+00:00",
-    "finished": "2022-01-22T15:41:45.4567157+00:00",
-    "durationMs": 13797
+    "start": "2022-01-23T21:39:53.7783488+00:00",
+    "finished": "2022-01-23T21:40:07.0061833+00:00",
+    "durationMs": 13227
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-22T16:05:13.117818+00:00",
-    "finished": "2022-01-22T16:05:13.1765234+00:00",
-    "durationMs": 58
+    "start": "2022-01-23T22:05:58.0579132+00:00",
+    "finished": "2022-01-23T22:05:58.1118046+00:00",
+    "durationMs": 53
   }
 }

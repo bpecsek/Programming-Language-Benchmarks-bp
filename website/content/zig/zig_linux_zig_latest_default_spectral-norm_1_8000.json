@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "1.zig",
   "input": "8000",
-  "timeMS": 4015.7564,
-  "timeStdDevMS": 156.514414073667,
-  "memBytes": 151552,
-  "cpuTimeMS": 4003.3333,
-  "cpuTimeUserMS": 4003.3333,
+  "timeMS": 3840.2871,
+  "timeStdDevMS": 0.9016953051521954,
+  "memBytes": 147456,
+  "cpuTimeMS": 3830.0,
+  "cpuTimeUserMS": 3830.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1733268852",
+  "githubRunId": "1737079326",
   "buildLog": {
-    "compilerVersion": "0.10.0-dev.352+c9ae24503",
-    "start": "2022-01-22T15:43:25.0136188+00:00",
-    "finished": "2022-01-22T15:43:37.4677658+00:00",
-    "durationMs": 12454
+    "compilerVersion": "0.10.0-dev.358+36f13f591",
+    "start": "2022-01-23T21:42:10.902823+00:00",
+    "finished": "2022-01-23T21:42:21.6817448+00:00",
+    "durationMs": 10778
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-22T16:09:50.8191525+00:00",
-    "finished": "2022-01-22T16:09:50.8248985+00:00",
-    "durationMs": 5
+    "start": "2022-01-23T22:09:57.5909191+00:00",
+    "finished": "2022-01-23T22:09:57.5953001+00:00",
+    "durationMs": 4
   }
 }

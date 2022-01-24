@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "node",
+  "compilerVersion": "latest",
+  "test": "nsieve",
+  "code": "1.rs",
+  "input": "10",
+  "timeMS": 266.0359,
+  "timeStdDevMS": 9.503342205946986,
+  "memBytes": 53944320,
+  "cpuTimeMS": 279.9999,
+  "cpuTimeUserMS": 273.3333,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1737079326",
+  "buildLog": {
+    "compilerVersion": "rustc 1.58.1 (db9d1b20b 2022-01-20)",
+    "start": "2022-01-23T21:43:51.4722995+00:00",
+    "finished": "2022-01-23T21:43:53.1742447+00:00",
+    "durationMs": 1701
+  },
+  "testLog": {
+    "runtimeVersion": "v16.13.2",
+    "start": "2022-01-23T22:09:24.7253294+00:00",
+    "finished": "2022-01-23T22:09:24.8067247+00:00",
+    "durationMs": 81
+  }
+}

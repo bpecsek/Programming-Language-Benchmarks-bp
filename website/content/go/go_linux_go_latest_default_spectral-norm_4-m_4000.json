@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "4-m.go",
   "input": "4000",
-  "timeMS": 568.6017,
-  "timeStdDevMS": 0.5884137688168619,
-  "memBytes": 2940928,
-  "cpuTimeMS": 1086.6666,
-  "cpuTimeUserMS": 1083.3333,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1733268852",
+  "timeMS": 566.5235,
+  "timeStdDevMS": 2.5442130178111038,
+  "memBytes": 2957312,
+  "cpuTimeMS": 1080.0,
+  "cpuTimeUserMS": 1080.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1737079326",
   "buildLog": {
     "compilerVersion": "go version go1.17.6 linux/amd64",
-    "start": "2022-01-22T15:39:45.9473323+00:00",
-    "finished": "2022-01-22T15:39:47.1179725+00:00",
-    "durationMs": 1170
+    "start": "2022-01-23T21:38:34.1919813+00:00",
+    "finished": "2022-01-23T21:38:35.5312797+00:00",
+    "durationMs": 1339
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-22T16:06:14.9888566+00:00",
-    "finished": "2022-01-22T16:06:15.0017793+00:00",
-    "durationMs": 12
+    "start": "2022-01-23T22:06:25.5452917+00:00",
+    "finished": "2022-01-23T22:06:25.5569219+00:00",
+    "durationMs": 11
   }
 }

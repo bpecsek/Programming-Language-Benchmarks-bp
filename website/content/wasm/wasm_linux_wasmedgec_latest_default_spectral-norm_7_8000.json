@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmedgec",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "7.rs",
+  "input": "8000",
+  "timeMS": 3716.8439,
+  "timeStdDevMS": 0.749878339021431,
+  "memBytes": 14352384,
+  "cpuTimeMS": 3700.0,
+  "cpuTimeUserMS": 3700.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1737079326",
+  "buildLog": {
+    "compilerVersion": "rustc 1.58.1 (db9d1b20b 2022-01-20)",
+    "start": "2022-01-23T21:47:15.7728791+00:00",
+    "finished": "2022-01-23T21:47:20.5352809+00:00",
+    "durationMs": 4762
+  },
+  "testLog": {
+    "runtimeVersion": "wasmedge version 0.9.0",
+    "start": "2022-01-23T22:09:32.6037666+00:00",
+    "finished": "2022-01-23T22:09:32.6289952+00:00",
+    "durationMs": 25
+  }
+}

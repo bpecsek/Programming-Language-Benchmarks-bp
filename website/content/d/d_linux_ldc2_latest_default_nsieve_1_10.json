@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "1.d",
   "input": "10",
-  "timeMS": 168.5195,
-  "timeStdDevMS": 11.192755905048612,
-  "memBytes": 15601664,
+  "timeMS": 173.6172,
+  "timeStdDevMS": 9.053296182606665,
+  "memBytes": 14770176,
   "cpuTimeMS": 160.0,
   "cpuTimeUserMS": 160.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1733268852",
+  "githubRunId": "1737079326",
   "buildLog": {
     "compilerVersion": "LDC - the LLVM D compiler (1.28.1):\n  based on DMD v2.098.1 and LLVM 12.0.1\n  built with LDC - the LLVM D compiler (1.28.1)\n  Default target: x86_64-unknown-linux-gnu\n  Host CPU: skylake-avx512\n  http://dlang.org - http://wiki.dlang.org/LDC\n\n  Registered Targets:\n    aarch64    - AArch64 (little endian)\n    aarch64_32 - AArch64 (little endian ILP32)\n    aarch64_be - AArch64 (big endian)\n    amdgcn     - AMD GCN GPUs\n    arm        - ARM\n    arm64      - ARM64 (little endian)\n    arm64_32   - ARM64 (little endian ILP32)\n    armeb      - ARM (big endian)\n    avr        - Atmel AVR Microcontroller\n    mips       - MIPS (32-bit big endian)\n    mips64     - MIPS (64-bit big endian)\n    mips64el   - MIPS (64-bit little endian)\n    mipsel     - MIPS (32-bit little endian)\n    msp430     - MSP430 [experimental]\n    nvptx      - NVIDIA PTX 32-bit\n    nvptx64    - NVIDIA PTX 64-bit\n    ppc32      - PowerPC 32\n    ppc32le    - PowerPC 32 LE\n    ppc64      - PowerPC 64\n    ppc64le    - PowerPC 64 LE\n    r600       - AMD GPUs HD2XXX-HD6XXX\n    riscv32    - 32-bit RISC-V\n    riscv64    - 64-bit RISC-V\n    thumb      - Thumb\n    thumbeb    - Thumb (big endian)\n    wasm32     - WebAssembly 32-bit\n    wasm64     - WebAssembly 64-bit\n    x86        - 32-bit X86: Pentium-Pro and above\n    x86-64     - 64-bit X86: EM64T and AMD64",
-    "start": "2022-01-22T15:39:28.3289212+00:00",
-    "finished": "2022-01-22T15:39:30.4542976+00:00",
-    "durationMs": 2125
+    "start": "2022-01-23T21:38:08.4753714+00:00",
+    "finished": "2022-01-23T21:38:11.0876674+00:00",
+    "durationMs": 2612
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-22T16:06:04.4717257+00:00",
-    "finished": "2022-01-22T16:06:04.4807361+00:00",
+    "start": "2022-01-23T22:06:15.6195072+00:00",
+    "finished": "2022-01-23T22:06:15.6289405+00:00",
     "durationMs": 9
   }
 }

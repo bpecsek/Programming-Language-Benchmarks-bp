@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "1.py",
   "input": "5000000",
-  "timeMS": 795.2363,
-  "timeStdDevMS": 1.0920671270576157,
-  "memBytes": 79151104,
-  "cpuTimeMS": 783.3333,
-  "cpuTimeUserMS": 763.3333,
-  "cpuTimeKernelMS": 20.0,
-  "githubRunId": "1733268852",
+  "timeMS": 796.848,
+  "timeStdDevMS": 0.7736993106713367,
+  "memBytes": 79130624,
+  "cpuTimeMS": 779.9999,
+  "cpuTimeUserMS": 766.6666,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1737079326",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-22T15:39:59.6229756+00:00",
-    "finished": "2022-01-22T15:40:01.3294992+00:00",
-    "durationMs": 1706
+    "start": "2022-01-23T21:39:05.8696088+00:00",
+    "finished": "2022-01-23T21:39:07.6379525+00:00",
+    "durationMs": 1768
   },
   "testLog": {
     "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2022-01-22T16:07:56.6372484+00:00",
-    "finished": "2022-01-22T16:07:56.8013017+00:00",
-    "durationMs": 164
+    "start": "2022-01-23T22:08:02.9768391+00:00",
+    "finished": "2022-01-23T22:08:03.1244138+00:00",
+    "durationMs": 147
   }
 }

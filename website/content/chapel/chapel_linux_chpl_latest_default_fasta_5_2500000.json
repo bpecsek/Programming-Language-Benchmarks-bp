@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "5.chpl",
   "input": "2500000",
-  "timeMS": 783.1175,
-  "timeStdDevMS": 12.929538951305812,
-  "memBytes": 13004800,
-  "cpuTimeMS": 756.6666,
-  "cpuTimeUserMS": 740.0,
+  "timeMS": 740.0292,
+  "timeStdDevMS": 76.084463118388,
+  "memBytes": 33419264,
+  "cpuTimeMS": 723.3332,
+  "cpuTimeUserMS": 706.6666,
   "cpuTimeKernelMS": 16.6666,
-  "githubRunId": "1733268852",
+  "githubRunId": "1737079326",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2022-01-22T15:39:58.9337591+00:00",
-    "finished": "2022-01-22T15:40:16.9503184+00:00",
-    "durationMs": 18016
+    "start": "2022-01-23T21:38:28.6429307+00:00",
+    "finished": "2022-01-23T21:38:43.7260537+00:00",
+    "durationMs": 15083
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-22T16:05:12.3719434+00:00",
-    "finished": "2022-01-22T16:05:12.4008583+00:00",
-    "durationMs": 28
+    "start": "2022-01-23T22:05:57.286118+00:00",
+    "finished": "2022-01-23T22:05:57.3163929+00:00",
+    "durationMs": 30
   }
 }

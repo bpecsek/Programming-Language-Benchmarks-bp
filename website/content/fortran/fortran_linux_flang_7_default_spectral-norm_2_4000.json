@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "2.f90",
   "input": "4000",
-  "timeMS": 476.7023,
-  "timeStdDevMS": 0.25603982112162244,
+  "timeMS": 485.4703,
+  "timeStdDevMS": 7.124468600768301,
   "memBytes": 5709824,
-  "cpuTimeMS": 470.0,
-  "cpuTimeUserMS": 470.0,
+  "cpuTimeMS": 476.6666,
+  "cpuTimeUserMS": 476.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1733268852",
+  "githubRunId": "1737079326",
   "buildLog": {
     "compilerVersion": "clang version 7.0.1 \nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2022-01-22T15:38:56.9708953+00:00",
-    "finished": "2022-01-22T15:38:57.2245788+00:00",
-    "durationMs": 253
+    "start": "2022-01-23T21:37:33.1412857+00:00",
+    "finished": "2022-01-23T21:37:33.4447584+00:00",
+    "durationMs": 303
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-22T16:06:12.0107888+00:00",
-    "finished": "2022-01-22T16:06:12.0163637+00:00",
+    "start": "2022-01-23T22:06:22.6139239+00:00",
+    "finished": "2022-01-23T22:06:22.6195441+00:00",
     "durationMs": 5
   }
 }
