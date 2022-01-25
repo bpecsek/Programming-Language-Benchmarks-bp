@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "go",
   "os": "linux",
   "compiler": "go",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "3.go",
   "input": "11",
-  "timeMS": 1128.5641,
-  "timeStdDevMS": 2.853477510570738,
+  "timeMS": 1409.2569,
+  "timeStdDevMS": 0.5003652898966241,
   "memBytes": 2932736,
-  "cpuTimeMS": 2186.6666,
-  "cpuTimeUserMS": 2183.3333,
+  "cpuTimeMS": 2736.6666,
+  "cpuTimeUserMS": 2733.3333,
   "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1744925326",
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": "go version go1.17.6 linux/amd64",
-    "start": "2022-01-25T10:38:22.5851532+00:00",
-    "finished": "2022-01-25T10:38:23.6635341+00:00",
-    "durationMs": 1078
+    "start": "2022-01-25T11:55:08.8323916+00:00",
+    "finished": "2022-01-25T11:55:09.8544212+00:00",
+    "durationMs": 1022
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T11:06:20.8797063+00:00",
-    "finished": "2022-01-25T11:06:21.0106409+00:00",
-    "durationMs": 130
+    "start": "2022-01-25T12:21:45.3257873+00:00",
+    "finished": "2022-01-25T12:21:45.4699815+00:00",
+    "durationMs": 144
   }
 }

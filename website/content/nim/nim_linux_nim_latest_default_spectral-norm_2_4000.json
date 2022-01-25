@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "nim",
+  "os": "linux",
+  "compiler": "nim",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "2.nim",
+  "input": "4000",
+  "timeMS": 2446.717,
+  "timeStdDevMS": 8.363047907511548,
+  "memBytes": 3411968,
+  "cpuTimeMS": 4273.3332,
+  "cpuTimeUserMS": 1939.9999,
+  "cpuTimeKernelMS": 2333.3333,
+  "githubRunId": "1745091623",
+  "buildLog": {
+    "compilerVersion": "Nim Compiler Version 1.6.2 [Linux: amd64]\nCompiled at 2021-12-17\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 9084d9bc02bcd983b81a4c76a05f27b9ce2707dd\nactive boot switches: -d:release -d:danger",
+    "start": "2022-01-25T11:56:47.1213384+00:00",
+    "finished": "2022-01-25T11:56:55.8723654+00:00",
+    "durationMs": 8751
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-25T12:23:08.4392063+00:00",
+    "finished": "2022-01-25T12:23:08.5355141+00:00",
+    "durationMs": 96
+  }
+}

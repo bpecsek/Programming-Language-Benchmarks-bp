@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "elixir",
   "os": "linux",
   "compiler": "elixir",
@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.ex",
   "input": "1000",
-  "timeMS": 501.2437,
-  "timeStdDevMS": 13.403729285662722,
-  "memBytes": 51253248,
-  "cpuTimeMS": 556.6666,
-  "cpuTimeUserMS": 503.3333,
-  "cpuTimeKernelMS": 53.3333,
-  "githubRunId": "1744925326",
+  "timeMS": 494.6672,
+  "timeStdDevMS": 9.53064371453119,
+  "memBytes": 49676288,
+  "cpuTimeMS": 560.0,
+  "cpuTimeUserMS": 500.0,
+  "cpuTimeKernelMS": 60.0,
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": "Erlang/OTP 24 [erts-12.2] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [jit]\n\nElixir 1.13.2 (compiled with Erlang/OTP 24)",
-    "start": "2022-01-25T10:38:05.2211037+00:00",
-    "finished": "2022-01-25T10:38:21.1783766+00:00",
-    "durationMs": 15957
+    "start": "2022-01-25T11:54:50.7895575+00:00",
+    "finished": "2022-01-25T11:55:07.0904528+00:00",
+    "durationMs": 16300
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T11:06:17.7539268+00:00",
-    "finished": "2022-01-25T11:06:19.108272+00:00",
-    "durationMs": 1354
+    "start": "2022-01-25T12:21:42.257286+00:00",
+    "finished": "2022-01-25T12:21:43.4646671+00:00",
+    "durationMs": 1207
   }
 }

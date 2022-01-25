@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "chapel",
   "os": "linux",
   "compiler": "chpl",
@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "5.chpl",
   "input": "250000",
-  "timeMS": 69.9859,
-  "timeStdDevMS": 4.05833064695325,
-  "memBytes": 11038720,
+  "timeMS": 66.762,
+  "timeStdDevMS": 2.4648767332262302,
+  "memBytes": 5586944,
   "cpuTimeMS": 56.6666,
   "cpuTimeUserMS": 53.3333,
   "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1744925326",
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2022-01-25T10:39:42.2809912+00:00",
-    "finished": "2022-01-25T10:40:03.2039063+00:00",
-    "durationMs": 20922
+    "start": "2022-01-25T11:56:02.5972142+00:00",
+    "finished": "2022-01-25T11:56:17.6623588+00:00",
+    "durationMs": 15065
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T11:05:05.6834206+00:00",
-    "finished": "2022-01-25T11:05:05.7119061+00:00",
-    "durationMs": 28
+    "start": "2022-01-25T12:21:23.2322688+00:00",
+    "finished": "2022-01-25T12:21:23.2581583+00:00",
+    "durationMs": 25
   }
 }

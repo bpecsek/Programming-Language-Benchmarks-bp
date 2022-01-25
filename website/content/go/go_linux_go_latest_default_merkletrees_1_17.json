@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "go",
   "os": "linux",
   "compiler": "go",
@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.go",
   "input": "17",
-  "timeMS": 2124.3674,
-  "timeStdDevMS": 9.94515029063593,
-  "memBytes": 50663424,
-  "cpuTimeMS": 3029.9999,
-  "cpuTimeUserMS": 2999.9999,
-  "cpuTimeKernelMS": 30.0,
-  "githubRunId": "1744925326",
+  "timeMS": 2041.108,
+  "timeStdDevMS": 15.099147735661647,
+  "memBytes": 41734144,
+  "cpuTimeMS": 2916.6666,
+  "cpuTimeUserMS": 2896.6666,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": "go version go1.17.6 linux/amd64",
-    "start": "2022-01-25T10:38:39.3242139+00:00",
-    "finished": "2022-01-25T10:38:40.3711197+00:00",
-    "durationMs": 1046
+    "start": "2022-01-25T11:55:25.1321642+00:00",
+    "finished": "2022-01-25T11:55:26.1157867+00:00",
+    "durationMs": 983
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T11:06:21.7371026+00:00",
-    "finished": "2022-01-25T11:06:21.761055+00:00",
-    "durationMs": 23
+    "start": "2022-01-25T12:21:46.181102+00:00",
+    "finished": "2022-01-25T12:21:46.2011645+00:00",
+    "durationMs": 20
   }
 }

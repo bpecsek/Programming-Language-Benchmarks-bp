@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "ocaml",
   "os": "linux",
   "compiler": "ocamlc",
@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.ml",
   "input": "15",
-  "timeMS": 212.3265,
-  "timeStdDevMS": 1.4356494465339829,
-  "memBytes": 19456000,
-  "cpuTimeMS": 200.0,
-  "cpuTimeUserMS": 200.0,
+  "timeMS": 200.8624,
+  "timeStdDevMS": 0.29778665181635633,
+  "memBytes": 19390464,
+  "cpuTimeMS": 186.6666,
+  "cpuTimeUserMS": 186.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1744925326",
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": "4.13.1",
-    "start": "2022-01-25T10:42:55.0758009+00:00",
-    "finished": "2022-01-25T10:43:34.0489356+00:00",
-    "durationMs": 38973
+    "start": "2022-01-25T11:58:58.8156591+00:00",
+    "finished": "2022-01-25T11:59:30.6077935+00:00",
+    "durationMs": 31792
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T11:07:51.5154554+00:00",
-    "finished": "2022-01-25T11:07:51.5273371+00:00",
-    "durationMs": 11
+    "start": "2022-01-25T12:23:08.9651686+00:00",
+    "finished": "2022-01-25T12:23:08.977276+00:00",
+    "durationMs": 12
   }
 }

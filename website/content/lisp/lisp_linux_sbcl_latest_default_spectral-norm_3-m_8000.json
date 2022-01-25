@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "lisp",
   "os": "linux",
   "compiler": "sbcl",
@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "3-m.cl",
   "input": "8000",
-  "timeMS": 1535.8971,
-  "timeStdDevMS": 3.496499524286134,
-  "memBytes": 44838912,
-  "cpuTimeMS": 2969.9999,
-  "cpuTimeUserMS": 2963.3333,
+  "timeMS": 1456.6489,
+  "timeStdDevMS": 5.959125231944546,
+  "memBytes": 41738240,
+  "cpuTimeMS": 2819.9999,
+  "cpuTimeUserMS": 2813.3333,
   "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1744925326",
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": "SBCL 2.2.0",
-    "start": "2022-01-25T10:43:53.1987128+00:00",
-    "finished": "2022-01-25T10:43:58.4843946+00:00",
-    "durationMs": 5285
+    "start": "2022-01-25T11:59:39.007797+00:00",
+    "finished": "2022-01-25T11:59:43.2138374+00:00",
+    "durationMs": 4206
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T11:07:49.9036323+00:00",
-    "finished": "2022-01-25T11:07:50.0903748+00:00",
-    "durationMs": 186
+    "start": "2022-01-25T12:23:07.3529054+00:00",
+    "finished": "2022-01-25T12:23:07.5319405+00:00",
+    "durationMs": 179
   }
 }

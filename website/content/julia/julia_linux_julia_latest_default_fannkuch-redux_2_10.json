@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "julia",
   "os": "linux",
   "compiler": "julia",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "2.jl",
   "input": "10",
-  "timeMS": 609.2354,
-  "timeStdDevMS": 8.186593945184539,
-  "memBytes": 223326208,
-  "cpuTimeMS": 916.6666,
-  "cpuTimeUserMS": 776.6666,
+  "timeMS": 587.727,
+  "timeStdDevMS": 2.4337752915995567,
+  "memBytes": 223129600,
+  "cpuTimeMS": 896.6666,
+  "cpuTimeUserMS": 756.6666,
   "cpuTimeKernelMS": 140.0,
-  "githubRunId": "1744925326",
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-25T10:38:22.4387041+00:00",
-    "finished": "2022-01-25T10:38:22.8710603+00:00",
-    "durationMs": 432
+    "start": "2022-01-25T11:55:06.7732611+00:00",
+    "finished": "2022-01-25T11:55:07.1675724+00:00",
+    "durationMs": 394
   },
   "testLog": {
     "runtimeVersion": "julia version 1.7.1",
-    "start": "2022-01-25T11:07:19.0577152+00:00",
-    "finished": "2022-01-25T11:07:20.5152488+00:00",
-    "durationMs": 1457
+    "start": "2022-01-25T12:22:40.0474209+00:00",
+    "finished": "2022-01-25T12:22:41.4524784+00:00",
+    "durationMs": 1405
   }
 }

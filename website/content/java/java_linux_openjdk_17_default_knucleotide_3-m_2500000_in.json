@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "openjdk",
@@ -7,23 +7,23 @@
   "test": "knucleotide",
   "code": "3-m.java",
   "input": "2500000_in",
-  "timeMS": 1472.3195,
-  "timeStdDevMS": 29.70706448708806,
-  "memBytes": 148860928,
-  "cpuTimeMS": 2703.3332,
-  "cpuTimeUserMS": 2656.6666,
-  "cpuTimeKernelMS": 46.6666,
-  "githubRunId": "1744925326",
+  "timeMS": 1415.6171,
+  "timeStdDevMS": 3.7593697082533017,
+  "memBytes": 148733952,
+  "cpuTimeMS": 2626.6666,
+  "cpuTimeUserMS": 2586.6666,
+  "cpuTimeKernelMS": 40.0,
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": "javac 17.0.2",
-    "start": "2022-01-25T10:40:03.6548576+00:00",
-    "finished": "2022-01-25T10:40:07.708453+00:00",
-    "durationMs": 4053
+    "start": "2022-01-25T11:56:13.7833264+00:00",
+    "finished": "2022-01-25T11:56:17.7778946+00:00",
+    "durationMs": 3994
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
-    "start": "2022-01-25T11:06:47.8888975+00:00",
-    "finished": "2022-01-25T11:06:48.5948613+00:00",
-    "durationMs": 705
+    "start": "2022-01-25T12:22:10.5417805+00:00",
+    "finished": "2022-01-25T12:22:11.2505016+00:00",
+    "durationMs": 708
   }
 }

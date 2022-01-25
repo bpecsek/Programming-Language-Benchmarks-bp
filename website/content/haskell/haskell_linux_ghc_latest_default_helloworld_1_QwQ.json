@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "haskell",
   "os": "linux",
   "compiler": "ghc",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.hs",
   "input": "QwQ",
-  "timeMS": 13.6449,
-  "timeStdDevMS": 1.2606690180217808,
-  "memBytes": 6193152,
+  "timeMS": 12.7179,
+  "timeStdDevMS": 0.5448075440006319,
+  "memBytes": 6221824,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1744925326",
+  "githubRunId": "1745091623",
   "buildLog": {
     "compilerVersion": "The Glorious Glasgow Haskell Compilation System, version 9.2.1",
-    "start": "2022-01-25T10:38:06.363286+00:00",
-    "finished": "2022-01-25T10:38:33.8616274+00:00",
-    "durationMs": 27498
+    "start": "2022-01-25T11:54:45.5533047+00:00",
+    "finished": "2022-01-25T11:55:10.9306348+00:00",
+    "durationMs": 25377
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T11:06:31.4318798+00:00",
-    "finished": "2022-01-25T11:06:31.4602079+00:00",
-    "durationMs": 28
+    "start": "2022-01-25T12:21:55.1231315+00:00",
+    "finished": "2022-01-25T12:21:55.1510826+00:00",
+    "durationMs": 27
   }
 }

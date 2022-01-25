@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "v",
   "os": "linux",
   "compiler": "v+zig",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.v",
   "input": "10",
-  "timeMS": 276.1023,
-  "timeStdDevMS": 3.3651588833218717,
-  "memBytes": 675840,
-  "cpuTimeMS": 263.3333,
-  "cpuTimeUserMS": 263.3333,
+  "timeMS": 293.1641,
+  "timeStdDevMS": 1.051749786466968,
+  "memBytes": 671744,
+  "cpuTimeMS": 280.0,
+  "cpuTimeUserMS": 280.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1744925326",
+  "githubRunId": "1745091623",
   "buildLog": {
-    "compilerVersion": "V 0.2.4 009a65b",
-    "start": "2022-01-25T10:42:30.3009975+00:00",
-    "finished": "2022-01-25T10:42:37.3316764+00:00",
-    "durationMs": 7030
+    "compilerVersion": "V 0.2.4 a913983",
+    "start": "2022-01-25T11:58:48.4309161+00:00",
+    "finished": "2022-01-25T11:58:53.4468182+00:00",
+    "durationMs": 5015
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T11:09:08.6534168+00:00",
-    "finished": "2022-01-25T11:09:08.9274081+00:00",
-    "durationMs": 273
+    "start": "2022-01-25T12:24:16.5024207+00:00",
+    "finished": "2022-01-25T12:24:16.8035678+00:00",
+    "durationMs": 301
   }
 }
