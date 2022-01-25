@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "zig",
+  "os": "linux",
+  "compiler": "zig",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "2-m.zig",
+  "input": "8000",
+  "timeMS": 900.1624,
+  "timeStdDevMS": 16.559809846231122,
+  "memBytes": 311296,
+  "cpuTimeMS": 1666.6666,
+  "cpuTimeUserMS": 1666.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1744925326",
+  "buildLog": {
+    "compilerVersion": "0.10.0-dev.390+0866fa9d1",
+    "start": "2022-01-25T10:43:13.8497297+00:00",
+    "finished": "2022-01-25T10:43:21.7138165+00:00",
+    "durationMs": 7864
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-25T11:09:53.0426297+00:00",
+    "finished": "2022-01-25T11:09:53.0474061+00:00",
+    "durationMs": 4
+  }
+}

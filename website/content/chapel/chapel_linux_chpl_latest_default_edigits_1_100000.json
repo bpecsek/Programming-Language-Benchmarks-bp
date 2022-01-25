@@ -7,23 +7,23 @@
   "test": "edigits",
   "code": "1.chpl",
   "input": "100000",
-  "timeMS": 41.0332,
-  "timeStdDevMS": 0.7485904910786201,
-  "memBytes": 35758080,
-  "cpuTimeMS": 33.3332,
-  "cpuTimeUserMS": 26.6666,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1531343699",
+  "timeMS": 38.7486,
+  "timeStdDevMS": 2.6392109218476594,
+  "memBytes": 11309056,
+  "cpuTimeMS": 20.0,
+  "cpuTimeUserMS": 20.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1744925326",
   "buildLog": {
-    "compilerVersion": "chpl version 1.25.0\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2021-12-02T16:08:56.2907105+00:00",
-    "finished": "2021-12-02T16:09:07.745291+00:00",
-    "durationMs": 11454
+    "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
+    "start": "2022-01-25T10:39:28.0492075+00:00",
+    "finished": "2022-01-25T10:39:42.2799935+00:00",
+    "durationMs": 14230
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-02T16:36:40.5144478+00:00",
-    "finished": "2021-12-02T16:36:40.5591452+00:00",
-    "durationMs": 44
+    "start": "2022-01-25T11:05:05.6409585+00:00",
+    "finished": "2022-01-25T11:05:05.6830724+00:00",
+    "durationMs": 42
   }
 }

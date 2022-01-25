@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk/zgc",
+  "compilerVersion": "17",
+  "test": "mandelbrot",
+  "code": "4-m.java",
+  "input": "7000",
+  "timeMS": 1668.8525,
+  "timeStdDevMS": 28.28589274125884,
+  "memBytes": 53104640,
+  "cpuTimeMS": 3100.0,
+  "cpuTimeUserMS": 3030.0,
+  "cpuTimeKernelMS": 70.0,
+  "githubRunId": "1744925326",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-01-25T10:40:39.7655818+00:00",
+    "finished": "2022-01-25T10:40:41.2636734+00:00",
+    "durationMs": 1498
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
+    "start": "2022-01-25T11:06:53.926772+00:00",
+    "finished": "2022-01-25T11:06:54.4446525+00:00",
+    "durationMs": 517
+  }
+}

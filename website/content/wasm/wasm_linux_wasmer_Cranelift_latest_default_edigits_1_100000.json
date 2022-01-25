@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "wasm",
+  "os": "linux",
+  "compiler": "wasmer/Cranelift",
+  "compilerVersion": "latest",
+  "test": "edigits",
+  "code": "1.rs",
+  "input": "100000",
+  "timeMS": 163.6407,
+  "timeStdDevMS": 0.6513506505715597,
+  "memBytes": 45899776,
+  "cpuTimeMS": 149.9999,
+  "cpuTimeUserMS": 146.6666,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1744925326",
+  "buildLog": {
+    "compilerVersion": "rustc 1.58.1 (db9d1b20b 2022-01-20)",
+    "start": "2022-01-25T10:48:03.0436373+00:00",
+    "finished": "2022-01-25T10:48:05.918996+00:00",
+    "durationMs": 2875
+  },
+  "testLog": {
+    "runtimeVersion": "wasmer 2.1.1",
+    "start": "2022-01-25T11:09:48.6456568+00:00",
+    "finished": "2022-01-25T11:09:48.7935559+00:00",
+    "durationMs": 147
+  }
+}

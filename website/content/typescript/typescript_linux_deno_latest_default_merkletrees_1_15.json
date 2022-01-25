@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "typescript",
+  "os": "linux",
+  "compiler": "deno",
+  "compilerVersion": "latest",
+  "test": "merkletrees",
+  "code": "1.ts",
+  "input": "15",
+  "timeMS": 187.8439,
+  "timeStdDevMS": 0.8054886653454596,
+  "memBytes": 55959552,
+  "cpuTimeMS": 199.9999,
+  "cpuTimeUserMS": 186.6666,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1744925326",
+  "buildLog": {
+    "compilerVersion": "deno 1.18.0 (release, x86_64-unknown-linux-gnu)\nv8 9.8.177.6\ntypescript 4.5.2",
+    "start": "2022-01-25T10:40:15.3309764+00:00",
+    "finished": "2022-01-25T10:40:16.0874561+00:00",
+    "durationMs": 756
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-25T11:09:01.8189811+00:00",
+    "finished": "2022-01-25T11:09:02.0143659+00:00",
+    "durationMs": 195
+  }
+}

@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "1.cl",
   "input": "5000000",
-  "timeMS": 625.2255,
-  "timeStdDevMS": 0.2875469410954676,
-  "memBytes": 27279360,
-  "cpuTimeMS": 613.3333,
-  "cpuTimeUserMS": 613.3333,
+  "timeMS": 615.2995,
+  "timeStdDevMS": 16.631020417982093,
+  "memBytes": 29687808,
+  "cpuTimeMS": 600.0,
+  "cpuTimeUserMS": 600.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1531343699",
+  "githubRunId": "1744925326",
   "buildLog": {
-    "compilerVersion": "SBCL 2.1.11",
-    "start": "2021-12-02T16:13:56.2602555+00:00",
-    "finished": "2021-12-02T16:13:58.6585432+00:00",
-    "durationMs": 2398
+    "compilerVersion": "SBCL 2.2.0",
+    "start": "2022-01-25T10:43:04.8547271+00:00",
+    "finished": "2022-01-25T10:43:07.117718+00:00",
+    "durationMs": 2262
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-02T16:38:01.0781478+00:00",
-    "finished": "2021-12-02T16:38:01.1658685+00:00",
-    "durationMs": 87
+    "start": "2022-01-25T11:07:48.1789107+00:00",
+    "finished": "2022-01-25T11:07:48.3100695+00:00",
+    "durationMs": 131
   }
 }

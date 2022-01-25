@@ -7,23 +7,23 @@
   "test": "json-serde",
   "code": "1.ts",
   "input": "canada 15",
-  "timeMS": 1235.7458,
-  "timeStdDevMS": 4.608971858234714,
-  "memBytes": 209436672,
-  "cpuTimeMS": 1509.9999,
-  "cpuTimeUserMS": 1446.6666,
-  "cpuTimeKernelMS": 63.3333,
-  "githubRunId": "1531343699",
+  "timeMS": 1164.8069,
+  "timeStdDevMS": 68.24199361920297,
+  "memBytes": 201089024,
+  "cpuTimeMS": 1439.9999,
+  "cpuTimeUserMS": 1363.3333,
+  "cpuTimeKernelMS": 76.6666,
+  "githubRunId": "1744925326",
   "buildLog": {
-    "compilerVersion": "deno 1.16.3 (release, x86_64-unknown-linux-gnu)\nv8 9.7.106.5\ntypescript 4.4.2",
-    "start": "2021-12-02T16:10:29.2264376+00:00",
-    "finished": "2021-12-02T16:10:30.8819808+00:00",
-    "durationMs": 1655
+    "compilerVersion": "deno 1.18.0 (release, x86_64-unknown-linux-gnu)\nv8 9.8.177.6\ntypescript 4.5.2",
+    "start": "2022-01-25T10:40:13.196297+00:00",
+    "finished": "2022-01-25T10:40:14.6201106+00:00",
+    "durationMs": 1423
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-02T16:39:20.4465759+00:00",
-    "finished": "2021-12-02T16:39:20.9734767+00:00",
-    "durationMs": 526
+    "start": "2022-01-25T11:09:01.1287955+00:00",
+    "finished": "2022-01-25T11:09:01.6587243+00:00",
+    "durationMs": 529
   }
 }

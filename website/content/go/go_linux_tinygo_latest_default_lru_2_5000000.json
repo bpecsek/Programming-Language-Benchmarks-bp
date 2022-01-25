@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "go",
+  "os": "linux",
+  "compiler": "tinygo",
+  "compilerVersion": "latest",
+  "test": "lru",
+  "code": "2.go",
+  "input": "5000000",
+  "timeMS": 2889.2233,
+  "timeStdDevMS": 0.7759300505409077,
+  "memBytes": 8192,
+  "cpuTimeMS": 2876.6666,
+  "cpuTimeUserMS": 2876.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1744925326",
+  "buildLog": {
+    "compilerVersion": "tinygo version 0.21.0 linux/amd64 (using go version go1.17.3 and LLVM version 11.0.0)",
+    "start": "2022-01-25T10:40:44.5497616+00:00",
+    "finished": "2022-01-25T10:40:59.401887+00:00",
+    "durationMs": 14852
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-25T11:06:24.4002917+00:00",
+    "finished": "2022-01-25T11:06:24.4104359+00:00",
+    "durationMs": 10
+  }
+}

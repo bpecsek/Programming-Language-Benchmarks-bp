@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.cr",
   "input": "11",
-  "timeMS": 4518.4684,
-  "timeStdDevMS": 0.17508855854485553,
-  "memBytes": 3186688,
-  "cpuTimeMS": 4510.0,
-  "cpuTimeUserMS": 4510.0,
+  "timeMS": 4009.5143,
+  "timeStdDevMS": 1.1788114649934895,
+  "memBytes": 5029888,
+  "cpuTimeMS": 3996.6666,
+  "cpuTimeUserMS": 3996.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1531343699",
+  "githubRunId": "1744925326",
   "buildLog": {
-    "compilerVersion": "Crystal 1.2.2 [6529d725a] (2021-11-10)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2021-12-02T16:08:55.2893636+00:00",
-    "finished": "2021-12-02T16:09:08.6865664+00:00",
-    "durationMs": 13397
+    "compilerVersion": "Crystal 1.3.2 [932f193ae] (2022-01-18)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
+    "start": "2022-01-25T10:39:10.4442159+00:00",
+    "finished": "2022-01-25T10:39:25.3350903+00:00",
+    "durationMs": 14890
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-02T16:36:41.0036567+00:00",
-    "finished": "2021-12-02T16:36:41.369281+00:00",
-    "durationMs": 365
+    "start": "2022-01-25T11:05:06.7530351+00:00",
+    "finished": "2022-01-25T11:05:07.0872833+00:00",
+    "durationMs": 334
   }
 }

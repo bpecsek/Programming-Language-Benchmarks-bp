@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "mono",
+  "compilerVersion": "latest",
+  "test": "merkletrees",
+  "code": "1.cs",
+  "input": "15",
+  "timeMS": 361.6341,
+  "timeStdDevMS": 3.0583934905981858,
+  "memBytes": 77664256,
+  "cpuTimeMS": 393.3333,
+  "cpuTimeUserMS": 343.3333,
+  "cpuTimeKernelMS": 50.0,
+  "githubRunId": "1744925326",
+  "buildLog": {
+    "compilerVersion": "Mono JIT compiler version 6.12.0.122 (tarball Mon Feb 22 17:42:49 UTC 2021)\nCopyright (C) 2002-2014 Novell, Inc, Xamarin Inc and Contributors. www.mono-project.com\n\tTLS:           __thread\n\tSIGSEGV:       altstack\n\tNotifications: epoll\n\tArchitecture:  amd64\n\tDisabled:      none\n\tMisc:          softdebug \n\tInterpreter:   yes\n\tLLVM:          yes(610)\n\tSuspend:       hybrid\n\tGC:            sgen (concurrent by default)",
+    "start": "2022-01-25T10:42:50.8803947+00:00",
+    "finished": "2022-01-25T10:42:54.9179757+00:00",
+    "durationMs": 4037
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-25T11:05:16.8610523+00:00",
+    "finished": "2022-01-25T11:05:16.9475986+00:00",
+    "durationMs": 86
+  }
+}
