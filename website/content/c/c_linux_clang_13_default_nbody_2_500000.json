@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "2.c",
   "input": "500000",
-  "timeMS": 49.7667,
-  "timeStdDevMS": 1.6098147419294304,
-  "memBytes": 1368064,
-  "cpuTimeMS": 43.3333,
-  "cpuTimeUserMS": 43.3333,
+  "timeMS": 49.5444,
+  "timeStdDevMS": 0.7545215194633969,
+  "memBytes": 1425408,
+  "cpuTimeMS": 40.0,
+  "cpuTimeUserMS": 40.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1737079326",
+  "githubRunId": "1531343699",
   "buildLog": {
-    "compilerVersion": "Ubuntu clang version 13.0.1-++20220120110924+75e33f71c2da-1~exp1~20220120231001.58\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2022-01-23T21:38:14.9155708+00:00",
-    "finished": "2022-01-23T21:38:15.1859581+00:00",
-    "durationMs": 270
+    "compilerVersion": "Ubuntu clang version 13.0.1-++20211124043118+19b8368225dc-1~exp1~20211124043708.23\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2021-12-02T16:09:00.6240928+00:00",
+    "finished": "2021-12-02T16:09:00.8913037+00:00",
+    "durationMs": 267
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-23T22:05:56.5001796+00:00",
-    "finished": "2022-01-23T22:05:56.5068096+00:00",
+    "start": "2021-12-02T16:36:40.0494552+00:00",
+    "finished": "2021-12-02T16:36:40.0557133+00:00",
     "durationMs": 6
   }
 }

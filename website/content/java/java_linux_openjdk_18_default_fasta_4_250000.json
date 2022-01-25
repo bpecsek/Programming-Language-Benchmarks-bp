@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "4.java",
   "input": "250000",
-  "timeMS": 119.1174,
-  "timeStdDevMS": 1.4197391180541918,
-  "memBytes": 38600704,
-  "cpuTimeMS": 129.9999,
+  "timeMS": 123.3822,
+  "timeStdDevMS": 5.500951819761141,
+  "memBytes": 39096320,
+  "cpuTimeMS": 123.3333,
   "cpuTimeUserMS": 113.3333,
-  "cpuTimeKernelMS": 16.6666,
-  "githubRunId": "1737079326",
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1531343699",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2022-01-23T21:40:23.596466+00:00",
-    "finished": "2022-01-23T21:40:25.2883304+00:00",
-    "durationMs": 1691
+    "start": "2021-12-02T16:10:07.0858366+00:00",
+    "finished": "2021-12-02T16:10:09.1355018+00:00",
+    "durationMs": 2049
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+31-2049)\nOpenJDK 64-Bit Server VM (build 18-ea+31-2049, mixed mode, sharing)",
-    "start": "2022-01-23T22:06:49.8053421+00:00",
-    "finished": "2022-01-23T22:06:49.9103821+00:00",
+    "runtimeVersion": "openjdk version \"18-ea\" 2022-03-15\nOpenJDK Runtime Environment (build 18-ea+25-1670)\nOpenJDK 64-Bit Server VM (build 18-ea+25-1670, mixed mode, sharing)",
+    "start": "2021-12-02T16:37:19.6951306+00:00",
+    "finished": "2021-12-02T16:37:19.8003506+00:00",
     "durationMs": 105
   }
 }

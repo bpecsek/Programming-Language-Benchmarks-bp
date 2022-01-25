@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "4.lua",
   "input": "500000",
-  "timeMS": 113.9439,
-  "timeStdDevMS": 0.47277123784482245,
-  "memBytes": 2555904,
-  "cpuTimeMS": 103.3333,
-  "cpuTimeUserMS": 103.3333,
+  "timeMS": 113.8635,
+  "timeStdDevMS": 0.7875220779973824,
+  "memBytes": 1142784,
+  "cpuTimeMS": 106.6666,
+  "cpuTimeUserMS": 106.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1737079326",
+  "githubRunId": "1531343699",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-23T21:37:17.7411163+00:00",
-    "finished": "2022-01-23T21:37:17.7482317+00:00",
-    "durationMs": 7
+    "start": "2021-12-02T16:08:00.6115648+00:00",
+    "finished": "2021-12-02T16:08:00.6200912+00:00",
+    "durationMs": 8
   },
   "testLog": {
-    "runtimeVersion": "LuaJIT 2.1.0-beta3 -- Copyright (C) 2005-2022 Mike Pall. https://luajit.org/",
-    "start": "2022-01-23T22:07:49.6358646+00:00",
-    "finished": "2022-01-23T22:07:49.6487467+00:00",
-    "durationMs": 12
+    "runtimeVersion": "LuaJIT 2.1.0-beta3 -- Copyright (C) 2005-2021 Mike Pall. https://luajit.org/",
+    "start": "2021-12-02T16:38:03.4254327+00:00",
+    "finished": "2021-12-02T16:38:03.4368575+00:00",
+    "durationMs": 11
   }
 }

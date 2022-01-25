@@ -7,23 +7,23 @@
   "test": "json-serde",
   "code": "1.rs",
   "input": "sample 5000",
-  "timeMS": 142.6197,
-  "timeStdDevMS": 1.970258463586271,
-  "memBytes": 79118336,
-  "cpuTimeMS": 126.6666,
-  "cpuTimeUserMS": 96.6666,
-  "cpuTimeKernelMS": 30.0,
-  "githubRunId": "1737079326",
+  "timeMS": 153.8204,
+  "timeStdDevMS": 2.990267147485879,
+  "memBytes": 79065088,
+  "cpuTimeMS": 139.9999,
+  "cpuTimeUserMS": 106.6666,
+  "cpuTimeKernelMS": 33.3333,
+  "githubRunId": "1531343699",
   "buildLog": {
-    "compilerVersion": "rustc 1.58.1 (db9d1b20b 2022-01-20)",
-    "start": "2022-01-23T21:47:03.3425576+00:00",
-    "finished": "2022-01-23T21:47:11.5350117+00:00",
-    "durationMs": 8192
+    "compilerVersion": "rustc 1.57.0 (f1edd0429 2021-11-29)",
+    "start": "2021-12-02T16:17:25.6130957+00:00",
+    "finished": "2021-12-02T16:17:33.9621784+00:00",
+    "durationMs": 8349
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-23T22:09:01.2067882+00:00",
-    "finished": "2022-01-23T22:09:01.4583667+00:00",
-    "durationMs": 251
+    "start": "2021-12-02T16:39:18.6705241+00:00",
+    "finished": "2021-12-02T16:39:18.9348154+00:00",
+    "durationMs": 264
   }
 }
