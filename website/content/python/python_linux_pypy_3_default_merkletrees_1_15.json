@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "pypy",
@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.py",
   "input": "15",
-  "timeMS": 344.42,
-  "timeStdDevMS": 2.492270856735547,
-  "memBytes": 151117824,
-  "cpuTimeMS": 326.6666,
-  "cpuTimeUserMS": 293.3333,
-  "cpuTimeKernelMS": 33.3333,
-  "githubRunId": "1745091623",
+  "timeMS": 385.6525,
+  "timeStdDevMS": 8.838674278608384,
+  "memBytes": 161763328,
+  "cpuTimeMS": 373.3333,
+  "cpuTimeUserMS": 323.3333,
+  "cpuTimeKernelMS": 50.0,
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-25T11:56:38.0720557+00:00",
-    "finished": "2022-01-25T11:56:38.5498735+00:00",
-    "durationMs": 477
+    "start": "2022-01-25T17:58:08.6323151+00:00",
+    "finished": "2022-01-25T17:58:09.1146635+00:00",
+    "durationMs": 482
   },
   "testLog": {
     "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2022-01-25T12:23:20.1141792+00:00",
-    "finished": "2022-01-25T12:23:20.2931416+00:00",
-    "durationMs": 178
+    "start": "2022-01-25T18:29:00.0117555+00:00",
+    "finished": "2022-01-25T18:29:00.2013963+00:00",
+    "durationMs": 189
   }
 }

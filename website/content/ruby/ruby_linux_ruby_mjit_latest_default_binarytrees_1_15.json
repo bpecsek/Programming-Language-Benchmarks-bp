@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "ruby",
   "os": "linux",
   "compiler": "ruby/mjit",
@@ -7,23 +7,23 @@
   "test": "binarytrees",
   "code": "1.rb",
   "input": "15",
-  "timeMS": 1153.6979,
-  "timeStdDevMS": 3.664697253525836,
-  "memBytes": 40308736,
-  "cpuTimeMS": 2219.9999,
-  "cpuTimeUserMS": 2083.3333,
-  "cpuTimeKernelMS": 136.6666,
-  "githubRunId": "1745091623",
+  "timeMS": 1165.9652,
+  "timeStdDevMS": 21.6616391663544,
+  "memBytes": 40312832,
+  "cpuTimeMS": 2240.0,
+  "cpuTimeUserMS": 2080.0,
+  "cpuTimeKernelMS": 160.0,
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-25T11:56:56.8266326+00:00",
-    "finished": "2022-01-25T11:56:56.8311164+00:00",
-    "durationMs": 4
+    "start": "2022-01-25T17:58:29.230616+00:00",
+    "finished": "2022-01-25T17:58:29.2329892+00:00",
+    "durationMs": 2
   },
   "testLog": {
     "runtimeVersion": "ruby 3.1.0p0 (2021-12-25 revision fb4df44d16) [x86_64-linux]",
-    "start": "2022-01-25T12:23:29.5318063+00:00",
-    "finished": "2022-01-25T12:23:30.3809229+00:00",
-    "durationMs": 849
+    "start": "2022-01-25T18:29:09.7913454+00:00",
+    "finished": "2022-01-25T18:29:10.6823857+00:00",
+    "durationMs": 891
   }
 }

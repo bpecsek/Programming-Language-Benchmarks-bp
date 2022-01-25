@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "fortran",
   "os": "linux",
   "compiler": "flang",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "2.f90",
   "input": "5000000",
-  "timeMS": 365.6075,
-  "timeStdDevMS": 0.18362045093069607,
-  "memBytes": 5709824,
-  "cpuTimeMS": 360.0,
-  "cpuTimeUserMS": 360.0,
+  "timeMS": 389.7283,
+  "timeStdDevMS": 0.6136397395866685,
+  "memBytes": 5378048,
+  "cpuTimeMS": 380.0,
+  "cpuTimeUserMS": 380.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "clang version 7.0.1 \nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2022-01-25T11:55:26.185314+00:00",
-    "finished": "2022-01-25T11:55:26.3835359+00:00",
-    "durationMs": 198
+    "start": "2022-01-25T17:56:33.1518923+00:00",
+    "finished": "2022-01-25T17:56:33.358765+00:00",
+    "durationMs": 206
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:21:45.2226301+00:00",
-    "finished": "2022-01-25T12:21:45.2300455+00:00",
-    "durationMs": 7
+    "start": "2022-01-25T18:27:18.5742385+00:00",
+    "finished": "2022-01-25T18:27:18.5830662+00:00",
+    "durationMs": 8
   }
 }

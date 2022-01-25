@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "cpython",
@@ -7,23 +7,23 @@
   "test": "knucleotide",
   "code": "3.py",
   "input": "250000_in",
-  "timeMS": 821.0444,
-  "timeStdDevMS": 8.41173696351321,
-  "memBytes": 14872576,
-  "cpuTimeMS": 1523.3332,
-  "cpuTimeUserMS": 1496.6666,
-  "cpuTimeKernelMS": 26.6666,
-  "githubRunId": "1745091623",
+  "timeMS": 895.3425,
+  "timeStdDevMS": 17.402140361844573,
+  "memBytes": 14921728,
+  "cpuTimeMS": 1653.3332,
+  "cpuTimeUserMS": 1619.9999,
+  "cpuTimeKernelMS": 33.3333,
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-25T11:56:15.1562352+00:00",
-    "finished": "2022-01-25T11:56:17.7289537+00:00",
-    "durationMs": 2572
+    "start": "2022-01-25T17:57:43.4798992+00:00",
+    "finished": "2022-01-25T17:57:46.1827942+00:00",
+    "durationMs": 2702
   },
   "testLog": {
     "runtimeVersion": "Python 3.10.2",
-    "start": "2022-01-25T12:23:12.3922263+00:00",
-    "finished": "2022-01-25T12:23:13.3838477+00:00",
-    "durationMs": 991
+    "start": "2022-01-25T18:28:51.7943578+00:00",
+    "finished": "2022-01-25T18:28:52.8566087+00:00",
+    "durationMs": 1062
   }
 }

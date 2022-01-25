@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "swift",
   "os": "linux",
   "compiler": "swift",
@@ -7,23 +7,23 @@
   "test": "knucleotide",
   "code": "2.swift",
   "input": "250000_in",
-  "timeMS": 354.5706,
-  "timeStdDevMS": 7.962623533107686,
-  "memBytes": 34938880,
-  "cpuTimeMS": 616.6666,
-  "cpuTimeUserMS": 593.3333,
-  "cpuTimeKernelMS": 23.3333,
-  "githubRunId": "1745091623",
+  "timeMS": 334.8765,
+  "timeStdDevMS": 6.347917274980792,
+  "memBytes": 34816000,
+  "cpuTimeMS": 579.9999,
+  "cpuTimeUserMS": 566.6666,
+  "cpuTimeKernelMS": 13.3333,
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "Swift version 5.5.2 (swift-5.5.2-RELEASE)\nTarget: x86_64-unknown-linux-gnu",
-    "start": "2022-01-25T11:57:58.3838971+00:00",
-    "finished": "2022-01-25T11:58:17.7229773+00:00",
-    "durationMs": 19339
+    "start": "2022-01-25T17:59:16.2789559+00:00",
+    "finished": "2022-01-25T17:59:39.0838845+00:00",
+    "durationMs": 22804
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:24:09.7982575+00:00",
-    "finished": "2022-01-25T12:24:10.2272604+00:00",
-    "durationMs": 429
+    "start": "2022-01-25T18:29:54.2638329+00:00",
+    "finished": "2022-01-25T18:29:54.6778133+00:00",
+    "durationMs": 413
   }
 }

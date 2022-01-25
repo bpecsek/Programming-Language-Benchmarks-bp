@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "javascript",
   "os": "linux",
   "compiler": "node/graal",
@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.js",
   "input": "15",
-  "timeMS": 1310.2608,
-  "timeStdDevMS": 23.408492659787754,
-  "memBytes": 731512832,
-  "cpuTimeMS": 2426.6666,
-  "cpuTimeUserMS": 2170.0,
-  "cpuTimeKernelMS": 256.6666,
-  "githubRunId": "1745091623",
+  "timeMS": 1518.1359,
+  "timeStdDevMS": 10.801378596734626,
+  "memBytes": 733122560,
+  "cpuTimeMS": 2820.0,
+  "cpuTimeUserMS": 2470.0,
+  "cpuTimeKernelMS": 350.0,
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-25T11:55:11.9319289+00:00",
-    "finished": "2022-01-25T11:55:11.9343204+00:00",
+    "start": "2022-01-25T17:56:29.4569692+00:00",
+    "finished": "2022-01-25T17:56:29.4598998+00:00",
     "durationMs": 2
   },
   "testLog": {
     "runtimeVersion": "v14.17.6",
-    "start": "2022-01-25T12:22:31.2757664+00:00",
-    "finished": "2022-01-25T12:22:32.064193+00:00",
-    "durationMs": 788
+    "start": "2022-01-25T18:28:06.6826417+00:00",
+    "finished": "2022-01-25T18:28:07.5278073+00:00",
+    "durationMs": 845
   }
 }

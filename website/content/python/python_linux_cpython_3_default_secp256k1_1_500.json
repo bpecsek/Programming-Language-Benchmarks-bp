@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "cpython",
@@ -7,23 +7,23 @@
   "test": "secp256k1",
   "code": "1.py",
   "input": "500",
-  "timeMS": 1490.2574,
-  "timeStdDevMS": 3.6775019932014854,
-  "memBytes": 9011200,
-  "cpuTimeMS": 1480.0,
-  "cpuTimeUserMS": 1480.0,
+  "timeMS": 1470.866,
+  "timeStdDevMS": 6.354153360073548,
+  "memBytes": 8830976,
+  "cpuTimeMS": 1456.6666,
+  "cpuTimeUserMS": 1456.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-25T11:56:20.5509647+00:00",
-    "finished": "2022-01-25T11:56:20.5555549+00:00",
-    "durationMs": 4
+    "start": "2022-01-25T17:57:49.3146818+00:00",
+    "finished": "2022-01-25T17:57:49.3186441+00:00",
+    "durationMs": 3
   },
   "testLog": {
     "runtimeVersion": "Python 3.10.2",
-    "start": "2022-01-25T12:23:14.9257418+00:00",
-    "finished": "2022-01-25T12:23:14.9915347+00:00",
+    "start": "2022-01-25T18:28:54.4384183+00:00",
+    "finished": "2022-01-25T18:28:54.5037532+00:00",
     "durationMs": 65
   }
 }

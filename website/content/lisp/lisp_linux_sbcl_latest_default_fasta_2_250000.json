@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "lisp",
   "os": "linux",
   "compiler": "sbcl",
@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "2.cl",
   "input": "250000",
-  "timeMS": 87.4792,
-  "timeStdDevMS": 23.437605710126054,
-  "memBytes": 27369472,
+  "timeMS": 89.1231,
+  "timeStdDevMS": 28.153754007651155,
+  "memBytes": 25309184,
   "cpuTimeMS": 49.9999,
   "cpuTimeUserMS": 46.6666,
   "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "SBCL 2.2.0",
-    "start": "2022-01-25T11:58:49.0463008+00:00",
-    "finished": "2022-01-25T11:58:50.9340067+00:00",
-    "durationMs": 1887
+    "start": "2022-01-25T17:59:58.3554812+00:00",
+    "finished": "2022-01-25T18:00:00.2548057+00:00",
+    "durationMs": 1899
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:23:05.3316619+00:00",
-    "finished": "2022-01-25T12:23:05.4358284+00:00",
-    "durationMs": 104
+    "start": "2022-01-25T18:28:43.1742634+00:00",
+    "finished": "2022-01-25T18:28:43.3075031+00:00",
+    "durationMs": 133
   }
 }

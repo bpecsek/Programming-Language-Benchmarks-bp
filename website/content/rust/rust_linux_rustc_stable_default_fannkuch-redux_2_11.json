@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "rust",
   "os": "linux",
   "compiler": "rustc",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "2.rs",
   "input": "11",
-  "timeMS": 2093.0915,
-  "timeStdDevMS": 8.927882384044254,
-  "memBytes": 712704,
-  "cpuTimeMS": 2083.3333,
-  "cpuTimeUserMS": 2083.3333,
+  "timeMS": 1871.1099,
+  "timeStdDevMS": 0.21406541834989085,
+  "memBytes": 708608,
+  "cpuTimeMS": 1860.0,
+  "cpuTimeUserMS": 1860.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "rustc 1.58.1 (db9d1b20b 2022-01-20)",
-    "start": "2022-01-25T12:00:48.9253904+00:00",
-    "finished": "2022-01-25T12:00:53.4086296+00:00",
-    "durationMs": 4483
+    "start": "2022-01-25T18:03:16.2245776+00:00",
+    "finished": "2022-01-25T18:03:21.5557046+00:00",
+    "durationMs": 5331
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:24:08.3267142+00:00",
-    "finished": "2022-01-25T12:24:08.5011983+00:00",
-    "durationMs": 174
+    "start": "2022-01-25T18:29:52.7786252+00:00",
+    "finished": "2022-01-25T18:29:52.9365818+00:00",
+    "durationMs": 157
   }
 }

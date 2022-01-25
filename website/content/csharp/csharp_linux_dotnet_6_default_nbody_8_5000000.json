@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "csharp",
   "os": "linux",
   "compiler": "dotnet",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "8.cs",
   "input": "5000000",
-  "timeMS": 516.9649,
-  "timeStdDevMS": 2.474178171299126,
-  "memBytes": 30531584,
-  "cpuTimeMS": 490.0,
-  "cpuTimeUserMS": 490.0,
+  "timeMS": 597.9452,
+  "timeStdDevMS": 1.6309762914687165,
+  "memBytes": 28540928,
+  "cpuTimeMS": 569.9999,
+  "cpuTimeUserMS": 569.9999,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "6.0.101",
-    "start": "2022-01-25T11:57:33.5165584+00:00",
-    "finished": "2022-01-25T11:57:42.6017367+00:00",
-    "durationMs": 9085
+    "start": "2022-01-25T17:59:06.2456863+00:00",
+    "finished": "2022-01-25T17:59:16.3777811+00:00",
+    "durationMs": 10132
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:21:31.4334889+00:00",
-    "finished": "2022-01-25T12:21:31.6012764+00:00",
-    "durationMs": 167
+    "start": "2022-01-25T18:26:05.9939858+00:00",
+    "finished": "2022-01-25T18:26:06.1846103+00:00",
+    "durationMs": 190
   }
 }

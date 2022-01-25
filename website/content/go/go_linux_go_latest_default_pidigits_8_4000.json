@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "go",
   "os": "linux",
   "compiler": "go",
@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "8.go",
   "input": "4000",
-  "timeMS": 322.0476,
-  "timeStdDevMS": 1.0799755799708597,
-  "memBytes": 8953856,
-  "cpuTimeMS": 310.0,
-  "cpuTimeUserMS": 310.0,
+  "timeMS": 300.522,
+  "timeStdDevMS": 0.9554704199153774,
+  "memBytes": 8949760,
+  "cpuTimeMS": 293.3333,
+  "cpuTimeUserMS": 293.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "go version go1.17.6 linux/amd64",
-    "start": "2022-01-25T11:55:30.4081769+00:00",
-    "finished": "2022-01-25T11:55:31.4068852+00:00",
-    "durationMs": 998
+    "start": "2022-01-25T17:56:51.2510888+00:00",
+    "finished": "2022-01-25T17:56:52.455745+00:00",
+    "durationMs": 1204
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:21:46.251547+00:00",
-    "finished": "2022-01-25T12:21:46.2633698+00:00",
-    "durationMs": 11
+    "start": "2022-01-25T18:27:19.6409172+00:00",
+    "finished": "2022-01-25T18:27:19.6519101+00:00",
+    "durationMs": 10
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "lisp",
   "os": "linux",
   "compiler": "sbcl",
@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "1.cl",
   "input": "7000",
-  "timeMS": 1685.0126,
-  "timeStdDevMS": 2.9499311997627307,
-  "memBytes": 51027968,
-  "cpuTimeMS": 3230.0,
-  "cpuTimeUserMS": 3230.0,
+  "timeMS": 1494.2097,
+  "timeStdDevMS": 2.6537123826819444,
+  "memBytes": 50872320,
+  "cpuTimeMS": 2850.0,
+  "cpuTimeUserMS": 2850.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "SBCL 2.2.0",
-    "start": "2022-01-25T11:58:52.8225173+00:00",
-    "finished": "2022-01-25T11:58:54.8587024+00:00",
-    "durationMs": 2036
+    "start": "2022-01-25T18:00:02.1560016+00:00",
+    "finished": "2022-01-25T18:00:04.2005582+00:00",
+    "durationMs": 2044
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:23:05.5188998+00:00",
-    "finished": "2022-01-25T12:23:05.6464794+00:00",
-    "durationMs": 127
+    "start": "2022-01-25T18:28:43.4290232+00:00",
+    "finished": "2022-01-25T18:28:43.6214219+00:00",
+    "durationMs": 192
   }
 }

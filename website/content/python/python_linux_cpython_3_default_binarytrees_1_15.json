@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "python",
   "os": "linux",
   "compiler": "cpython",
@@ -7,23 +7,23 @@
   "test": "binarytrees",
   "code": "1.py",
   "input": "15",
-  "timeMS": 1567.9464,
-  "timeStdDevMS": 11.698153774990885,
-  "memBytes": 12652544,
-  "cpuTimeMS": 1553.3333,
-  "cpuTimeUserMS": 1553.3333,
+  "timeMS": 1694.8004,
+  "timeStdDevMS": 5.221378709051177,
+  "memBytes": 12693504,
+  "cpuTimeMS": 1673.3333,
+  "cpuTimeUserMS": 1673.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-25T11:56:14.9617033+00:00",
-    "finished": "2022-01-25T11:56:14.9924677+00:00",
-    "durationMs": 30
+    "start": "2022-01-25T17:57:43.2963053+00:00",
+    "finished": "2022-01-25T17:57:43.3251164+00:00",
+    "durationMs": 28
   },
   "testLog": {
     "runtimeVersion": "Python 3.10.2",
-    "start": "2022-01-25T12:23:09.3971553+00:00",
-    "finished": "2022-01-25T12:23:09.5724839+00:00",
-    "durationMs": 175
+    "start": "2022-01-25T18:28:47.9310347+00:00",
+    "finished": "2022-01-25T18:28:48.1768787+00:00",
+    "durationMs": 245
   }
 }

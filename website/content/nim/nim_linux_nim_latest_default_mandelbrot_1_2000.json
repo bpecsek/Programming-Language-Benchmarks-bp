@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "nim",
   "os": "linux",
   "compiler": "nim",
@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "1.nim",
   "input": "2000",
-  "timeMS": 161.5134,
-  "timeStdDevMS": 0.7208026174573169,
-  "memBytes": 2043904,
-  "cpuTimeMS": 150.0,
-  "cpuTimeUserMS": 150.0,
+  "timeMS": 144.9234,
+  "timeStdDevMS": 0.7868112882599839,
+  "memBytes": 2093056,
+  "cpuTimeMS": 136.6666,
+  "cpuTimeUserMS": 136.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "Nim Compiler Version 1.6.2 [Linux: amd64]\nCompiled at 2021-12-17\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 9084d9bc02bcd983b81a4c76a05f27b9ce2707dd\nactive boot switches: -d:release -d:danger",
-    "start": "2022-01-25T11:55:56.3116913+00:00",
-    "finished": "2022-01-25T11:56:04.7245137+00:00",
-    "durationMs": 8412
+    "start": "2022-01-25T17:57:09.8714798+00:00",
+    "finished": "2022-01-25T17:57:18.1598622+00:00",
+    "durationMs": 8288
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:23:08.3858327+00:00",
-    "finished": "2022-01-25T12:23:08.406307+00:00",
-    "durationMs": 20
+    "start": "2022-01-25T18:28:46.9663727+00:00",
+    "finished": "2022-01-25T18:28:46.983424+00:00",
+    "durationMs": 17
   }
 }

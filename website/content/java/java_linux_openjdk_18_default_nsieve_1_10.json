@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "openjdk",
@@ -7,23 +7,23 @@
   "test": "nsieve",
   "code": "1.java",
   "input": "10",
-  "timeMS": 1158.8411,
-  "timeStdDevMS": 20.837754472671154,
-  "memBytes": 58834944,
-  "cpuTimeMS": 1185.0,
-  "cpuTimeUserMS": 1180.0,
-  "cpuTimeKernelMS": 5.0,
-  "githubRunId": "1745091623",
+  "timeMS": 952.8991,
+  "timeStdDevMS": 5.046281066620543,
+  "memBytes": 58859520,
+  "cpuTimeMS": 976.6666,
+  "cpuTimeUserMS": 960.0,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2022-01-25T11:58:07.2699974+00:00",
-    "finished": "2022-01-25T11:58:08.7894316+00:00",
-    "durationMs": 1519
+    "start": "2022-01-25T17:59:30.7240228+00:00",
+    "finished": "2022-01-25T17:59:32.3591393+00:00",
+    "durationMs": 1635
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+31-2049)\nOpenJDK 64-Bit Server VM (build 18-ea+31-2049, mixed mode, sharing)",
-    "start": "2022-01-25T12:22:26.6032185+00:00",
-    "finished": "2022-01-25T12:22:26.7124642+00:00",
-    "durationMs": 109
+    "start": "2022-01-25T18:28:01.8721698+00:00",
+    "finished": "2022-01-25T18:28:01.987905+00:00",
+    "durationMs": 115
   }
 }

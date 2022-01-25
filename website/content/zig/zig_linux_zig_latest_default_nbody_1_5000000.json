@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "zig",
   "os": "linux",
   "compiler": "zig",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "1.zig",
   "input": "5000000",
-  "timeMS": 432.2412,
-  "timeStdDevMS": 13.714022526718145,
+  "timeMS": 428.1493,
+  "timeStdDevMS": 6.792533072671308,
   "memBytes": 167936,
-  "cpuTimeMS": 423.3333,
-  "cpuTimeUserMS": 423.3333,
+  "cpuTimeMS": 416.6666,
+  "cpuTimeUserMS": 416.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "0.10.0-dev.390+0866fa9d1",
-    "start": "2022-01-25T11:58:53.4480747+00:00",
-    "finished": "2022-01-25T11:59:03.4222621+00:00",
-    "durationMs": 9974
+    "start": "2022-01-25T17:59:46.9151041+00:00",
+    "finished": "2022-01-25T17:59:57.65871+00:00",
+    "durationMs": 10743
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:24:59.6882649+00:00",
-    "finished": "2022-01-25T12:24:59.6931937+00:00",
-    "durationMs": 4
+    "start": "2022-01-25T18:30:50.0109056+00:00",
+    "finished": "2022-01-25T18:30:50.0159302+00:00",
+    "durationMs": 5
   }
 }

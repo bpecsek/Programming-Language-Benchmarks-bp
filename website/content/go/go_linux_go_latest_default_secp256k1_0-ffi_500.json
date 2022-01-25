@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "go",
   "os": "linux",
   "compiler": "go",
@@ -7,23 +7,23 @@
   "test": "secp256k1",
   "code": "0-ffi.go",
   "input": "500",
-  "timeMS": 52.911,
-  "timeStdDevMS": 0.26588195375642537,
-  "memBytes": 9875456,
-  "cpuTimeMS": 43.3333,
-  "cpuTimeUserMS": 43.3333,
-  "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1745091623",
+  "timeMS": 48.337,
+  "timeStdDevMS": 0.7039234357040056,
+  "memBytes": 10473472,
+  "cpuTimeMS": 36.6666,
+  "cpuTimeUserMS": 30.0,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1746039746",
   "buildLog": {
     "compilerVersion": "go version go1.17.6 linux/amd64",
-    "start": "2022-01-25T11:55:34.9032013+00:00",
-    "finished": "2022-01-25T11:55:53.4338709+00:00",
-    "durationMs": 18530
+    "start": "2022-01-25T17:56:56.0487894+00:00",
+    "finished": "2022-01-25T17:57:12.2346179+00:00",
+    "durationMs": 16185
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T12:21:48.1301413+00:00",
-    "finished": "2022-01-25T12:21:48.1642004+00:00",
-    "durationMs": 34
+    "start": "2022-01-25T18:27:21.4787545+00:00",
+    "finished": "2022-01-25T18:27:21.5147927+00:00",
+    "durationMs": 36
   }
 }
