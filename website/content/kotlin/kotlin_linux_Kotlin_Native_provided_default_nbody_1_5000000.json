@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "1.kt",
   "input": "5000000",
-  "timeMS": 851.6565,
-  "timeStdDevMS": 6.438299503233197,
-  "memBytes": 2498560,
-  "cpuTimeMS": 840.0,
-  "cpuTimeUserMS": 840.0,
+  "timeMS": 843.5773,
+  "timeStdDevMS": 0.2097577253246216,
+  "memBytes": 2506752,
+  "cpuTimeMS": 833.3333,
+  "cpuTimeUserMS": 833.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1746039746",
+  "githubRunId": "1765206164",
   "buildLog": {
-    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.13+8)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 838ms\n1 actionable task: 1 executed",
-    "start": "2022-01-25T18:02:42.2912549+00:00",
-    "finished": "2022-01-25T18:03:31.5975608+00:00",
-    "durationMs": 49306
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.13+8)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 763ms\n1 actionable task: 1 executed",
+    "start": "2022-01-29T14:08:34.3621031+00:00",
+    "finished": "2022-01-29T14:09:23.3878973+00:00",
+    "durationMs": 49025
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T18:28:31.2543988+00:00",
-    "finished": "2022-01-25T18:28:31.2709107+00:00",
-    "durationMs": 16
+    "start": "2022-01-29T14:25:56.9708598+00:00",
+    "finished": "2022-01-29T14:25:56.9839546+00:00",
+    "durationMs": 13
   }
 }

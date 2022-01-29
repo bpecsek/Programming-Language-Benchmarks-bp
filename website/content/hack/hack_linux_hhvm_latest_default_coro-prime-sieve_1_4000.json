@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "hack",
+  "os": "linux",
+  "compiler": "hhvm",
+  "compilerVersion": "latest",
+  "test": "coro-prime-sieve",
+  "code": "1.hack",
+  "input": "4000",
+  "timeMS": 2044.6324,
+  "timeStdDevMS": 27.91721426939531,
+  "memBytes": 190038016,
+  "cpuTimeMS": 1993.3333,
+  "cpuTimeUserMS": 1920.0,
+  "cpuTimeKernelMS": 73.3333,
+  "githubRunId": "1765206164",
+  "buildLog": {
+    "compilerVersion": "hackc-9ddd1899e3c5cf4954e903514c8f4d89beadd202-4.146.0",
+    "start": "2022-01-29T14:02:26.1135711+00:00",
+    "finished": "2022-01-29T14:02:27.843674+00:00",
+    "durationMs": 1730
+  },
+  "testLog": {
+    "runtimeVersion": "HipHop VM 4.146.0 (rel) (non-lowptr)\nCompiler: 1643142756_285035995\nRepo schema: f559125a34cec281a617647f42d18bd793318580",
+    "start": "2022-01-29T14:24:51.2221773+00:00",
+    "finished": "2022-01-29T14:24:52.2245659+00:00",
+    "durationMs": 1002
+  }
+}

@@ -7,23 +7,23 @@
   "test": "binarytrees",
   "code": "1.kt",
   "input": "15",
-  "timeMS": 826.1168,
-  "timeStdDevMS": 6.092527858232079,
-  "memBytes": 150679552,
-  "cpuTimeMS": 806.6666,
-  "cpuTimeUserMS": 746.6666,
-  "cpuTimeKernelMS": 60.0,
-  "githubRunId": "1746039746",
+  "timeMS": 886.273,
+  "timeStdDevMS": 4.819474289103716,
+  "memBytes": 146030592,
+  "cpuTimeMS": 869.9999,
+  "cpuTimeUserMS": 806.6666,
+  "cpuTimeKernelMS": 63.3333,
+  "githubRunId": "1765206164",
   "buildLog": {
-    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.13+8)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 1s\n1 actionable task: 1 executed",
-    "start": "2022-01-25T17:56:06.9666067+00:00",
-    "finished": "2022-01-25T17:58:27.9195285+00:00",
-    "durationMs": 140952
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.13+8)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 969ms\n1 actionable task: 1 executed",
+    "start": "2022-01-29T14:02:05.3913539+00:00",
+    "finished": "2022-01-29T14:04:27.0764297+00:00",
+    "durationMs": 141685
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T18:28:27.3795368+00:00",
-    "finished": "2022-01-25T18:28:27.4077472+00:00",
+    "start": "2022-01-29T14:25:53.0323431+00:00",
+    "finished": "2022-01-29T14:25:53.0605072+00:00",
     "durationMs": 28
   }
 }

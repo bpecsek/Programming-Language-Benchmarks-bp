@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "3.f90",
   "input": "8000",
-  "timeMS": 2169.2802,
-  "timeStdDevMS": 5.70826059875808,
-  "memBytes": 3145728,
-  "cpuTimeMS": 4269.9999,
-  "cpuTimeUserMS": 4269.9999,
+  "timeMS": 2183.297,
+  "timeStdDevMS": 26.12860583677089,
+  "memBytes": 3108864,
+  "cpuTimeMS": 4256.6666,
+  "cpuTimeUserMS": 4256.6666,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1746039746",
+  "githubRunId": "1765206164",
   "buildLog": {
     "compilerVersion": "GNU Fortran (Ubuntu 10.3.0-1ubuntu1~20.04) 10.3.0\nCopyright (C) 2020 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
-    "start": "2022-01-25T17:56:31.9780447+00:00",
-    "finished": "2022-01-25T17:56:32.7167205+00:00",
-    "durationMs": 738
+    "start": "2022-01-29T14:02:24.6135848+00:00",
+    "finished": "2022-01-29T14:02:25.3133357+00:00",
+    "durationMs": 699
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-25T18:27:18.5557648+00:00",
-    "finished": "2022-01-25T18:27:18.56004+00:00",
+    "start": "2022-01-29T14:24:40.4197866+00:00",
+    "finished": "2022-01-29T14:24:40.4240808+00:00",
     "durationMs": 4
   }
 }
