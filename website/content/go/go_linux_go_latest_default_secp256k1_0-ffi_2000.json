@@ -7,23 +7,23 @@
   "test": "secp256k1",
   "code": "0-ffi.go",
   "input": "2000",
-  "timeMS": 147.7519,
-  "timeStdDevMS": 0.9415601361569985,
-  "memBytes": 9666560,
-  "cpuTimeMS": 143.3333,
+  "timeMS": 148.9823,
+  "timeStdDevMS": 1.1141687678863363,
+  "memBytes": 9949184,
+  "cpuTimeMS": 140.0,
   "cpuTimeUserMS": 140.0,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1765206164",
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "go version go1.17.6 linux/amd64",
-    "start": "2022-01-29T14:02:35.2715664+00:00",
-    "finished": "2022-01-29T14:02:53.9039993+00:00",
-    "durationMs": 18632
+    "start": "2022-01-31T05:46:05.0184781+00:00",
+    "finished": "2022-01-31T05:46:22.4753155+00:00",
+    "durationMs": 17456
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-29T14:24:43.3146162+00:00",
-    "finished": "2022-01-29T14:24:43.3499592+00:00",
-    "durationMs": 35
+    "start": "2022-01-31T06:11:59.5573961+00:00",
+    "finished": "2022-01-31T06:11:59.5938238+00:00",
+    "durationMs": 36
   }
 }

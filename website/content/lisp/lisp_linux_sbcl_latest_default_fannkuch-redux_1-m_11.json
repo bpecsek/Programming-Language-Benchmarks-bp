@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "lisp",
+  "os": "linux",
+  "compiler": "sbcl",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "1-m.cl",
+  "input": "11",
+  "timeMS": 1356.7076,
+  "timeStdDevMS": 0.17479960907669495,
+  "memBytes": 44089344,
+  "cpuTimeMS": 2633.3333,
+  "cpuTimeUserMS": 2623.3333,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1771040648",
+  "buildLog": {
+    "compilerVersion": "SBCL 2.2.1",
+    "start": "2022-01-31T05:49:31.5575496+00:00",
+    "finished": "2022-01-31T05:49:33.7384558+00:00",
+    "durationMs": 2180
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-31T06:13:27.4144121+00:00",
+    "finished": "2022-01-31T06:13:27.691105+00:00",
+    "durationMs": 276
+  }
+}

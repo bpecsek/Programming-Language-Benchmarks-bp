@@ -3,7 +3,7 @@
 ;;;   * Code cleanup and refactoring - 2021-12-06
 ;;;   * Slight optimization - 2021-12-07
 (declaim (optimize (speed 3) (safety 0) (debug 0)))
-
+(declaim (optimize sb-c:instrument-consing))
 (eval-when (:compile-toplevel :load-toplevel :execute)
   (ql:quickload :sb-simd :silent t)
   (use-package :sb-simd-fma))

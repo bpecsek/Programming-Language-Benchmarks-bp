@@ -7,23 +7,23 @@
   "test": "secp256k1",
   "code": "0.rs",
   "input": "500",
-  "timeMS": 35.7822,
-  "timeStdDevMS": 1.0760052478186783,
-  "memBytes": 708608,
+  "timeMS": 34.9351,
+  "timeStdDevMS": 0.23458243753529495,
+  "memBytes": 712704,
   "cpuTimeMS": 30.0,
   "cpuTimeUserMS": 30.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1765206164",
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "rustc 1.58.1 (db9d1b20b 2022-01-20)",
-    "start": "2022-01-29T14:10:59.2490877+00:00",
-    "finished": "2022-01-29T14:11:04.3971669+00:00",
-    "durationMs": 5148
+    "start": "2022-01-31T05:54:20.6285735+00:00",
+    "finished": "2022-01-31T05:54:25.8443124+00:00",
+    "durationMs": 5215
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-29T14:27:23.1209345+00:00",
-    "finished": "2022-01-29T14:27:23.1288586+00:00",
-    "durationMs": 7
+    "start": "2022-01-31T06:14:43.3973426+00:00",
+    "finished": "2022-01-31T06:14:43.4037452+00:00",
+    "durationMs": 6
   }
 }

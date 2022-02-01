@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.hack",
   "input": "1000",
-  "timeMS": 957.1145,
-  "timeStdDevMS": 6.017850649525997,
-  "memBytes": 187633664,
-  "cpuTimeMS": 936.6666,
-  "cpuTimeUserMS": 886.6666,
-  "cpuTimeKernelMS": 50.0,
-  "githubRunId": "1765206164",
+  "timeMS": 1014.6986,
+  "timeStdDevMS": 75.04905222455073,
+  "memBytes": 185741312,
+  "cpuTimeMS": 989.9999,
+  "cpuTimeUserMS": 943.3333,
+  "cpuTimeKernelMS": 46.6666,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "hackc-9ddd1899e3c5cf4954e903514c8f4d89beadd202-4.146.0",
-    "start": "2022-01-29T14:02:26.1135711+00:00",
-    "finished": "2022-01-29T14:02:27.843674+00:00",
-    "durationMs": 1730
+    "start": "2022-01-31T05:45:20.9646214+00:00",
+    "finished": "2022-01-31T05:45:22.5871875+00:00",
+    "durationMs": 1622
   },
   "testLog": {
     "runtimeVersion": "HipHop VM 4.146.0 (rel) (non-lowptr)\nCompiler: 1643142756_285035995\nRepo schema: f559125a34cec281a617647f42d18bd793318580",
-    "start": "2022-01-29T14:24:51.2221773+00:00",
-    "finished": "2022-01-29T14:24:52.2245659+00:00",
-    "durationMs": 1002
+    "start": "2022-01-31T06:12:07.6290788+00:00",
+    "finished": "2022-01-31T06:12:08.7119327+00:00",
+    "durationMs": 1082
   }
 }

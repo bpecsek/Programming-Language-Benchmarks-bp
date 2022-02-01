@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "1.java",
   "input": "5000000",
-  "timeMS": 657.6482,
-  "timeStdDevMS": 0.89754067874386,
-  "memBytes": 39329792,
-  "cpuTimeMS": 669.9999,
-  "cpuTimeUserMS": 656.6666,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1765206164",
+  "timeMS": 673.0904,
+  "timeStdDevMS": 16.864685141146225,
+  "memBytes": 39358464,
+  "cpuTimeMS": 670.0,
+  "cpuTimeUserMS": 650.0,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2022-01-29T14:05:49.219742+00:00",
-    "finished": "2022-01-29T14:05:50.6541718+00:00",
-    "durationMs": 1434
+    "start": "2022-01-31T05:48:54.7930227+00:00",
+    "finished": "2022-01-31T05:48:56.5170062+00:00",
+    "durationMs": 1723
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+31-2049)\nOpenJDK 64-Bit Server VM (build 18-ea+31-2049, mixed mode, sharing)",
-    "start": "2022-01-29T14:25:26.342555+00:00",
-    "finished": "2022-01-29T14:25:26.5391868+00:00",
-    "durationMs": 196
+    "start": "2022-01-31T06:12:44.1781469+00:00",
+    "finished": "2022-01-31T06:12:44.3821457+00:00",
+    "durationMs": 203
   }
 }

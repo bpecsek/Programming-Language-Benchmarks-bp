@@ -7,23 +7,23 @@
   "test": "http-server",
   "code": "1.rs",
   "input": "3000",
-  "timeMS": 219.7185,
-  "timeStdDevMS": 70.49724515300815,
-  "memBytes": 57016320,
-  "cpuTimeMS": 283.3333,
-  "cpuTimeUserMS": 120.0,
-  "cpuTimeKernelMS": 163.3333,
-  "githubRunId": "1765206164",
+  "timeMS": 133.2441,
+  "timeStdDevMS": 0.8745507723016079,
+  "memBytes": 16818176,
+  "cpuTimeMS": 180.0,
+  "cpuTimeUserMS": 90.0,
+  "cpuTimeKernelMS": 90.0,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "rustc 1.58.1 (db9d1b20b 2022-01-20)",
-    "start": "2022-01-29T14:08:28.1844447+00:00",
-    "finished": "2022-01-29T14:09:11.2815881+00:00",
-    "durationMs": 43097
+    "start": "2022-01-31T05:51:43.313643+00:00",
+    "finished": "2022-01-31T05:52:27.4787273+00:00",
+    "durationMs": 44165
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-29T14:27:22.4331064+00:00",
-    "finished": "2022-01-29T14:27:22.4548062+00:00",
-    "durationMs": 21
+    "start": "2022-01-31T06:14:42.6408943+00:00",
+    "finished": "2022-01-31T06:14:42.6644611+00:00",
+    "durationMs": 23
   }
 }

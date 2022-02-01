@@ -7,23 +7,23 @@
   "test": "json-serde",
   "code": "1.kt",
   "input": "sample 5000",
-  "timeMS": 1109.503,
-  "timeStdDevMS": 12.125138153439623,
-  "memBytes": 223232000,
-  "cpuTimeMS": 1953.3332,
-  "cpuTimeUserMS": 1856.6666,
-  "cpuTimeKernelMS": 96.6666,
-  "githubRunId": "1765206164",
+  "timeMS": 1112.2225,
+  "timeStdDevMS": 14.160739838016834,
+  "memBytes": 224178176,
+  "cpuTimeMS": 1953.3333,
+  "cpuTimeUserMS": 1833.3333,
+  "cpuTimeKernelMS": 120.0,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-29T14:12:26.8003072+00:00",
-    "finished": "2022-01-29T14:12:32.8939435+00:00",
-    "durationMs": 6093
+    "start": "2022-01-31T05:56:49.957781+00:00",
+    "finished": "2022-01-31T05:56:56.9023984+00:00",
+    "durationMs": 6944
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
-    "start": "2022-01-29T14:26:04.2047855+00:00",
-    "finished": "2022-01-29T14:26:06.5665354+00:00",
-    "durationMs": 2361
+    "start": "2022-01-31T06:13:22.6707645+00:00",
+    "finished": "2022-01-31T06:13:24.9677804+00:00",
+    "durationMs": 2297
   }
 }

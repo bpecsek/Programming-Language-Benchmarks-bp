@@ -7,23 +7,23 @@
   "test": "http-server",
   "code": "1.py",
   "input": "500",
-  "timeMS": 1338.9198,
-  "timeStdDevMS": 54.85640682010931,
-  "memBytes": 107692032,
-  "cpuTimeMS": 1090.0,
-  "cpuTimeUserMS": 890.0,
-  "cpuTimeKernelMS": 200.0,
-  "githubRunId": "1765206164",
+  "timeMS": 1487.0869,
+  "timeStdDevMS": 79.57403419516525,
+  "memBytes": 105054208,
+  "cpuTimeMS": 1106.6666,
+  "cpuTimeUserMS": 910.0,
+  "cpuTimeKernelMS": 196.6666,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-29T14:04:23.5675869+00:00",
-    "finished": "2022-01-29T14:04:24.0616677+00:00",
-    "durationMs": 494
+    "start": "2022-01-31T05:47:06.3582106+00:00",
+    "finished": "2022-01-31T05:47:06.7932491+00:00",
+    "durationMs": 435
   },
   "testLog": {
     "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2022-01-29T14:26:23.6138774+00:00",
-    "finished": "2022-01-29T14:26:25.2177638+00:00",
-    "durationMs": 1603
+    "start": "2022-01-31T06:13:41.5821261+00:00",
+    "finished": "2022-01-31T06:13:43.3278334+00:00",
+    "durationMs": 1745
   }
 }

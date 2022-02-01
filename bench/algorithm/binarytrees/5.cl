@@ -14,8 +14,8 @@
 (declaim (inline make-node left (setf left) right (setf right)))
 (defstruct (node (:conc-name nil)
                  (:constructor make-node (left right)))
-  (left  nil :type (or node null))
-  (right nil :type (or node null)))
+  (left  (error "Missing arg") :type (or node null) :read-only t)
+  (right (error "Missing arg") :type (or node null) :read-only t))
 
 (declaim (maybe-inline values-for-node build-tree check-node))
 (defun values-for-node (node)
@@ -44,7 +44,7 @@
              (multiple-value-bind (l r) (values-for-node node)
                (cond (l (the uint (+ 1 (check-node l) (check-node r)))) 
                      (t 1)))))
-    (declare (maybe-inline build-tree check-node))
+    (declare (inline build-tree check-node))
     (loop for depth of-type uint from min-depth by 2 upto max-depth do
       (loop with iterations of-type uint = (the uint (ash 1 (+ max-depth min-depth (- depth))))
             for i of-type uint from 1 upto iterations
@@ -64,4 +64,5 @@
 (declaim (ftype (function (&optional uint) null) main))
 (defun main (&optional n-supplied)
   (let ((n (or n-supplied (parse-integer (or (car (last #+sbcl sb-ext:*posix-argv*)) "18")))))
-    (binary-trees-upto-size n)))
+    (binary-trees-upto-size n)
+    (print *n*)))

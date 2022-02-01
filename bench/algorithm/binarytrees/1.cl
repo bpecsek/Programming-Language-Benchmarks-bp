@@ -4,7 +4,7 @@
 ;;; contributed by Roman Kashitsyn
 ;;; added eval-when by Bela Pecsek to run in container
 (declaim (optimize (speed 3) (safety 0) (space 0) (debug 0)))
-
+(declaim (optimize sb-c:instrument-consing))
 (defconstant min-depth 4 "Minimal depth of the binary tree.")
 (deftype uint () '(unsigned-byte 31))
 
@@ -26,21 +26,12 @@
 (declaim (ftype (function (uint) null) loop-depths))
 (defun loop-depths (max-depth)
   (declare (type uint max-depth))
-  (labels ((build-tree (depth)
-             (declare (type uint depth))
-             (cond ((zerop depth) (cons nil nil))
-                   (t (cons (build-tree (- depth 1)) (build-tree (- depth 1))))))
-           (check-node (node)
-             (declare (type list node))
-             (cond ((car node) (the uint (+ 1 (check-node (car node))(check-node (cdr node)))))
-                   (t 1))))
-    (declare (inline build-tree check-node))
-    (loop for depth of-type uint from min-depth by 2 upto max-depth do
-      (loop with iterations of-type uint = (the uint (ash 1 (+ max-depth min-depth (- depth))))
-            for i of-type uint from 1 upto iterations
-            sum (check-node (build-tree depth)) into result of-type uint
-            finally (return (format t "~D	 trees of depth ~D	 check: ~D~%"
-                                    iterations depth result))))))
+  (loop for depth of-type uint from min-depth by 2 upto max-depth do
+    (loop with iterations of-type uint = (the uint (ash 1 (+ max-depth min-depth (- depth))))
+          for i of-type uint from 1 upto iterations
+          sum (check-node (build-tree depth)) into result of-type uint
+          finally (return (format t "~D	 trees of depth ~D	 check: ~D~%"
+                                  iterations depth result)))))
 
 (declaim (ftype (function (uint) null) binary-trees-upto-size))
 (defun binary-trees-upto-size (n)

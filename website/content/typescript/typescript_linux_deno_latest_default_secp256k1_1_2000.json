@@ -7,23 +7,23 @@
   "test": "secp256k1",
   "code": "1.ts",
   "input": "2000",
-  "timeMS": 3483.5162,
-  "timeStdDevMS": 12.6621881483151,
-  "memBytes": 37597184,
-  "cpuTimeMS": 3526.6666,
-  "cpuTimeUserMS": 3500.0,
-  "cpuTimeKernelMS": 26.6666,
-  "githubRunId": "1765206164",
+  "timeMS": 3489.3882,
+  "timeStdDevMS": 17.107657768087144,
+  "memBytes": 36630528,
+  "cpuTimeMS": 3553.3333,
+  "cpuTimeUserMS": 3530.0,
+  "cpuTimeKernelMS": 23.3333,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "deno 1.18.1 (release, x86_64-unknown-linux-gnu)\nv8 9.8.177.6\ntypescript 4.5.2",
-    "start": "2022-01-29T14:04:19.756204+00:00",
-    "finished": "2022-01-29T14:04:20.9053832+00:00",
-    "durationMs": 1149
+    "start": "2022-01-31T05:47:09.6636326+00:00",
+    "finished": "2022-01-31T05:47:10.6866841+00:00",
+    "durationMs": 1023
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-29T14:27:25.9787615+00:00",
-    "finished": "2022-01-29T14:27:26.134559+00:00",
-    "durationMs": 155
+    "start": "2022-01-31T06:14:46.8019737+00:00",
+    "finished": "2022-01-31T06:14:46.9920063+00:00",
+    "durationMs": 190
   }
 }

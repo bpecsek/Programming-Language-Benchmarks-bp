@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.java",
   "input": "15",
-  "timeMS": 208.4603,
-  "timeStdDevMS": 7.615896565080201,
-  "memBytes": 231305216,
-  "cpuTimeMS": 239.9999,
-  "cpuTimeUserMS": 186.6666,
-  "cpuTimeKernelMS": 53.3333,
-  "githubRunId": "1765206164",
+  "timeMS": 213.7547,
+  "timeStdDevMS": 3.5115272607988213,
+  "memBytes": 231182336,
+  "cpuTimeMS": 246.6666,
+  "cpuTimeUserMS": 183.3333,
+  "cpuTimeKernelMS": 63.3333,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2022-01-29T14:05:47.7619168+00:00",
-    "finished": "2022-01-29T14:05:49.2194543+00:00",
-    "durationMs": 1457
+    "start": "2022-01-31T05:48:53.0620301+00:00",
+    "finished": "2022-01-31T05:48:54.7927634+00:00",
+    "durationMs": 1730
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+31-2049)\nOpenJDK 64-Bit Server VM (build 18-ea+31-2049, mixed mode, sharing)",
-    "start": "2022-01-29T14:25:26.1364389+00:00",
-    "finished": "2022-01-29T14:25:26.3423195+00:00",
-    "durationMs": 205
+    "start": "2022-01-31T06:12:43.9556933+00:00",
+    "finished": "2022-01-31T06:12:44.1778723+00:00",
+    "durationMs": 222
   }
 }
