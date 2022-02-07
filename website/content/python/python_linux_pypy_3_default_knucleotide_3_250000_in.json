@@ -7,23 +7,23 @@
   "test": "knucleotide",
   "code": "3.py",
   "input": "250000_in",
-  "timeMS": 772.5439,
-  "timeStdDevMS": 5.670623829291882,
-  "memBytes": 97751040,
-  "cpuTimeMS": 1173.3333,
-  "cpuTimeUserMS": 1053.3333,
+  "timeMS": 601.3504,
+  "timeStdDevMS": 28.01424089500437,
+  "memBytes": 93245440,
+  "cpuTimeMS": 980.0,
+  "cpuTimeUserMS": 860.0,
   "cpuTimeKernelMS": 120.0,
-  "githubRunId": "1771040648",
+  "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-31T05:47:07.2327726+00:00",
-    "finished": "2022-01-31T05:47:10.0657417+00:00",
-    "durationMs": 2832
+    "start": "2022-02-06T20:49:27.1100792+00:00",
+    "finished": "2022-02-06T20:49:30.1547932+00:00",
+    "durationMs": 3044
   },
   "testLog": {
-    "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2022-01-31T06:13:44.3159361+00:00",
-    "finished": "2022-01-31T06:13:45.3826736+00:00",
-    "durationMs": 1066
+    "runtimeVersion": "Python 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
+    "start": "2022-02-06T21:17:10.9451789+00:00",
+    "finished": "2022-02-06T21:17:11.7886095+00:00",
+    "durationMs": 843
   }
 }

@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "1.py",
   "input": "5000000",
-  "timeMS": 795.5407,
-  "timeStdDevMS": 6.910461530896439,
-  "memBytes": 79167488,
-  "cpuTimeMS": 783.3333,
-  "cpuTimeUserMS": 770.0,
-  "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1771040648",
+  "timeMS": 770.9629,
+  "timeStdDevMS": 2.9782211542014125,
+  "memBytes": 79515648,
+  "cpuTimeMS": 760.0,
+  "cpuTimeUserMS": 740.0,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-31T05:47:10.0661731+00:00",
-    "finished": "2022-01-31T05:47:11.6079974+00:00",
-    "durationMs": 1541
+    "start": "2022-02-06T20:49:30.1553157+00:00",
+    "finished": "2022-02-06T20:49:31.7141627+00:00",
+    "durationMs": 1558
   },
   "testLog": {
-    "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2022-01-31T06:13:45.3829435+00:00",
-    "finished": "2022-01-31T06:13:45.5399329+00:00",
-    "durationMs": 156
+    "runtimeVersion": "Python 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
+    "start": "2022-02-06T21:17:11.7888292+00:00",
+    "finished": "2022-02-06T21:17:11.9218898+00:00",
+    "durationMs": 133
   }
 }

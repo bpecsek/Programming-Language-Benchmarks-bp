@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.java",
   "input": "1000",
-  "timeMS": 1014.4381,
-  "timeStdDevMS": 146.11704652445582,
-  "memBytes": 106819584,
-  "cpuTimeMS": 1599.9999,
-  "cpuTimeUserMS": 1523.3333,
-  "cpuTimeKernelMS": 76.6666,
-  "githubRunId": "1771040648",
+  "timeMS": 801.072,
+  "timeStdDevMS": 81.44241400525479,
+  "memBytes": 120623104,
+  "cpuTimeMS": 1269.9999,
+  "cpuTimeUserMS": 1209.9999,
+  "cpuTimeKernelMS": 60.0,
+  "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "javac 19-loom",
-    "start": "2022-01-31T05:45:53.2947367+00:00",
-    "finished": "2022-01-31T05:45:54.5343308+00:00",
-    "durationMs": 1239
+    "start": "2022-02-06T20:48:47.8054493+00:00",
+    "finished": "2022-02-06T20:48:49.1625057+00:00",
+    "durationMs": 1357
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"19-loom\" 2022-09-20\nOpenJDK Runtime Environment (build 19-loom+2-58)\nOpenJDK 64-Bit Server VM (build 19-loom+2-58, mixed mode, sharing)",
-    "start": "2022-01-31T06:12:10.432368+00:00",
-    "finished": "2022-01-31T06:12:11.2265009+00:00",
-    "durationMs": 794
+    "runtimeVersion": "openjdk version \"19-loom\" 2022-09-20\nOpenJDK Runtime Environment (build 19-loom+3-89)\nOpenJDK 64-Bit Server VM (build 19-loom+3-89, mixed mode, sharing)",
+    "start": "2022-02-06T21:15:42.2932585+00:00",
+    "finished": "2022-02-06T21:15:43.0886258+00:00",
+    "durationMs": 795
   }
 }

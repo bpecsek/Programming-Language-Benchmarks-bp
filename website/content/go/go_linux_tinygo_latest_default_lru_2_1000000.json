@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "2.go",
   "input": "1000000",
-  "timeMS": 768.372,
-  "timeStdDevMS": 0.69283799934283,
-  "memBytes": 8192,
+  "timeMS": 768.8816,
+  "timeStdDevMS": 1.1986133613471677,
+  "memBytes": 2105344,
   "cpuTimeMS": 760.0,
   "cpuTimeUserMS": 760.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1771040648",
+  "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "tinygo version 0.22.0 linux/amd64 (using go version go1.17.6 and LLVM version 13.0.0)",
-    "start": "2022-01-31T05:48:19.3568779+00:00",
-    "finished": "2022-01-31T05:48:37.8076084+00:00",
-    "durationMs": 18450
+    "start": "2022-02-06T20:50:52.1980335+00:00",
+    "finished": "2022-02-06T20:51:10.5139417+00:00",
+    "durationMs": 18315
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-31T06:12:00.4560738+00:00",
-    "finished": "2022-01-31T06:12:00.4690066+00:00",
-    "durationMs": 12
+    "start": "2022-02-06T21:15:32.7315722+00:00",
+    "finished": "2022-02-06T21:15:32.7446992+00:00",
+    "durationMs": 13
   }
 }

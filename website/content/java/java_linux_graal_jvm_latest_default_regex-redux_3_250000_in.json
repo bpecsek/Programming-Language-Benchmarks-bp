@@ -7,23 +7,23 @@
   "test": "regex-redux",
   "code": "3.java",
   "input": "250000_in",
-  "timeMS": 1216.7587,
-  "timeStdDevMS": 188.7610614207549,
-  "memBytes": 333578240,
-  "cpuTimeMS": 1929.9999,
-  "cpuTimeUserMS": 1783.3333,
-  "cpuTimeKernelMS": 146.6666,
-  "githubRunId": "1771040648",
+  "timeMS": 1089.576,
+  "timeStdDevMS": 11.100669252947556,
+  "memBytes": 206528512,
+  "cpuTimeMS": 1589.9999,
+  "cpuTimeUserMS": 1513.3333,
+  "cpuTimeKernelMS": 76.6666,
+  "githubRunId": "1803400893",
   "buildLog": {
-    "compilerVersion": "javac 17.0.1",
-    "start": "2022-01-31T05:46:25.6362322+00:00",
-    "finished": "2022-01-31T05:46:30.3317988+00:00",
-    "durationMs": 4695
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-02-06T20:51:56.315489+00:00",
+    "finished": "2022-02-06T20:52:00.8126031+00:00",
+    "durationMs": 4497
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
-    "start": "2022-01-31T06:12:23.3308078+00:00",
-    "finished": "2022-01-31T06:12:25.0742372+00:00",
-    "durationMs": 1743
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05, mixed mode, sharing)",
+    "start": "2022-02-06T21:16:13.2943006+00:00",
+    "finished": "2022-02-06T21:16:15.1297133+00:00",
+    "durationMs": 1835
   }
 }

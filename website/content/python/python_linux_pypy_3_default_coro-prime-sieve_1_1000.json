@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.py",
   "input": "1000",
-  "timeMS": 324.5937,
-  "timeStdDevMS": 19.551149004683424,
-  "memBytes": 94691328,
-  "cpuTimeMS": 306.6666,
-  "cpuTimeUserMS": 283.3333,
-  "cpuTimeKernelMS": 23.3333,
-  "githubRunId": "1771040648",
+  "timeMS": 264.1607,
+  "timeStdDevMS": 2.6155942925716458,
+  "memBytes": 95154176,
+  "cpuTimeMS": 246.6666,
+  "cpuTimeUserMS": 226.6666,
+  "cpuTimeKernelMS": 20.0,
+  "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-31T05:47:04.1539373+00:00",
-    "finished": "2022-01-31T05:47:04.5815658+00:00",
-    "durationMs": 427
+    "start": "2022-02-06T20:49:23.5877038+00:00",
+    "finished": "2022-02-06T20:49:24.0890918+00:00",
+    "durationMs": 501
   },
   "testLog": {
-    "runtimeVersion": "Python 3.7.12 (44db26267d0a, Oct 24 2021, 14:21:50)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
-    "start": "2022-01-31T06:13:40.2634637+00:00",
-    "finished": "2022-01-31T06:13:40.8910448+00:00",
-    "durationMs": 627
+    "runtimeVersion": "Python 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)\n[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]",
+    "start": "2022-02-06T21:17:08.2465061+00:00",
+    "finished": "2022-02-06T21:17:08.8447138+00:00",
+    "durationMs": 598
   }
 }

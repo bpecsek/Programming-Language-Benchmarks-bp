@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.java",
   "input": "11",
-  "timeMS": 1558.9529,
-  "timeStdDevMS": 59.356556353728195,
-  "memBytes": 113082368,
-  "cpuTimeMS": 2966.6666,
-  "cpuTimeUserMS": 2896.6666,
-  "cpuTimeKernelMS": 70.0,
-  "githubRunId": "1771040648",
+  "timeMS": 1461.1352,
+  "timeStdDevMS": 30.392979816562846,
+  "memBytes": 120991744,
+  "cpuTimeMS": 2790.0,
+  "cpuTimeUserMS": 2760.0,
+  "cpuTimeKernelMS": 30.0,
+  "githubRunId": "1803400893",
   "buildLog": {
-    "compilerVersion": "javac 17.0.1",
-    "start": "2022-01-31T05:45:59.8108603+00:00",
-    "finished": "2022-01-31T05:46:01.8510588+00:00",
-    "durationMs": 2040
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-02-06T20:51:31.4671659+00:00",
+    "finished": "2022-02-06T20:51:33.5577389+00:00",
+    "durationMs": 2090
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
-    "start": "2022-01-31T06:12:12.8525062+00:00",
-    "finished": "2022-01-31T06:12:13.9008898+00:00",
-    "durationMs": 1048
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05, mixed mode, sharing)",
+    "start": "2022-02-06T21:16:03.793467+00:00",
+    "finished": "2022-02-06T21:16:04.8309999+00:00",
+    "durationMs": 1037
   }
 }

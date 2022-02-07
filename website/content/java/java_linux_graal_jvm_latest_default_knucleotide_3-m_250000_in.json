@@ -7,23 +7,23 @@
   "test": "knucleotide",
   "code": "3-m.java",
   "input": "250000_in",
-  "timeMS": 1140.5541,
-  "timeStdDevMS": 100.70357417591177,
-  "memBytes": 341946368,
-  "cpuTimeMS": 1753.3332,
-  "cpuTimeUserMS": 1606.6666,
-  "cpuTimeKernelMS": 146.6666,
-  "githubRunId": "1771040648",
+  "timeMS": 1188.4874,
+  "timeStdDevMS": 244.08389995582115,
+  "memBytes": 184598528,
+  "cpuTimeMS": 1836.6666,
+  "cpuTimeUserMS": 1760.0,
+  "cpuTimeKernelMS": 76.6666,
+  "githubRunId": "1803400893",
   "buildLog": {
-    "compilerVersion": "javac 17.0.1",
-    "start": "2022-01-31T05:46:05.8401363+00:00",
-    "finished": "2022-01-31T05:46:10.7792963+00:00",
-    "durationMs": 4939
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-02-06T20:51:37.6348662+00:00",
+    "finished": "2022-02-06T20:51:42.0068275+00:00",
+    "durationMs": 4371
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
-    "start": "2022-01-31T06:12:15.2574764+00:00",
-    "finished": "2022-01-31T06:12:17.3988317+00:00",
-    "durationMs": 2141
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05, mixed mode, sharing)",
+    "start": "2022-02-06T21:16:05.5044663+00:00",
+    "finished": "2022-02-06T21:16:07.2327155+00:00",
+    "durationMs": 1728
   }
 }

@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.java",
   "input": "15",
-  "timeMS": 640.8225,
-  "timeStdDevMS": 56.07974586428973,
-  "memBytes": 255291392,
-  "cpuTimeMS": 493.3333,
-  "cpuTimeUserMS": 413.3333,
+  "timeMS": 607.5111,
+  "timeStdDevMS": 12.302857122365268,
+  "memBytes": 254341120,
+  "cpuTimeMS": 489.9999,
+  "cpuTimeUserMS": 409.9999,
   "cpuTimeKernelMS": 80.0,
-  "githubRunId": "1771040648",
+  "githubRunId": "1803400893",
   "buildLog": {
-    "compilerVersion": "javac 17.0.1",
-    "start": "2022-01-31T05:46:15.5450967+00:00",
-    "finished": "2022-01-31T05:46:17.59754+00:00",
-    "durationMs": 2052
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-02-06T20:51:46.1875397+00:00",
+    "finished": "2022-02-06T20:51:48.2215741+00:00",
+    "durationMs": 2034
   },
   "testLog": {
-    "runtimeVersion": "openjdk version \"17.0.1\" 2021-10-19\nOpenJDK Runtime Environment GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 21.3.0 (build 17.0.1+12-jvmci-21.3-b05, mixed mode, sharing)",
-    "start": "2022-01-31T06:12:20.2364521+00:00",
-    "finished": "2022-01-31T06:12:21.1525219+00:00",
-    "durationMs": 916
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05, mixed mode, sharing)",
+    "start": "2022-02-06T21:16:10.0419683+00:00",
+    "finished": "2022-02-06T21:16:10.9377253+00:00",
+    "durationMs": 895
   }
 }

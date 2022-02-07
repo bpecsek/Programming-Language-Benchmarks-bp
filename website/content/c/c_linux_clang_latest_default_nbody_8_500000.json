@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "lang": "c",
+  "os": "linux",
+  "compiler": "clang",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "8.c",
+  "input": "500000",
+  "timeMS": 36.4267,
+  "timeStdDevMS": 0.7443672906121924,
+  "memBytes": 1388544,
+  "cpuTimeMS": 26.6666,
+  "cpuTimeUserMS": 26.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1803400893",
+  "buildLog": {
+    "compilerVersion": "Ubuntu clang version 14.0.0-++20220206083011+c7bca45103e3-1~exp1~20220206083108.12\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2022-02-06T20:48:34.3505934+00:00",
+    "finished": "2022-02-06T20:48:34.8213099+00:00",
+    "durationMs": 470
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-02-06T21:15:03.6491685+00:00",
+    "finished": "2022-02-06T21:15:03.6573677+00:00",
+    "durationMs": 8
+  }
+}
