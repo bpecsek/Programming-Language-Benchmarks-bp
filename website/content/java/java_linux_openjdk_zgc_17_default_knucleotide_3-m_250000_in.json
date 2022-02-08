@@ -7,23 +7,23 @@
   "test": "knucleotide",
   "code": "3-m.java",
   "input": "250000_in",
-  "timeMS": 426.9416,
-  "timeStdDevMS": 13.054988600658865,
-  "memBytes": 96985088,
-  "cpuTimeMS": 696.6666,
-  "cpuTimeUserMS": 610.0,
-  "cpuTimeKernelMS": 86.6666,
+  "timeMS": 426.0126,
+  "timeStdDevMS": 20.782546638706243,
+  "memBytes": 98586624,
+  "cpuTimeMS": 689.9999,
+  "cpuTimeUserMS": 583.3333,
+  "cpuTimeKernelMS": 106.6666,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "javac 17.0.2",
-    "start": "2022-02-06T20:49:45.7343393+00:00",
-    "finished": "2022-02-06T20:49:49.8669223+00:00",
-    "durationMs": 4132
+    "start": "2022-02-07T15:10:41.8130935+00:00",
+    "finished": "2022-02-07T15:10:45.7334826+00:00",
+    "durationMs": 3920
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
-    "start": "2022-02-06T21:15:49.1689931+00:00",
-    "finished": "2022-02-06T21:15:49.9083039+00:00",
-    "durationMs": 739
+    "start": "2022-02-07T15:40:37.027286+00:00",
+    "finished": "2022-02-07T15:40:37.8383207+00:00",
+    "durationMs": 811
   }
 }

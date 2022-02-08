@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "4-m.java",
   "input": "2000",
-  "timeMS": 622.9271,
-  "timeStdDevMS": 21.55688545252615,
-  "memBytes": 98988032,
-  "cpuTimeMS": 516.6666,
-  "cpuTimeUserMS": 480.0,
-  "cpuTimeKernelMS": 36.6666,
+  "timeMS": 642.2665,
+  "timeStdDevMS": 26.752789803370643,
+  "memBytes": 102285312,
+  "cpuTimeMS": 546.6666,
+  "cpuTimeUserMS": 506.6666,
+  "cpuTimeKernelMS": 40.0,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "javac 17.0.2",
-    "start": "2022-02-06T20:51:44.1075878+00:00",
-    "finished": "2022-02-06T20:51:46.1871835+00:00",
-    "durationMs": 2079
+    "start": "2022-02-07T15:12:33.7883312+00:00",
+    "finished": "2022-02-07T15:12:35.7667008+00:00",
+    "durationMs": 1978
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05, mixed mode, sharing)",
-    "start": "2022-02-06T21:16:08.6354007+00:00",
-    "finished": "2022-02-06T21:16:10.0417462+00:00",
-    "durationMs": 1406
+    "start": "2022-02-07T15:40:56.8633312+00:00",
+    "finished": "2022-02-07T15:40:58.3070428+00:00",
+    "durationMs": 1443
   }
 }

@@ -7,23 +7,23 @@
   "test": "lru",
   "code": "1.rb",
   "input": "1000000",
-  "timeMS": 1410.1583,
-  "timeStdDevMS": 36.24017021680947,
-  "memBytes": 317034496,
-  "cpuTimeMS": 2416.6666,
-  "cpuTimeUserMS": 2293.3333,
-  "cpuTimeKernelMS": 123.3333,
+  "timeMS": 1441.6235,
+  "timeStdDevMS": 21.827004232677634,
+  "memBytes": 319315968,
+  "cpuTimeMS": 2433.3333,
+  "cpuTimeUserMS": 2330.0,
+  "cpuTimeKernelMS": 103.3333,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-02-06T20:49:26.8152669+00:00",
-    "finished": "2022-02-06T20:49:26.8262007+00:00",
-    "durationMs": 10
+    "start": "2022-02-07T15:11:14.7005044+00:00",
+    "finished": "2022-02-07T15:11:14.7073289+00:00",
+    "durationMs": 6
   },
   "testLog": {
     "runtimeVersion": "truffleruby 22.0.0.2, like ruby 3.0.2, GraalVM CE Native [x86_64-linux]",
-    "start": "2022-02-06T21:17:26.9974105+00:00",
-    "finished": "2022-02-06T21:17:27.3411499+00:00",
-    "durationMs": 343
+    "start": "2022-02-07T15:42:19.7185071+00:00",
+    "finished": "2022-02-07T15:42:20.0745524+00:00",
+    "durationMs": 356
   }
 }

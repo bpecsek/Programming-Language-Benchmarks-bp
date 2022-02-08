@@ -7,23 +7,23 @@
   "test": "knucleotide",
   "code": "3.chpl",
   "input": "250000_in",
-  "timeMS": 166.3812,
-  "timeStdDevMS": 12.151784501600284,
-  "memBytes": 77180928,
-  "cpuTimeMS": 279.9999,
-  "cpuTimeUserMS": 253.3333,
-  "cpuTimeKernelMS": 26.6666,
+  "timeMS": 176.5782,
+  "timeStdDevMS": 13.08465017351756,
+  "memBytes": 51736576,
+  "cpuTimeMS": 300.0,
+  "cpuTimeUserMS": 280.0,
+  "cpuTimeKernelMS": 20.0,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2022-02-06T20:49:29.119624+00:00",
-    "finished": "2022-02-06T20:49:50.6931408+00:00",
-    "durationMs": 21573
+    "start": "2022-02-07T15:11:04.1770902+00:00",
+    "finished": "2022-02-07T15:11:29.5335195+00:00",
+    "durationMs": 25356
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-06T21:15:04.3251261+00:00",
-    "finished": "2022-02-06T21:15:04.6080977+00:00",
-    "durationMs": 282
+    "start": "2022-02-07T15:39:39.5253746+00:00",
+    "finished": "2022-02-07T15:39:39.793295+00:00",
+    "durationMs": 267
   }
 }

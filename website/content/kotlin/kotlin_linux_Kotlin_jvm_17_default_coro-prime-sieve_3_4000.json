@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "3.kt",
   "input": "4000",
-  "timeMS": 645.551,
-  "timeStdDevMS": 40.54840629531564,
-  "memBytes": 126595072,
-  "cpuTimeMS": 639.9999,
-  "cpuTimeUserMS": 573.3333,
-  "cpuTimeKernelMS": 66.6666,
+  "timeMS": 582.7903,
+  "timeStdDevMS": 22.30695500115014,
+  "memBytes": 127389696,
+  "cpuTimeMS": 643.3333,
+  "cpuTimeUserMS": 580.0,
+  "cpuTimeKernelMS": 63.3333,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-02-06T21:00:09.7934504+00:00",
-    "finished": "2022-02-06T21:00:16.3719406+00:00",
-    "durationMs": 6578
+    "start": "2022-02-07T15:22:20.9700666+00:00",
+    "finished": "2022-02-07T15:22:28.5878143+00:00",
+    "durationMs": 7617
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
-    "start": "2022-02-06T21:16:46.4528703+00:00",
-    "finished": "2022-02-06T21:16:46.6931977+00:00",
-    "durationMs": 240
+    "start": "2022-02-07T15:41:36.5414067+00:00",
+    "finished": "2022-02-07T15:41:36.7715518+00:00",
+    "durationMs": 230
   }
 }

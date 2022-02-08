@@ -7,23 +7,23 @@
   "test": "json-serde",
   "code": "1.ts",
   "input": "sample 5000",
-  "timeMS": 177.0974,
-  "timeStdDevMS": 0.6742969103691395,
-  "memBytes": 63242240,
+  "timeMS": 173.0504,
+  "timeStdDevMS": 6.159060730609295,
+  "memBytes": 63463424,
   "cpuTimeMS": 276.6666,
-  "cpuTimeUserMS": 260.0,
-  "cpuTimeKernelMS": 16.6666,
+  "cpuTimeUserMS": 253.3333,
+  "cpuTimeKernelMS": 23.3333,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "deno 1.18.2 (release, x86_64-unknown-linux-gnu)\nv8 9.8.177.6\ntypescript 4.5.2",
-    "start": "2022-02-06T20:49:46.6128994+00:00",
-    "finished": "2022-02-06T20:49:48.1319269+00:00",
-    "durationMs": 1519
+    "start": "2022-02-07T15:11:11.8855759+00:00",
+    "finished": "2022-02-07T15:11:13.5200209+00:00",
+    "durationMs": 1634
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-06T21:18:07.5822091+00:00",
-    "finished": "2022-02-06T21:18:08.1266896+00:00",
-    "durationMs": 544
+    "start": "2022-02-07T15:43:03.5305922+00:00",
+    "finished": "2022-02-07T15:43:04.0738665+00:00",
+    "durationMs": 543
   }
 }

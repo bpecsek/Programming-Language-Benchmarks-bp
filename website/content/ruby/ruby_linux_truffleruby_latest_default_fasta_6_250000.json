@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "6.rb",
   "input": "250000",
-  "timeMS": 3106.2718,
-  "timeStdDevMS": 240.12925985458352,
-  "memBytes": 317120512,
-  "cpuTimeMS": 3259.9999,
-  "cpuTimeUserMS": 2933.3333,
-  "cpuTimeKernelMS": 326.6666,
+  "timeMS": 3271.6498,
+  "timeStdDevMS": 256.79734122557295,
+  "memBytes": 365023232,
+  "cpuTimeMS": 3526.6666,
+  "cpuTimeUserMS": 3196.6666,
+  "cpuTimeKernelMS": 330.0,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-02-06T20:49:26.7962235+00:00",
-    "finished": "2022-02-06T20:49:26.8036929+00:00",
-    "durationMs": 7
+    "start": "2022-02-07T15:11:14.683691+00:00",
+    "finished": "2022-02-07T15:11:14.688334+00:00",
+    "durationMs": 4
   },
   "testLog": {
     "runtimeVersion": "truffleruby 22.0.0.2, like ruby 3.0.2, GraalVM CE Native [x86_64-linux]",
-    "start": "2022-02-06T21:17:16.9238465+00:00",
-    "finished": "2022-02-06T21:17:17.0219776+00:00",
-    "durationMs": 98
+    "start": "2022-02-07T15:42:08.6968925+00:00",
+    "finished": "2022-02-07T15:42:08.8076251+00:00",
+    "durationMs": 110
   }
 }

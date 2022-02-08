@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.ts",
   "input": "15",
-  "timeMS": 180.231,
-  "timeStdDevMS": 1.9768698464997532,
-  "memBytes": 56082432,
-  "cpuTimeMS": 190.0,
-  "cpuTimeUserMS": 180.0,
-  "cpuTimeKernelMS": 10.0,
+  "timeMS": 196.6845,
+  "timeStdDevMS": 2.0461272500344045,
+  "memBytes": 56250368,
+  "cpuTimeMS": 203.3333,
+  "cpuTimeUserMS": 190.0,
+  "cpuTimeKernelMS": 13.3333,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "deno 1.18.2 (release, x86_64-unknown-linux-gnu)\nv8 9.8.177.6\ntypescript 4.5.2",
-    "start": "2022-02-06T20:49:48.8868585+00:00",
-    "finished": "2022-02-06T20:49:49.6025526+00:00",
-    "durationMs": 715
+    "start": "2022-02-07T15:11:14.6326453+00:00",
+    "finished": "2022-02-07T15:11:15.5055412+00:00",
+    "durationMs": 872
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-06T21:18:08.3035848+00:00",
-    "finished": "2022-02-06T21:18:08.4949847+00:00",
-    "durationMs": 191
+    "start": "2022-02-07T15:43:04.2420433+00:00",
+    "finished": "2022-02-07T15:43:04.4085367+00:00",
+    "durationMs": 166
   }
 }

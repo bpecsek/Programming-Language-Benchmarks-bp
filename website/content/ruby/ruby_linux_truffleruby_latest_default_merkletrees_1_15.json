@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.rb",
   "input": "15",
-  "timeMS": 3515.2145,
-  "timeStdDevMS": 47.78888903524882,
-  "memBytes": 539242496,
-  "cpuTimeMS": 6696.6666,
-  "cpuTimeUserMS": 6506.6666,
-  "cpuTimeKernelMS": 190.0,
+  "timeMS": 3795.16,
+  "timeStdDevMS": 108.28279008726766,
+  "memBytes": 600600576,
+  "cpuTimeMS": 7210.0,
+  "cpuTimeUserMS": 6930.0,
+  "cpuTimeKernelMS": 280.0,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-02-06T20:49:26.8514491+00:00",
-    "finished": "2022-02-06T20:49:26.8555356+00:00",
-    "durationMs": 4
+    "start": "2022-02-07T15:11:14.7092059+00:00",
+    "finished": "2022-02-07T15:11:14.7308897+00:00",
+    "durationMs": 21
   },
   "testLog": {
     "runtimeVersion": "truffleruby 22.0.0.2, like ruby 3.0.2, GraalVM CE Native [x86_64-linux]",
-    "start": "2022-02-06T21:17:27.3413811+00:00",
-    "finished": "2022-02-06T21:17:28.0260151+00:00",
-    "durationMs": 684
+    "start": "2022-02-07T15:42:20.0748345+00:00",
+    "finished": "2022-02-07T15:42:20.7952539+00:00",
+    "durationMs": 720
   }
 }

@@ -7,23 +7,23 @@
   "test": "mandelbrot",
   "code": "4-m.java",
   "input": "2000",
-  "timeMS": 249.8826,
-  "timeStdDevMS": 6.483561316385708,
-  "memBytes": 44642304,
-  "cpuTimeMS": 410.0,
-  "cpuTimeUserMS": 400.0,
-  "cpuTimeKernelMS": 10.0,
+  "timeMS": 265.7874,
+  "timeStdDevMS": 9.39375477165545,
+  "memBytes": 44732416,
+  "cpuTimeMS": 423.3332,
+  "cpuTimeUserMS": 409.9999,
+  "cpuTimeKernelMS": 13.3333,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2022-02-06T20:51:09.6039262+00:00",
-    "finished": "2022-02-06T20:51:11.4149233+00:00",
-    "durationMs": 1810
+    "start": "2022-02-07T15:12:01.5816229+00:00",
+    "finished": "2022-02-07T15:12:03.2540773+00:00",
+    "durationMs": 1672
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+33-2077)\nOpenJDK 64-Bit Server VM (build 18-ea+33-2077, mixed mode, sharing)",
-    "start": "2022-02-06T21:16:00.0950407+00:00",
-    "finished": "2022-02-06T21:16:00.4327517+00:00",
-    "durationMs": 337
+    "start": "2022-02-07T15:40:48.1742716+00:00",
+    "finished": "2022-02-07T15:40:48.549604+00:00",
+    "durationMs": 375
   }
 }

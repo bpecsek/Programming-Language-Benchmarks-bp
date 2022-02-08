@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.kt",
   "input": "1000",
-  "timeMS": 1868.6262,
-  "timeStdDevMS": 25.005116814964108,
-  "memBytes": 8118272,
-  "cpuTimeMS": 1846.6666,
-  "cpuTimeUserMS": 1840.0,
+  "timeMS": 1887.3998,
+  "timeStdDevMS": 15.055000771283124,
+  "memBytes": 7880704,
+  "cpuTimeMS": 1863.3332,
+  "cpuTimeUserMS": 1856.6666,
   "cpuTimeKernelMS": 6.6666,
   "githubRunId": "1803400893",
   "buildLog": {
     "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.13+8)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 1s\n1 actionable task: 1 executed",
-    "start": "2022-02-06T20:50:34.8084522+00:00",
-    "finished": "2022-02-06T20:51:42.569802+00:00",
-    "durationMs": 67761
+    "start": "2022-02-07T15:12:16.2517873+00:00",
+    "finished": "2022-02-07T15:13:23.9889+00:00",
+    "durationMs": 67737
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-06T21:16:40.5008527+00:00",
-    "finished": "2022-02-06T21:16:42.3676378+00:00",
-    "durationMs": 1866
+    "start": "2022-02-07T15:41:30.4373973+00:00",
+    "finished": "2022-02-07T15:41:32.333773+00:00",
+    "durationMs": 1896
   }
 }
