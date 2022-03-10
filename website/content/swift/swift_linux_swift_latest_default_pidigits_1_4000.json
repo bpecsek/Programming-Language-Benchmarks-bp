@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "swift",
   "os": "linux",
   "compiler": "swift",
@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "1.swift",
   "input": "4000",
-  "timeMS": 3175.9009,
-  "timeStdDevMS": 6.854412246381115,
-  "memBytes": 6332416,
-  "cpuTimeMS": 3163.3333,
-  "cpuTimeUserMS": 3163.3333,
+  "timeMS": 3019.8311,
+  "timeStdDevMS": 11.501601275619958,
+  "memBytes": 6574080,
+  "cpuTimeMS": 2999.9999,
+  "cpuTimeUserMS": 2999.9999,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1803400893",
+  "githubRunId": "1962355563",
   "buildLog": {
-    "compilerVersion": "Swift version 5.5.2 (swift-5.5.2-RELEASE)\nTarget: x86_64-unknown-linux-gnu",
-    "start": "2022-02-07T15:12:53.5898883+00:00",
-    "finished": "2022-02-07T15:13:10.2155272+00:00",
-    "durationMs": 16625
+    "compilerVersion": "Swift version 5.5.3 (swift-5.5.3-RELEASE)\nTarget: x86_64-unknown-linux-gnu",
+    "start": "2022-03-10T09:55:33.7866589+00:00",
+    "finished": "2022-03-10T09:55:59.5787343+00:00",
+    "durationMs": 25792
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:43:02.5196679+00:00",
-    "finished": "2022-02-07T15:43:02.5516778+00:00",
-    "durationMs": 32
+    "start": "2022-03-10T10:20:10.1564667+00:00",
+    "finished": "2022-03-10T10:20:10.1848902+00:00",
+    "durationMs": 28
   }
 }

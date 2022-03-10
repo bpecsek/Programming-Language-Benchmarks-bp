@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk",
+  "compilerVersion": "19",
+  "test": "fannkuch-redux",
+  "code": "1.java",
+  "input": "10",
+  "timeMS": 264.8109,
+  "timeStdDevMS": 4.797501372937116,
+  "memBytes": 40640512,
+  "cpuTimeMS": 450.0,
+  "cpuTimeUserMS": 440.0,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "javac 19-ea",
+    "start": "2022-03-10T09:53:30.4033882+00:00",
+    "finished": "2022-03-10T09:53:31.6532384+00:00",
+    "durationMs": 1249
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"19-ea\" 2022-09-20\nOpenJDK Runtime Environment (build 19-ea+12-732)\nOpenJDK 64-Bit Server VM (build 19-ea+12-732, mixed mode, sharing)",
+    "start": "2022-03-10T10:18:28.2516106+00:00",
+    "finished": "2022-03-10T10:18:28.6647936+00:00",
+    "durationMs": 413
+  }
+}

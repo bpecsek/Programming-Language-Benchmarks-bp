@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "php",
+  "os": "linux",
+  "compiler": "php",
+  "compilerVersion": "latest",
+  "test": "helloworld",
+  "code": "1.php",
+  "input": "QwQ",
+  "timeMS": 39.7445,
+  "timeStdDevMS": 1.6560607032956238,
+  "memBytes": 50221056,
+  "cpuTimeMS": 26.0,
+  "cpuTimeUserMS": 12.0,
+  "cpuTimeKernelMS": 14.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-03-10T09:53:08.2142094+00:00",
+    "finished": "2022-03-10T09:53:08.3096696+00:00",
+    "durationMs": 95
+  },
+  "testLog": {
+    "runtimeVersion": "PHP 8.1.3 (cli) (built: Feb 21 2022 14:48:42) (NTS)\nCopyright (c) The PHP Group\nZend Engine v4.1.3, Copyright (c) Zend Technologies\n    with Zend OPcache v8.1.3, Copyright (c), by Zend Technologies\n    with Xdebug v3.1.2, Copyright (c) 2002-2021, by Derick Rethans",
+    "start": "2022-03-10T10:19:23.4254356+00:00",
+    "finished": "2022-03-10T10:19:23.5422871+00:00",
+    "durationMs": 116
+  }
+}

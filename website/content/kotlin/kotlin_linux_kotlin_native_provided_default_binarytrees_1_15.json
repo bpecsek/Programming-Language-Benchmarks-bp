@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "kotlin",
+  "os": "linux",
+  "compiler": "kotlin/native",
+  "compilerVersion": "provided",
+  "test": "binarytrees",
+  "code": "1.kt",
+  "input": "15",
+  "timeMS": 749.4582,
+  "timeStdDevMS": 3.525277352682012,
+  "memBytes": 150736896,
+  "cpuTimeMS": 736.6665,
+  "cpuTimeUserMS": 689.9999,
+  "cpuTimeKernelMS": 46.6666,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.14.1+1)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.4/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 1s\n1 actionable task: 1 executed",
+    "start": "2022-03-10T09:51:35.0333663+00:00",
+    "finished": "2022-03-10T09:53:45.8871413+00:00",
+    "durationMs": 130853
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-03-10T10:19:06.3013557+00:00",
+    "finished": "2022-03-10T10:19:06.3274814+00:00",
+    "durationMs": 26
+  }
+}

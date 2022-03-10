@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "csharp",
   "os": "linux",
   "compiler": "mono",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "8.cs",
   "input": "500000",
-  "timeMS": 146.1948,
-  "timeStdDevMS": 0.700626036722396,
-  "memBytes": 26472448,
-  "cpuTimeMS": 133.3332,
-  "cpuTimeUserMS": 126.6666,
-  "cpuTimeKernelMS": 6.6666,
-  "githubRunId": "1803400893",
+  "timeMS": 139.0753,
+  "timeStdDevMS": 6.194425432865691,
+  "memBytes": 26451968,
+  "cpuTimeMS": 123.3333,
+  "cpuTimeUserMS": 123.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1962355563",
   "buildLog": {
     "compilerVersion": "Mono JIT compiler version 6.12.0.122 (tarball Mon Feb 22 17:42:49 UTC 2021)\nCopyright (C) 2002-2014 Novell, Inc, Xamarin Inc and Contributors. www.mono-project.com\n\tTLS:           __thread\n\tSIGSEGV:       altstack\n\tNotifications: epoll\n\tArchitecture:  amd64\n\tDisabled:      none\n\tMisc:          softdebug \n\tInterpreter:   yes\n\tLLVM:          yes(610)\n\tSuspend:       hybrid\n\tGC:            sgen (concurrent by default)",
-    "start": "2022-02-07T15:09:45.4764765+00:00",
-    "finished": "2022-02-07T15:09:47.8912598+00:00",
-    "durationMs": 2414
+    "start": "2022-03-10T09:53:44.7371346+00:00",
+    "finished": "2022-03-10T09:53:46.90999+00:00",
+    "durationMs": 2172
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:39:41.9196404+00:00",
-    "finished": "2022-02-07T15:39:42.0247497+00:00",
-    "durationMs": 105
+    "start": "2022-03-10T10:17:35.8600114+00:00",
+    "finished": "2022-03-10T10:17:35.9340091+00:00",
+    "durationMs": 73
   }
 }

@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "c",
+  "os": "linux",
+  "compiler": "gcc",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "6-im.c",
+  "input": "4000",
+  "timeMS": 401.989,
+  "timeStdDevMS": 1.1590515993691446,
+  "memBytes": 1253376,
+  "cpuTimeMS": 770.0,
+  "cpuTimeUserMS": 770.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "gcc (GCC) 11.2.0\nCopyright (C) 2021 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
+    "start": "2022-03-10T09:53:39.0993647+00:00",
+    "finished": "2022-03-10T09:53:43.8074479+00:00",
+    "durationMs": 4708
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-03-10T10:17:29.1586854+00:00",
+    "finished": "2022-03-10T10:17:29.1623548+00:00",
+    "durationMs": 3
+  }
+}

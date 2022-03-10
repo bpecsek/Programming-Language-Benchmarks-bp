@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "csharp",
+  "os": "linux",
+  "compiler": "dotnet",
+  "compilerVersion": "6",
+  "test": "lru",
+  "code": "1.cs",
+  "input": "1000 3000000",
+  "timeMS": 4611.2391,
+  "timeStdDevMS": 35.71564799374784,
+  "memBytes": 93331456,
+  "cpuTimeMS": 4590.0,
+  "cpuTimeUserMS": 4560.0,
+  "cpuTimeKernelMS": 30.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "6.0.201",
+    "start": "2022-03-10T09:57:45.7282231+00:00",
+    "finished": "2022-03-10T09:58:13.0920004+00:00",
+    "durationMs": 27363
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-03-10T10:17:42.2916041+00:00",
+    "finished": "2022-03-10T10:17:42.5906586+00:00",
+    "durationMs": 299
+  }
+}

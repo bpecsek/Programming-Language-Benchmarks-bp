@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "ocaml",
+  "os": "linux",
+  "compiler": "ocaml",
+  "compilerVersion": "latest",
+  "test": "merkletrees",
+  "code": "1.ml",
+  "input": "15",
+  "timeMS": 201.1657,
+  "timeStdDevMS": 0.8641003954016672,
+  "memBytes": 19533824,
+  "cpuTimeMS": 189.9999,
+  "cpuTimeUserMS": 186.6666,
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "The OCaml toplevel, version 4.13.1",
+    "start": "2022-03-10T09:57:07.2058578+00:00",
+    "finished": "2022-03-10T09:57:46.9273024+00:00",
+    "durationMs": 39721
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-03-10T10:19:22.1213099+00:00",
+    "finished": "2022-03-10T10:19:22.1326583+00:00",
+    "durationMs": 11
+  }
+}

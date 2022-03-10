@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "cpp",
   "os": "linux",
   "compiler": "clang++",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.cpp",
   "input": "QwQ",
-  "timeMS": 1.8669,
-  "timeStdDevMS": 0.381578862097994,
-  "memBytes": 2490368,
+  "timeMS": 1.7546,
+  "timeStdDevMS": 0.07524438849508984,
+  "memBytes": 1212416,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1803400893",
+  "githubRunId": "1962355563",
   "buildLog": {
-    "compilerVersion": "Ubuntu clang version 14.0.0-++20220207103515+20ea9e379984-1~exp1~20220207103526.13\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
-    "start": "2022-02-07T15:10:16.4796287+00:00",
-    "finished": "2022-02-07T15:10:16.6346722+00:00",
-    "durationMs": 155
+    "compilerVersion": "Ubuntu clang version 14.0.0-++20220309053128+569b773323a3-1~exp1~20220309053228.98\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2022-03-10T09:52:24.1350546+00:00",
+    "finished": "2022-03-10T09:52:24.2931056+00:00",
+    "durationMs": 158
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:39:40.3511247+00:00",
-    "finished": "2022-02-07T15:39:40.3589643+00:00",
-    "durationMs": 7
+    "start": "2022-03-10T10:17:30.401659+00:00",
+    "finished": "2022-03-10T10:17:30.4064592+00:00",
+    "durationMs": 4
   }
 }

@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "ruby",
+  "os": "linux",
+  "compiler": "truffleruby",
+  "compilerVersion": "latest",
+  "test": "spectral-norm",
+  "code": "4.rb",
+  "input": "8000",
+  "timeMS": 0.0,
+  "timeStdDevMS": 0.0,
+  "memBytes": 0,
+  "cpuTimeMS": 0.0,
+  "cpuTimeUserMS": 0.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-03-10T09:53:43.9989469+00:00",
+    "finished": "2022-03-10T09:53:44.0019385+00:00",
+    "durationMs": 2
+  },
+  "testLog": {
+    "runtimeVersion": "truffleruby 22.0.0.2, like ruby 3.0.2, GraalVM CE Native [x86_64-linux]",
+    "start": "2022-03-10T10:19:54.2158977+00:00",
+    "finished": "2022-03-10T10:19:54.4383981+00:00",
+    "durationMs": 222
+  }
+}

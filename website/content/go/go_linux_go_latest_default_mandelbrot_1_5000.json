@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "go",
+  "os": "linux",
+  "compiler": "go",
+  "compilerVersion": "latest",
+  "test": "mandelbrot",
+  "code": "1.go",
+  "input": "5000",
+  "timeMS": 4489.5102,
+  "timeStdDevMS": 2.0773394940004035,
+  "memBytes": 7618560,
+  "cpuTimeMS": 4476.6666,
+  "cpuTimeUserMS": 4476.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "go version go1.17.8 linux/amd64",
+    "start": "2022-03-10T09:52:17.2630843+00:00",
+    "finished": "2022-03-10T09:52:18.1252033+00:00",
+    "durationMs": 862
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-03-10T10:17:53.2251142+00:00",
+    "finished": "2022-03-10T10:17:53.2914481+00:00",
+    "durationMs": 66
+  }
+}

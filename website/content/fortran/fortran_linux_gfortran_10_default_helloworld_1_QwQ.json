@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "fortran",
   "os": "linux",
   "compiler": "gfortran",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.f90",
   "input": "QwQ",
-  "timeMS": 3.3391,
-  "timeStdDevMS": 2.3495260571017296,
-  "memBytes": 1191936,
+  "timeMS": 3.1867,
+  "timeStdDevMS": 1.46417908979742,
+  "memBytes": 1155072,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1803400893",
+  "githubRunId": "1962355563",
   "buildLog": {
     "compilerVersion": "GNU Fortran (Ubuntu 10.3.0-1ubuntu1~20.04) 10.3.0\nCopyright (C) 2020 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
-    "start": "2022-02-07T15:09:37.3561815+00:00",
-    "finished": "2022-02-07T15:09:37.4713586+00:00",
-    "durationMs": 115
+    "start": "2022-03-10T09:51:43.3097507+00:00",
+    "finished": "2022-03-10T09:51:43.4216616+00:00",
+    "durationMs": 111
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:40:16.0743277+00:00",
-    "finished": "2022-02-07T15:40:16.0971886+00:00",
-    "durationMs": 22
+    "start": "2022-03-10T10:17:52.2212736+00:00",
+    "finished": "2022-03-10T10:17:52.226+00:00",
+    "durationMs": 4
   }
 }

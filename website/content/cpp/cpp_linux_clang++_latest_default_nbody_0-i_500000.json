@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "cpp",
+  "os": "linux",
+  "compiler": "clang++",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "0-i.cpp",
+  "input": "500000",
+  "timeMS": 28.598,
+  "timeStdDevMS": 0.838270380008746,
+  "memBytes": 1208320,
+  "cpuTimeMS": 20.0,
+  "cpuTimeUserMS": 20.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "Ubuntu clang version 14.0.0-++20220309053128+569b773323a3-1~exp1~20220309053228.98\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2022-03-10T09:52:24.2935904+00:00",
+    "finished": "2022-03-10T09:52:25.0246154+00:00",
+    "durationMs": 731
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-03-10T10:17:30.4066536+00:00",
+    "finished": "2022-03-10T10:17:30.4119144+00:00",
+    "durationMs": 5
+  }
+}

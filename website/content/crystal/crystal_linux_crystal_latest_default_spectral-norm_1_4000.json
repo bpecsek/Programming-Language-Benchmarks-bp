@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "crystal",
   "os": "linux",
   "compiler": "crystal",
@@ -7,23 +7,23 @@
   "test": "spectral-norm",
   "code": "1.cr",
   "input": "4000",
-  "timeMS": 1878.4171,
-  "timeStdDevMS": 0.8671760163502598,
-  "memBytes": 4751360,
-  "cpuTimeMS": 1860.0,
-  "cpuTimeUserMS": 1860.0,
+  "timeMS": 1519.1011,
+  "timeStdDevMS": 0.8266866213991847,
+  "memBytes": 4345856,
+  "cpuTimeMS": 1503.3333,
+  "cpuTimeUserMS": 1503.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1803400893",
+  "githubRunId": "1962355563",
   "buildLog": {
     "compilerVersion": "Crystal 1.3.2 [932f193ae] (2022-01-18)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2022-02-07T15:13:28.300397+00:00",
-    "finished": "2022-02-07T15:13:46.4676656+00:00",
-    "durationMs": 18167
+    "start": "2022-03-10T09:57:24.7462868+00:00",
+    "finished": "2022-03-10T09:57:41.9483195+00:00",
+    "durationMs": 17202
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:39:41.1595091+00:00",
-    "finished": "2022-02-07T15:39:41.1692031+00:00",
-    "durationMs": 9
+    "start": "2022-03-10T10:17:31.1080365+00:00",
+    "finished": "2022-03-10T10:17:31.1151036+00:00",
+    "durationMs": 7
   }
 }

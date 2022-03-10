@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "kotlin",
+  "os": "linux",
+  "compiler": "kotlin/jvm",
+  "compilerVersion": "17",
+  "test": "binarytrees",
+  "code": "1.kt",
+  "input": "18",
+  "timeMS": 721.6298,
+  "timeStdDevMS": 128.9766241809861,
+  "memBytes": 882728960,
+  "cpuTimeMS": 829.9999,
+  "cpuTimeUserMS": 713.3333,
+  "cpuTimeKernelMS": 116.6666,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-03-10T10:00:24.3623284+00:00",
+    "finished": "2022-03-10T10:01:04.6381501+00:00",
+    "durationMs": 40275
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
+    "start": "2022-03-10T10:19:06.7194178+00:00",
+    "finished": "2022-03-10T10:19:06.8799248+00:00",
+    "durationMs": 160
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "v",
   "os": "linux",
   "compiler": "v+gc+clang",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.v",
   "input": "QwQ",
-  "timeMS": 2.8662,
-  "timeStdDevMS": 0.7558052771713094,
-  "memBytes": 2363392,
+  "timeMS": 2.0396,
+  "timeStdDevMS": 0.6812237275667956,
+  "memBytes": 2355200,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1803400893",
+  "githubRunId": "1962355563",
   "buildLog": {
-    "compilerVersion": "V 0.2.4 4ef7d26",
-    "start": "2022-02-07T15:14:03.2310712+00:00",
-    "finished": "2022-02-07T15:14:07.5257218+00:00",
-    "durationMs": 4294
+    "compilerVersion": "V 0.2.4 4bea35b",
+    "start": "2022-03-10T09:56:05.7241114+00:00",
+    "finished": "2022-03-10T09:56:10.1130217+00:00",
+    "durationMs": 4388
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:43:11.8783459+00:00",
-    "finished": "2022-02-07T15:43:11.8847102+00:00",
-    "durationMs": 6
+    "start": "2022-03-10T10:20:13.0746546+00:00",
+    "finished": "2022-03-10T10:20:13.0799826+00:00",
+    "durationMs": 5
   }
 }

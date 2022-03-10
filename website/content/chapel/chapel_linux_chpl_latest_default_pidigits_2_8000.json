@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "chapel",
   "os": "linux",
   "compiler": "chpl",
@@ -7,23 +7,23 @@
   "test": "pidigits",
   "code": "2.chpl",
   "input": "8000",
-  "timeMS": 476.8047,
-  "timeStdDevMS": 2.2398348532871433,
-  "memBytes": 6307840,
-  "cpuTimeMS": 466.6666,
-  "cpuTimeUserMS": 466.6666,
+  "timeMS": 593.4307,
+  "timeStdDevMS": 6.995618860401113,
+  "memBytes": 18333696,
+  "cpuTimeMS": 580.0,
+  "cpuTimeUserMS": 580.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1803400893",
+  "githubRunId": "1962355563",
   "buildLog": {
     "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
-    "start": "2022-02-07T15:11:44.7185163+00:00",
-    "finished": "2022-02-07T15:11:57.1141242+00:00",
-    "durationMs": 12395
+    "start": "2022-03-10T09:53:39.9591054+00:00",
+    "finished": "2022-03-10T09:53:50.9652514+00:00",
+    "durationMs": 11006
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:39:39.8549585+00:00",
-    "finished": "2022-02-07T15:39:39.89668+00:00",
-    "durationMs": 41
+    "start": "2022-03-10T10:17:29.9006844+00:00",
+    "finished": "2022-03-10T10:17:29.9441449+00:00",
+    "durationMs": 43
   }
 }

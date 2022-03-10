@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "haxe",
+  "os": "linux",
+  "compiler": "haxe/cpp",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "3.hx",
+  "input": "5000000",
+  "timeMS": 1560.329,
+  "timeStdDevMS": 26.613886982801528,
+  "memBytes": 29319168,
+  "cpuTimeMS": 1843.3332,
+  "cpuTimeUserMS": 1806.6666,
+  "cpuTimeKernelMS": 36.6666,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "4.2.4",
+    "start": "2022-03-10T09:56:21.7830015+00:00",
+    "finished": "2022-03-10T09:56:54.3682191+00:00",
+    "durationMs": 32585
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-03-10T10:18:12.1344758+00:00",
+    "finished": "2022-03-10T10:18:12.1504657+00:00",
+    "durationMs": 15
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "crystal",
   "os": "linux",
   "compiler": "crystal",
@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.cr",
   "input": "4000",
-  "timeMS": 2046.5877,
-  "timeStdDevMS": 40.39561159350529,
-  "memBytes": 21516288,
-  "cpuTimeMS": 1973.3333,
-  "cpuTimeUserMS": 1920.0,
-  "cpuTimeKernelMS": 53.3333,
-  "githubRunId": "1803400893",
+  "timeMS": 1979.708,
+  "timeStdDevMS": 22.33374128003053,
+  "memBytes": 21282816,
+  "cpuTimeMS": 1963.3333,
+  "cpuTimeUserMS": 1933.3333,
+  "cpuTimeKernelMS": 30.0,
+  "githubRunId": "1962355563",
   "buildLog": {
     "compilerVersion": "Crystal 1.3.2 [932f193ae] (2022-01-18)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2022-02-07T15:09:46.3023878+00:00",
-    "finished": "2022-02-07T15:10:01.5758732+00:00",
-    "durationMs": 15273
+    "start": "2022-03-10T09:52:20.6283553+00:00",
+    "finished": "2022-03-10T09:52:35.4317702+00:00",
+    "durationMs": 14803
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:39:40.5883252+00:00",
-    "finished": "2022-02-07T15:39:40.7013681+00:00",
-    "durationMs": 113
+    "start": "2022-03-10T10:17:30.569232+00:00",
+    "finished": "2022-03-10T10:17:30.5942765+00:00",
+    "durationMs": 25
   }
 }

@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "ruby",
+  "os": "linux",
+  "compiler": "ruby",
+  "compilerVersion": "latest",
+  "test": "lru",
+  "code": "1.rb",
+  "input": "100 1000000",
+  "timeMS": 608.5165,
+  "timeStdDevMS": 11.365198844278948,
+  "memBytes": 31391744,
+  "cpuTimeMS": 599.9999,
+  "cpuTimeUserMS": 583.3333,
+  "cpuTimeKernelMS": 16.6666,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-03-10T09:53:44.0191325+00:00",
+    "finished": "2022-03-10T09:53:44.0210719+00:00",
+    "durationMs": 1
+  },
+  "testLog": {
+    "runtimeVersion": "ruby 3.1.1p18 (2022-02-18 revision 53f5fc4236) [x86_64-linux]",
+    "start": "2022-03-10T10:19:58.1056335+00:00",
+    "finished": "2022-03-10T10:19:58.3418569+00:00",
+    "durationMs": 236
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "dart",
   "os": "linux",
   "compiler": "dart",
@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "1.dart",
   "input": "2500000",
-  "timeMS": 471.4794,
-  "timeStdDevMS": 29.594000843470493,
-  "memBytes": 22720512,
-  "cpuTimeMS": 430.0,
-  "cpuTimeUserMS": 420.0,
-  "cpuTimeKernelMS": 10.0,
-  "githubRunId": "1803400893",
+  "timeMS": 549.5815,
+  "timeStdDevMS": 0.9535651017803116,
+  "memBytes": 20529152,
+  "cpuTimeMS": 533.3332,
+  "cpuTimeUserMS": 526.6666,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1962355563",
   "buildLog": {
-    "compilerVersion": "Dart SDK version: 2.16.0 (stable) (Mon Jan 31 15:28:59 2022 +0100) on \"linux_x64\"",
-    "start": "2022-02-07T15:09:54.9368336+00:00",
-    "finished": "2022-02-07T15:10:01.1407212+00:00",
-    "durationMs": 6203
+    "compilerVersion": "Dart SDK version: 2.16.1 (stable) (Tue Feb 8 12:02:33 2022 +0100) on \"linux_x64\"",
+    "start": "2022-03-10T09:52:38.0333521+00:00",
+    "finished": "2022-03-10T09:52:53.6199951+00:00",
+    "durationMs": 15586
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:40:11.161727+00:00",
-    "finished": "2022-02-07T15:40:11.1875272+00:00",
-    "durationMs": 25
+    "start": "2022-03-10T10:17:47.2658628+00:00",
+    "finished": "2022-03-10T10:17:47.2885517+00:00",
+    "durationMs": 22
   }
 }

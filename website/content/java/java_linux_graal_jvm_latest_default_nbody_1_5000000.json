@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "graal/jvm",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "1.java",
   "input": "5000000",
-  "timeMS": 974.9491,
-  "timeStdDevMS": 6.136767924839073,
-  "memBytes": 91385856,
-  "cpuTimeMS": 733.3332,
-  "cpuTimeUserMS": 706.6666,
-  "cpuTimeKernelMS": 26.6666,
-  "githubRunId": "1803400893",
+  "timeMS": 856.4265,
+  "timeStdDevMS": 6.552324974388913,
+  "memBytes": 87244800,
+  "cpuTimeMS": 606.6666,
+  "cpuTimeUserMS": 583.3333,
+  "cpuTimeKernelMS": 23.3333,
+  "githubRunId": "1962355563",
   "buildLog": {
     "compilerVersion": "javac 17.0.2",
-    "start": "2022-02-07T15:12:37.6715766+00:00",
-    "finished": "2022-02-07T15:12:39.5689029+00:00",
-    "durationMs": 1897
+    "start": "2022-03-10T09:54:06.8931737+00:00",
+    "finished": "2022-03-10T09:54:08.7396738+00:00",
+    "durationMs": 1846
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05, mixed mode, sharing)",
-    "start": "2022-02-07T15:40:59.2061662+00:00",
-    "finished": "2022-02-07T15:40:59.7656064+00:00",
-    "durationMs": 559
+    "start": "2022-03-10T10:18:41.0690561+00:00",
+    "finished": "2022-03-10T10:18:41.6222045+00:00",
+    "durationMs": 553
   }
 }

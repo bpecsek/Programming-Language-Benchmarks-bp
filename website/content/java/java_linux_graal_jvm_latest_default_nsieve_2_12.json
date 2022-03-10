@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "java",
+  "os": "linux",
+  "compiler": "graal/jvm",
+  "compilerVersion": "latest",
+  "test": "nsieve",
+  "code": "2.java",
+  "input": "12",
+  "timeMS": 1790.2091,
+  "timeStdDevMS": 27.01452278762922,
+  "memBytes": 130375680,
+  "cpuTimeMS": 3353.3333,
+  "cpuTimeUserMS": 3303.3333,
+  "cpuTimeKernelMS": 50.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-03-10T09:54:10.5262679+00:00",
+    "finished": "2022-03-10T09:54:12.4359508+00:00",
+    "durationMs": 1909
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05)\nOpenJDK 64-Bit Server VM GraalVM CE 22.0.0.2 (build 17.0.2+8-jvmci-22.0-b05, mixed mode, sharing)",
+    "start": "2022-03-10T10:18:42.0853288+00:00",
+    "finished": "2022-03-10T10:18:42.5626369+00:00",
+    "durationMs": 477
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "lua",
+  "os": "linux",
+  "compiler": "luajit",
+  "compilerVersion": "latest",
+  "test": "merkletrees",
+  "code": "1.lua",
+  "input": "17",
+  "timeMS": 0.0,
+  "timeStdDevMS": 0.0,
+  "memBytes": 0,
+  "cpuTimeMS": 0.0,
+  "cpuTimeUserMS": 0.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-03-10T09:52:17.2005969+00:00",
+    "finished": "2022-03-10T09:52:17.2029359+00:00",
+    "durationMs": 2
+  },
+  "testLog": {
+    "runtimeVersion": "LuaJIT 2.1.0-beta3 -- Copyright (C) 2005-2022 Mike Pall. https://luajit.org/",
+    "start": "2022-03-10T10:19:20.5926366+00:00",
+    "finished": "2022-03-10T10:19:20.6427139+00:00",
+    "durationMs": 50
+  }
+}

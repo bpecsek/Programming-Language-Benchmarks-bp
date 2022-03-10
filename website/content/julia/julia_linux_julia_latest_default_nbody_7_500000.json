@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "julia",
   "os": "linux",
   "compiler": "julia",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "7.jl",
   "input": "500000",
-  "timeMS": 867.2046,
-  "timeStdDevMS": 47.17127283760733,
-  "memBytes": 237174784,
-  "cpuTimeMS": 1039.9999,
-  "cpuTimeUserMS": 756.6666,
-  "cpuTimeKernelMS": 283.3333,
-  "githubRunId": "1803400893",
+  "timeMS": 441.7226,
+  "timeStdDevMS": 1.1230429154756492,
+  "memBytes": 235220992,
+  "cpuTimeMS": 520.0,
+  "cpuTimeUserMS": 380.0,
+  "cpuTimeKernelMS": 140.0,
+  "githubRunId": "1962355563",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-02-07T15:09:26.8647801+00:00",
-    "finished": "2022-02-07T15:09:28.5732821+00:00",
-    "durationMs": 1708
+    "start": "2022-03-10T09:51:45.5008702+00:00",
+    "finished": "2022-03-10T09:51:45.8780602+00:00",
+    "durationMs": 377
   },
   "testLog": {
-    "runtimeVersion": "julia version 1.7.1",
-    "start": "2022-02-07T15:41:24.0848092+00:00",
-    "finished": "2022-02-07T15:41:25.9017828+00:00",
-    "durationMs": 1816
+    "runtimeVersion": "julia version 1.7.2",
+    "start": "2022-03-10T10:19:01.4225797+00:00",
+    "finished": "2022-03-10T10:19:02.6192766+00:00",
+    "durationMs": 1196
   }
 }

@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "nim",
+  "os": "linux",
+  "compiler": "nim/clang",
+  "compilerVersion": "latest",
+  "test": "nsieve",
+  "code": "2.nim",
+  "input": "12",
+  "timeMS": 600.1951,
+  "timeStdDevMS": 3.849030467966332,
+  "memBytes": 7041024,
+  "cpuTimeMS": 586.6666,
+  "cpuTimeUserMS": 586.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1962355563",
+  "buildLog": {
+    "compilerVersion": "Nim Compiler Version 1.6.4 [Linux: amd64]\nCompiled at 2022-02-09\nCopyright (c) 2006-2021 by Andreas Rumpf\n\ngit hash: 7994556f3804c217035c44b453a3feec64405758\nactive boot switches: -d:release",
+    "start": "2022-03-10T09:54:50.6662102+00:00",
+    "finished": "2022-03-10T09:54:55.0733627+00:00",
+    "durationMs": 4407
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-03-10T10:19:21.7169977+00:00",
+    "finished": "2022-03-10T10:19:21.7225239+00:00",
+    "durationMs": 5
+  }
+}

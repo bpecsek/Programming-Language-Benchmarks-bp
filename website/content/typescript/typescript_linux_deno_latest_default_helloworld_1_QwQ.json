@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "typescript",
   "os": "linux",
   "compiler": "deno",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.ts",
   "input": "QwQ",
-  "timeMS": 31.5926,
-  "timeStdDevMS": 16.649070610787863,
-  "memBytes": 28946432,
-  "cpuTimeMS": 26.6666,
-  "cpuTimeUserMS": 23.3333,
-  "cpuTimeKernelMS": 3.3333,
-  "githubRunId": "1803400893",
+  "timeMS": 19.8225,
+  "timeStdDevMS": 0.7448662510813602,
+  "memBytes": 32530432,
+  "cpuTimeMS": 10.0,
+  "cpuTimeUserMS": 10.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1962355563",
   "buildLog": {
-    "compilerVersion": "deno 1.18.2 (release, x86_64-unknown-linux-gnu)\nv8 9.8.177.6\ntypescript 4.5.2",
-    "start": "2022-02-07T15:11:10.2006854+00:00",
-    "finished": "2022-02-07T15:11:11.0337241+00:00",
-    "durationMs": 833
+    "compilerVersion": "deno 1.19.2 (release, x86_64-unknown-linux-gnu)\nv8 9.9.115.7\ntypescript 4.5.2",
+    "start": "2022-03-10T09:54:05.2285472+00:00",
+    "finished": "2022-03-10T09:54:06.0407457+00:00",
+    "durationMs": 812
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-02-07T15:43:03.1572373+00:00",
-    "finished": "2022-02-07T15:43:03.3106273+00:00",
-    "durationMs": 153
+    "start": "2022-03-10T10:20:10.4193338+00:00",
+    "finished": "2022-03-10T10:20:10.5269417+00:00",
+    "durationMs": 107
   }
 }
